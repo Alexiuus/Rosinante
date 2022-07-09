@@ -1,0 +1,722 @@
+{
+    "Obras": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "Abismo": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "vuelo": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "principito": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "ensamblaje": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "sueños": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "profecia": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "santuario": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "encantos": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "ritmo": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "pertenencia": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "buscadores_de_la_luz": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "principito_verano": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "principito_primavera": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    },
+    "winter": {
+        "Viajero1": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Viajero2": {
+            "precio": "0 :candle: , 0 :heart:",
+            "capa": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "traje": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "mascara": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "accesorios":{
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            }
+        }
+    }
+}

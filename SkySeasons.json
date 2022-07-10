@@ -1,7 +1,126 @@
 {
-    "Obras": {
-        "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+    "Performance": {
+        "Perform_Guide": {
+            "totalValue": "94:candle: 4 :heart:",
+            "Cape": {
+                "file": ["seasons/Performance/Perform_Guide/Cape.png"],
+                "precio": "2 :hearts:"
+            },
+            "Perform_Mask": {
+                "file": ["seasons/Performance/Perform_Guide/Perform_Mask.png"],
+                "precio": "1 :heart:"
+            },
+            "Mask": {
+                "file": ["seasons/Performance/Perform_Guide/Mask.png"],
+                "precio": "43 :candle:"
+            },
+            "Prop":{
+                "file": ["seasons/Performance/Perform_Guide/Cape.png"],
+                "precio": "52 :candle:"
+            },
+            "Hair":{
+                "file": ["seasons/Performance/Perform_Guide/Hair.png"],
+                "precio": "1 :heart:"
+            }
+        },
+        "Frantic_Stagehand": {
+            "totalValue": "88:candle: 3 :heart:",
+            "Outfit": {
+                "file": ["seasons/Performance/Frantic_Stagehand/Outfit.png"],
+                "precio": "0 :candle:"
+            },
+            "Mask": {
+                "file": ["seasons/Performance/Frantic_Stagehand/Mask.png"],
+                "precio": "30 :candle:"
+            },
+            "emote": {
+                "file": ["seasons/Performance/Frantic_Stagehand/Hair.png"],
+                "precio": "0 :candle:"
+            },
+            "Music_Sheet":{
+                "file": ["seasons/Performance/Frantic_Stagehand/Hair.png"],
+                "precio": "22 :candle:"
+            },
+            "Hair":{
+                "file": ["seasons/Performance/Frantic_Stagehand/Hair.png"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Forgetful_Storyteller": {
+            "totalValue": "118:candle: 0 :heart:",
+            "Outfit": {
+                "file": ["seasons/Performance/Forgetful_Storyteller/Outfit.png"],
+                "precio": "0 :candle:"
+            },
+            "Cape": {
+                "file": ["seasons/Performance/Forgetful_Storyteller/Cape.png"],
+                "precio": "34 :candle:"
+            },
+            "Mask": {
+                "file": ["seasons/Performance/Forgetful_Storyteller/Mask.png"],
+                "precio": "0 :candle:"
+            },
+            "emote": {
+                "file": ["seasons/Performance/Forgetful_Storyteller/Outfit.png"],
+                "precio": "20 :candle:"
+            },
+            "Hair":{
+                "file": ["seasons/Performance/Forgetful_Storyteller/Hair.png"],
+                "precio": "16 :candle:"
+            }
+        },
+        "Mellow_Musician": {
+            "totalValue": "105:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/Performance/Mellow_Musician/Cape.png"],
+                "precio": "0 :candle:"
+            },
+            "Mask": {
+                "file": ["seasons/Performance/Mellow_Musician/Mask.png"],
+                "precio": "12 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Performance/Mellow_Musician/Hair.png"],
+                "precio": "18 :candle:"
+            },
+            "Instrument":{
+                "file": ["seasons/Performance/Mellow_Musician/Instrument.png"],
+                "precio": "0 :candle:"
+            },
+            "Hair":{
+                "file": ["seasons/Performance/Mellow_Musician/Hair.png"],
+                "precio": "36 :candle:"
+            }
+            
+        },
+        "Modest_Dancer": {
+            "totalValue": "81:candle: 0 :heart:",
+            "Outfit": {
+                "file": ["seasons/Performance/Modest_Dancer/Outfit.png"],
+                "precio": "30 :candle:"
+            },
+            "Mask": {
+                "file": ["seasons/Performance/Modest_Dancer/Mask.png"],
+                "precio": "14 :candle:"
+            },
+            "emote": {
+                "file": ["seasons/Performance/Modest_Dancer/Hair.png"],
+                "precio": "18 :candle:"
+            },
+            "Music_Sheet":{
+                "file": ["seasons/Performance/Modest_Dancer/Hair.png"],
+                "precio": "0 :candle:"
+            },
+            "Hair":{
+                "file": ["seasons/Performance/Modest_Dancer/Hair.png"],
+                "precio": "0 :candle:"
+            }
+            
+        }
+    },
+    "Abyss": {
+        "Abyss Guide": {
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -24,7 +143,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -47,105 +166,122 @@
             }
         }
     },
-    "Abismo": {
-        "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+    "Flight": {
+        "Flight_Guide": {
+            "totalValue": "0:candle: 0 :heart:",
+            "Outfit": {
+                "file": ["seasons/Flight/Flight_Guide/Outfit.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "mascara": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
+            "Hair_access": {
+                "file": ["seasons/Flight/Flight_Guide/Hair_access.png"],
                 "precio": "0 :candle:"
             }
         },
-        "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+        "Lively_Navigator": {
+            "totalValue": "101:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/Flight/Lively_Navigator/Cape.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
+            "Hair": {
+                "file": ["seasons/Flight/Lively_Navigator/Hair.png"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Hair_Access": {
+                "file": ["seasons/Flight/Lively_Navigator/Hair_access.png"],
+                "precio": "16 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Music_Sheet": {
+                "file": ["seasons/Flight/Lively_Navigator/Music_Sheet.png"],
+                "precio": "28 :candle:"
             },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Emote": {
+                "file": ["seasons/Flight/Lively_Navigator/emote.png"],
+                "precio": "18 :candle:"
+            },
+            "Trail_Spell":{
+                "file": ["seasons/Flight/Lively_Navigator/Trail_Spell.png"],
+                "precio": "24 :candle:"
             }
-        }
-    },
-    "vuelo": {
-        "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+        },
+        "Light_Whisperer": {
+            "totalValue": "90:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/Flight/Light_Whisperer/Cape.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
+            "Outfit": {
+                "file": ["seasons/Flight/Light_Whisperer/Outfit.png"],
+                "precio": "28 :candle:"
+            },
+            "Hair":{
+                "file": ["seasons/Flight/Light_Whisperer/Hair.png"],
+                "precio": "22 :candle:"
+            },
+            "Hair_access":{
+                "file": ["seasons/Flight/Light_Whisperer/Hair_access.png"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
+            "Trail_Spell":{
+                "file": ["seasons/Flight/Light_Whisperer/Trail_Spell.png"],
+                "precio": "26 :candle:"
+            }
+        },
+        "Tinkering_Chimesmith": {
+            "totalValue": "0:candle: 0 :heart:",
+            "Outfit": {
+                "file": ["seasons/Flight/Tinkering_Chimesmith/Outfit.png"],
                 "precio": "0 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
+            "Hair": {
+                "file": ["seasons/Flight/Tinkering_Chimesmith/Hair.png"],
+                "precio": "28 :candle:"
+            },
+            "Hair_access": {
+                "file": ["seasons/Flight/Tinkering_Chimesmith/Hair_access.png"],
+                "precio": "22 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Flight/Tinkering_Chimesmith/Emote.png"],
                 "precio": "0 :candle:"
             },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
+            "Instrument":{
+                "file": ["seasons/Flight/Tinkering_Chimesmith/Instrument.png"],
                 "precio": "0 :candle:"
             }
         },
-        "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+        "Talented_Builder": {
+            "totalValue": "101:candle: 0 :heart:",
+            "Outfit": {
+                "file": ["seasons/Flight/Talented_Builder/Outfit.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
+            "Hair": {
+                "file": ["seasons/Flight/Talented_Builder/Hair.png"],
+                "precio": "26 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Flight/Talented_Builder/Emote.png"],
+                "precio": "22 :candle:"
+            },
+            "Access":{
+                "file": ["seasons/Flight/Talented_Builder/Access.png"],
+                "precio": "16 :candle:"
+            },
+            "Music_Sheet":{
+                "file": ["seasons/Flight/Talented_Builder/Music_Sheet.png"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Trail_Spell":{
+                "file": ["seasons/Flight/Talented_Builder/Trail_Spell.png"],
+                "precio": "16 :candle:"
             }
         }
     },
     "principito": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -168,7 +304,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -193,7 +329,7 @@
     },
     "ensamblaje": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -216,7 +352,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -241,7 +377,7 @@
     },
     "sueños": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -264,7 +400,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -289,7 +425,7 @@
     },
     "profecia": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -312,7 +448,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -337,7 +473,7 @@
     },
     "santuario": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -360,7 +496,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -385,7 +521,7 @@
     },
     "encantos": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -408,7 +544,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -433,7 +569,7 @@
     },
     "ritmo": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -456,7 +592,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -481,7 +617,7 @@
     },
     "pertenencia": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -504,7 +640,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -529,7 +665,7 @@
     },
     "buscadores_de_la_luz": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -552,7 +688,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -577,7 +713,7 @@
     },
     "principito_verano": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -600,7 +736,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -625,7 +761,7 @@
     },
     "principito_primavera": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -648,7 +784,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -673,7 +809,7 @@
     },
     "winter": {
         "Viajero1": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
@@ -696,7 +832,7 @@
             }
         },
         "Viajero2": {
-            "precioTotal": "0 :candle: , 0 :heart:",
+            "totalValue": "0:candle: 0 :heart:",
             "capa": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"

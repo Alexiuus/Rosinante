@@ -4,7 +4,7 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_
 
 ///////////////////////////// CONSTANTS /////////////////////////////
 const TOKEN = "ODM2MDg4Mzg0Mzc1NjE5NTg0.G2rByX.jGvIwcFVH8idPHNrJ-Z0LgR06VLZAkZuo2wUlI";
-const PREFIX = "img";
+const PREFIX = "rs!";
 const json = require('./SkySeasons.json');
 
 
@@ -16,23 +16,24 @@ function seasonOptions(message, jsonMap, HexColor){
     .setColor(HexColor);
 
     jsonMap.forEach(
-        (sky, val) => embed.addField(val, Object.entries(sky).reduce(
+        (sky, val) => embed.addField(`:sparkles: ${val}`, Object.entries(sky).reduce(
             (prev, curr) =>{
-                return prev + curr[0] + " " + curr[1].precio + "\n";
-            }, "")
-        )
+                return prev + `[${curr[0]}]\n:coin:: (${curr[1].totalValue})\n`;
+            }, "") + "\n"
+        , true)
     );
 
     message.channel.send({ embeds: [embed] });
 }
 function accFiles(sky, message, acc, HexColor){
 
-    const embed = new MessageEmbed().setTitle(sky[0] + "-" + sky[1] + ": " + sky[2])
+    const embed = new MessageEmbed().setTitle(`:sparkles: ${sky[0]}-:stars:${sky[1]}: ${sky[2]}`)
+    .setAuthor(message.author.username, message.author.displayAvatarURL())
     .setColor(HexColor)
-    .addField("precio", acc.precio)
-    .setImage('attachment://' + acc.file);;
+    .addField("Value", acc.precio)
+    .setImage('attachment://' + acc.file);
 
-    const msg = { embeds: [embed], files: ['./' + acc.file] };
+    const msg = { embeds: [embed], files: ["./" + acc.file] };
 
     message.channel.send(msg);
 }
@@ -40,14 +41,15 @@ function accFiles(sky, message, acc, HexColor){
 function travelsAccess(sky, message, access, HexColor){
 
     const accMap = new Map(Object.entries(access));
-    const embed = new MessageEmbed().setTitle(sky[0] + ": " + sky[1])
+    const embed = new MessageEmbed().setTitle(`:sparkles: ${sky[0]}: :stars:${sky[1]}`)
+    .setAuthor(message.author.username, message.author.displayAvatarURL())
     .setColor(HexColor);
 
     if(sky.length <= 2 || !accMap.has(sky[2])){
         accMap.forEach(
             (values, accesorio) => {
-                if (accesorio !== "precio")
-                    embed.addField(accesorio, values.precio);
+                if (accesorio !== "totalValue")
+                    embed.addField(`\` ${accesorio} \``, `${values.precio}\n`);
             }  
         );
     
@@ -61,17 +63,18 @@ function travelsAccess(sky, message, access, HexColor){
 function seasontravels(sky, message, jsonMap, HexColor){
 
     const travelMap = new Map(Object.entries(jsonMap.get(sky[0])));
-    const embed = new MessageEmbed().setTitle(sky[0])
+    const embed = new MessageEmbed().setTitle(`:sparkles: ${sky[0]}`)
+    .setAuthor(message.author.username, message.author.displayAvatarURL())
     .setColor(HexColor);
 
     if (sky.length <= 1 || !travelMap.has(sky[1])){
         travelMap.forEach(
-            (values, viajero) => embed.addField(viajero, Object.entries(values).reduce(
+            (values, viajero) => embed.addField(`:stars:${viajero}`, Object.entries(values).reduce(
                 (prev, curr) =>{
-                    const p = (curr[0] !== "precioTotal")? curr[1].precio : curr[1];               
-                    return prev + curr[0] + ": " + p + "\n";
+                    const p = (curr[0] !== "totalValue")? `\`${curr[0]}\`: ${curr[1].precio}` : `:coin:: ${curr[1]} \n`;               
+                    return prev + p + "\n";
                 }, "")
-            )
+            , true)
         );
 
         message.channel.send({ embeds: [embed] });
@@ -90,6 +93,19 @@ function rolColor(message){
     return rol.hexColor;
 }
 
+function help(message, HexColor){
+    const embed = new MessageEmbed().setTitle(`:white_check_mark: Rosinante Guide :blush:`)
+    .setAuthor(message.author.username, message.author.displayAvatarURL())
+    .setColor(HexColor)
+    .addField("How to use Rosinante:grey_question:", 
+            ":one: If you use \`rs!\` Rosinante will respond with \`The Seasons Of Sky\`. \n\n" +
+            ":two: If you use \`rs! <season>\` (<season> is the season you want to watch) Rosinante will respond with \`the travelers of the chosen season.\` \n\n" +
+            ":three: If you use \`rs! <season>/<traveler>\` (<traveler> is the traveler you want to watch) Rosinante will respond with your accessories. \n\n" +
+            ":four: If you use \`rs! <season>/<traveler>/<accessory>\` (<accessory> is the accessory you want to watch) Rosinante will respond with her photos.")
+    .setImage('attachment://' + "tenor.gif");
+    message.channel.send({ embeds: [embed], files: ["./tenor.gif"] });
+}
+
 ///////////////////////////// BOT REAL /////////////////////////////
 client.on("ready", () => {
     console.log("[Activo] Bot a iniciado como", client.user.tag);
@@ -101,8 +117,10 @@ client.on("message", message => {
         const msg = message.content.split(" ");
         const sSon = ((msg.length <= 1)? "" : msg[1]).split("/");
         const HexColor = rolColor(message);
-        
-        if (msg[0] === PREFIX){
+        if (msg[0] === PREFIX && sSon[0] === "--help"){
+            console.log
+            help(message, HexColor);
+        } else if (msg[0] === PREFIX){
             (!jsonMap.has(sSon[0]))? seasonOptions(message, jsonMap, HexColor) : seasontravels(sSon, message, jsonMap, HexColor);
         }
     }

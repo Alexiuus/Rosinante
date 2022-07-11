@@ -89,8 +89,7 @@ function rolColor(message){
     const rol = roles.find(r => (roles.get(r.id).members.filter(
         (k) => k.user.username === message.author.username 
     ).size !== 0) && r.name.includes("Cape"));
-    
-    return rol.hexColor;
+    return (rol !== undefined)? rol.hexColor: "#000000";
 }
 
 function help(message, HexColor){

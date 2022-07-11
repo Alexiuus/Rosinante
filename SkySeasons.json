@@ -429,51 +429,163 @@
             }
         }
     },
-    "ensamblaje": {
-        "Viajero1": {
-            "totalValue": "0:candle: 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+    "Assembly": {
+        "Assembly_Guide": {
+            "totalValue": "36:candle: 6 :heart:",
+            "Cape": {
+                "file": ["seasons/Assembly/Assembly_Guide/Cape.png"],
+                "precio": "2 :heart:"
+            },
+            "Mask": {
+                "file": ["seasons/Assembly/Assembly_Guide/Mask.png"],
+                "precio": "1 :heart:"
+            },
+            "Hair": {
+                "file": ["seasons/Assembly/Assembly_Guide/Hair.png"],
+                "precio": "2 :heart:"
+            },
+            "instrument": {
+                "file": ["seasons/Assembly/Assembly_Guide/instrument.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
+            "access1":{
+                "file": ["seasons/Assembly/Assembly_Guide/access1.png"],
+                "precio": "5 :candle:"
+            },
+            "access2":{
+                "file": ["seasons/Assembly/Assembly_Guide/access2.png"],
+                "precio": "8 :candle:"
+            },
+            "access3":{
+                "file": ["seasons/Assembly/Assembly_Guide/access3.png"],
+                "precio": "12 :heart:"
+            },
+            "access4":{
+                "file": ["seasons/Assembly/Assembly_Guide/access4.png"],
+                "precio": "30 :candle:"
+            },
+            "access5":{
+                "file": ["seasons/Assembly/Assembly_Guide/access5.png"],
+                "precio": "24 :heart:"
+            }
+            
+        },
+        "Baffled_Botanist": {
+            "totalValue": "52:candle: 0 :heart:",
+            "Mask": {
+                "file": ["seasons/Assembly/Baffled_Botanist/Mask.png"],
+                "precio": "14 :candle:"
+            },
+            "Hair": {
+                "file": ["seasons/Assembly/Baffled_Botanist/Hair.png"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Emote": {
+                "file": ["seasons/Assembly/Baffled_Botanist/Emote.png"],
+                "precio": "12 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
+            "Access":{
+                "file": ["seasons/Assembly/Baffled_Botanist/Access.png"],
                 "precio": "0 :candle:"
             }
         },
-        "Viajero2": {
-            "totalValue": "0:candle: 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+        "Scolding_Student": {
+            "totalValue": "64:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/Assembly/Scolding_Student/Cape.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
+            "Mask": {
+                "file": ["seasons/Assembly/Scolding_Student/Mask.png"],
+                "precio": "10 :candle:"
+            },
+            "Hair": {
+                "file": ["seasons/Assembly/Scolding_Student/Hair.png"],
+                "precio": "18 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Assembly/Scolding_Student/Emote.png"],
+                "precio": "16 :candle:"
+            }
+        },
+        "Scaredy_Cadet": {
+            "totalValue": "50:candle: 0 :heart:",
+            "Mask": {
+                "file": ["seasons/Assembly/Scaredy_Cadet/Mask.png"],
+                "precio": "5 :candle:"
+            },
+            "Hair": {
+                "file": ["seasons/Assembly/Scaredy_Cadet/Hair.png"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
+            "Emote": {
+                "file": ["seasons/Assembly/Scaredy_Cadet/Emote.png"],
+                "precio": "10 :candle:"
+            },
+            "Access":{
+                "file": ["seasons/Assembly/Scaredy_Cadet/Access.png"],
+                "precio": "20 :candle:"
+            },
+            "Music_Sheet":{
+                "file": ["seasons/Assembly/Scaredy_Cadet/Music_Sheet.png"],
+                "precio": "15 :candle:"
+            }
+        },
+        "Marching_Adventurer": {
+            "totalValue": "64:candle: 0 :heart:",
+            "Mask": {
+                "file": ["seasons/Assembly/Marching_Adventurer/Mask.png"],
                 "precio": "0 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
+            "Hair": {
+                "file": ["seasons/Assembly/Marching_Adventurer/Hair.png"],
+                "precio": "12 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Assembly/Marching_Adventurer/Emote.png"],
+                "precio": "14 :candle:"
+            },
+            "Access":{
+                "file": ["seasons/Assembly/Marching_Adventurer/Access.png"],
+                "precio": "22 :candle:"
+            }
+        },
+        "Chuckling_Scout": {
+            "totalValue": "63:candle: 0 :heart:",
+            "Outfit": {
+                "file": ["seasons/Assembly/Chuckling_Scout/Outfit.png"],
                 "precio": "0 :candle:"
             },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
+            "Mask": {
+                "file": ["seasons/Assembly/Chuckling_Scout/Mask.png"],
+                "precio": "12 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Assembly/Chuckling_Scout/Emote.png"],
+                "precio": "14 :candle:"
+            },
+            "Access":{
+                "file": ["seasons/Assembly/Chuckling_Scout/Access.png"],
                 "precio": "0 :candle:"
+            }
+        },
+        "Daydream_Forester": {
+            "totalValue": "50:candle: 0 :heart:",
+            "Mask": {
+                "file": ["seasons/Assembly/Daydream_Forester/Mask.png"],
+                "precio": "5 :candle:"
+            },
+            "Hair": {
+                "file": ["seasons/Assembly/Daydream_Forester/Hair.png"],
+                "precio": "5 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Assembly/Daydream_Forester/Emote.png"],
+                "precio": "10 :candle:"
+            },
+            "Music_Sheet":{
+                "file": ["seasons/Assembly/Daydream_Forester/Music_Sheet.png"],
+                "precio": "15 :candle:"
             }
         }
     },

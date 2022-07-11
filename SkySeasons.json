@@ -219,8 +219,8 @@
                 "file": ["seasons/Flight/Flight_Guide/Outfit.png"],
                 "precio": "0 :candle:"
             },
-            "Hair_access": {
-                "file": ["seasons/Flight/Flight_Guide/Hair_access.png"],
+            "Hair_Access": {
+                "file": ["seasons/Flight/Flight_Guide/Hair_Access.png"],
                 "precio": "0 :candle:"
             }
         },
@@ -235,7 +235,7 @@
                 "precio": "0 :candle:"
             },
             "Hair_Access": {
-                "file": ["seasons/Flight/Lively_Navigator/Hair_access.png"],
+                "file": ["seasons/Flight/Lively_Navigator/Hair_Access.png"],
                 "precio": "16 :candle:"
             },
             "Music_Sheet": {
@@ -265,8 +265,8 @@
                 "file": ["seasons/Flight/Light_Whisperer/Hair.png"],
                 "precio": "22 :candle:"
             },
-            "Hair_access":{
-                "file": ["seasons/Flight/Light_Whisperer/Hair_access.png"],
+            "Hair_Access":{
+                "file": ["seasons/Flight/Light_Whisperer/Hair_Access.png"],
                 "precio": "0 :candle:"
             },
             "Trail_Spell":{
@@ -284,8 +284,8 @@
                 "file": ["seasons/Flight/Tinkering_Chimesmith/Hair.png"],
                 "precio": "28 :candle:"
             },
-            "Hair_access": {
-                "file": ["seasons/Flight/Tinkering_Chimesmith/Hair_access.png"],
+            "Hair_Access": {
+                "file": ["seasons/Flight/Tinkering_Chimesmith/Hair_Access.png"],
                 "precio": "22 :candle:"
             },
             "Emote": {
@@ -448,24 +448,24 @@
                 "file": ["seasons/Assembly/Assembly_Guide/instrument.png"],
                 "precio": "0 :candle:"
             },
-            "access1":{
-                "file": ["seasons/Assembly/Assembly_Guide/access1.png"],
+            "Access1":{
+                "file": ["seasons/Assembly/Assembly_Guide/Access1.png"],
                 "precio": "5 :candle:"
             },
-            "access2":{
-                "file": ["seasons/Assembly/Assembly_Guide/access2.png"],
+            "Access2":{
+                "file": ["seasons/Assembly/Assembly_Guide/Access2.png"],
                 "precio": "8 :candle:"
             },
-            "access3":{
-                "file": ["seasons/Assembly/Assembly_Guide/access3.png"],
+            "Access3":{
+                "file": ["seasons/Assembly/Assembly_Guide/Access3.png"],
                 "precio": "12 :heart:"
             },
-            "access4":{
-                "file": ["seasons/Assembly/Assembly_Guide/access4.png"],
+            "Access4":{
+                "file": ["seasons/Assembly/Assembly_Guide/Access4.png"],
                 "precio": "30 :candle:"
             },
-            "access5":{
-                "file": ["seasons/Assembly/Assembly_Guide/access5.png"],
+            "Access5":{
+                "file": ["seasons/Assembly/Assembly_Guide/Access5.png"],
                 "precio": "24 :heart:"
             }
             

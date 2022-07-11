@@ -7,21 +7,17 @@ const TOKEN = "ODM2MDg4Mzg0Mzc1NjE5NTg0.G2rByX.jGvIwcFVH8idPHNrJ-Z0LgR06VLZAkZuo
 const PREFIX = "rs!";
 const json = require('./SkySeasons.json');
 
-
 ///////////////////////////// FUNCTIONS /////////////////////////////
 function seasonOptions(message, jsonMap, HexColor){
     
-    const embed = new MessageEmbed().setTitle("Temporadas de SKY")
+    const embed = new MessageEmbed().setTitle("☆｡Sky Seasons｡☆")
     .setAuthor(message.author.username, message.author.displayAvatarURL())
     .setColor(HexColor);
 
     jsonMap.forEach(
-        (sky, val) => embed.addField(`:sparkles: ${val}`, Object.entries(sky).reduce(
-            (prev, curr) =>{
-                return prev + `[${curr[0]}]\n:coin:: (${curr[1].totalValue})\n`;
-            }, "") + "\n"
-        , true)
-    );
+    (sky, val) => embed.addField(`:sparkles: ${val}`, 
+                            `:stars:\`Travellers: ${Object.entries(sky).length}\``, true)
+);
 
     message.channel.send({ embeds: [embed] });
 }
@@ -45,14 +41,13 @@ function travelsAccess(sky, message, access, HexColor){
     .setAuthor(message.author.username, message.author.displayAvatarURL())
     .setColor(HexColor);
 
-    if(sky.length <= 2 || !accMap.has(sky[2])){
-        accMap.forEach(
-            (values, accesorio) => {
-                if (accesorio !== "totalValue")
-                    embed.addField(`\` ${accesorio} \``, `${values.precio}\n`);
-            }  
+    if(sky.length <= 2 || !accMap.has(sky[2])){   
+        embed.addField(`:stars:${sky[1]}`, `\`\`\`\n${Object.entries(access).reduce(
+            (prev, curr) => {
+                return prev + ((curr[0] !== "totalValue")? curr[0] + "\n" : "");
+            }, "")}\`\`\``
         );
-    
+
         message.channel.send({ embeds: [embed] });
     }else{
         accFiles(sky, message, accMap.get(sky[2]), HexColor);
@@ -69,14 +64,9 @@ function seasontravels(sky, message, jsonMap, HexColor){
 
     if (sky.length <= 1 || !travelMap.has(sky[1])){
         travelMap.forEach(
-            (values, viajero) => embed.addField(`:stars:${viajero}`, Object.entries(values).reduce(
-                (prev, curr) =>{
-                    const p = (curr[0] !== "totalValue")? `\`${curr[0]}\`: ${curr[1].precio}` : `:coin:: ${curr[1]} \n`;               
-                    return prev + p + "\n";
-                }, "")
-            , true)
+            (values, viajero) => embed.addField(`:stars:${viajero}`, 
+                                `:coin:: (${Object.entries(values)[0][1]})`, true)
         );
-
         message.channel.send({ embeds: [embed] });
     }else{
         travelsAccess(sky, message, travelMap.get(sky[1]), HexColor);

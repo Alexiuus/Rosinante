@@ -137,19 +137,19 @@
         "Anxious_Angler": {
             "totalValue": "70:candle: 0 :heart:",
             "Cape": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Anxious_Angler/Cape.png"],
                 "precio": "0 :candle:"
             },
             "Outfit": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Anxious_Angler/Outfit.png"],
                 "precio": "38 :candle:"
             },
             "Mask": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Anxious_Angler/Mask.png"],
                 "precio": "14 :candle:"
             },
             "Emote": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Anxious_Angler/Emote.png"],
                 "precio": "18 :candle:"
             }
         }
@@ -157,57 +157,57 @@
         "Ceasing_Commodore": {
             "totalValue": "53:candle: 0 :heart:",
             "Cape": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Ceasing_Commodore/Cape.png"],
                 "precio": "20 :candle:"
             },
             "Mask": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Ceasing_Commodore/Mask.png"],
                 "precio": "8 :candle:"
             },
             "Hair": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Ceasing_Commodore/Hair.png"],
                 "precio": "0 :candle:"
             },
             "Emote": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Ceasing_Commodore/Emote.png"],
                 "precio": "16 :candle:"
             }
         },
         "Bumbling_Boatswain": {
-            "totalValue": "0:candle: 0 :heart:",
+            "totalValue": "83:candle: 0 :heart:",
             "Cape": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Bumbling_Boatswain/Cape.png"],
                 "precio": "0 :candle:"
             },
             "Mask": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Bumbling_Boatswain/Mask.png"],
                 "precio": "0 :candle:"
             },
             "Hair": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+                "file": ["seasons/Abyss/Bumbling_Boatswain/Hair.png"],
+                "precio": "24 :candle:"
             },
             "Emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+                "file": ["seasons/Abyss/Bumbling_Boatswain/Emote.png"],
+                "precio": "16 :candle:"
             }
         },
         "Cackling_Cannoneer": {
             "totalValue": "111:candle: 0 :heart:",
             "Cape": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Cackling_Cannoneer/Cape.png"],
                 "precio": "20 :candle:"
             },
             "Mask": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Cackling_Cannoneer/Mask.png"],
                 "precio": "16 :candle:"
             },
             "Emote": {
-                "file": ["prueba1.jpg"],
+                "file": ["seasons/Abyss/Cackling_Cannoneer/Emote.png"],
                 "precio": "20 :candle:"
             },
-            "Musci_Sheet":{
-                "file": ["prueba1.jpg"],
+            "Music_Sheet":{
+                "file": ["seasons/Abyss/Abyss_GuCackling_Cannoneeride/Music_Sheet.png"],
                 "precio": "0 :candle:"
             }
         }
@@ -325,50 +325,106 @@
             }
         }
     },
-    "principito": {
-        "Viajero1": {
-            "totalValue": "0:candle: 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+    "The_Little_Prince": {
+        "Beckoning_Ruler": {
+            "totalValue": "60:candle: 0 :heart:",
+            "Mask": {
+                "file": ["seasons/The_Little_Prince/Beckoning_Ruler/Mask.png"],
+                "precio": "26 :candle:"
+            },
+            "Hair": {
+                "file": ["seasons/The_Little_Prince/Beckoning_Ruler/Hair.png"],
+                "precio": "26 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/The_Little_Prince/Beckoning_Ruler/Emote.png"],
+                "precio": "26 :candle:"
+            }
+        },
+        "Gloating_Narcissist": {
+            "totalValue": "80:candle: 0 :heart:",
+            "Outfit": {
+                "file": ["seasons/The_Little_Prince/Gloating_Narcissist/Outfit.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
+            "Hair": {
+                "file": ["seasons/The_Little_Prince/Gloating_Narcissist/Hair.png"],
+                "precio": "26 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/The_Little_Prince/Gloating_Narcissist/Emote.png"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
+            "Music_Sheet":{
+                "file": ["seasons/The_Little_Prince/Gloating_Narcissist/Music_Sheet.png"],
                 "precio": "0 :candle:"
             }
         },
-        "Viajero2": {
-            "totalValue": "0:candle: 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
+        "Stretching_Lamplighter": {
+            "totalValue": "48:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/The_Little_Prince/Stretching_Lamplighter/Cape.png"],
+                "precio": "22 :candle:"
+            },
+            "Hair": {
+                "file": ["seasons/The_Little_Prince/Stretching_Lamplighter/Hair.png"],
                 "precio": "0 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
+            "Emote": {
+                "file": ["seasons/The_Little_Prince/Stretching_Lamplighter/Emote.png"],
+                "precio": "16 :candle:"
+            }
+        },
+        "Slouching_Soldier": {
+            "totalValue": "22:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/The_Little_Prince/Slouching_Soldier/Cape.png"],
+                "precio": "22 :candle:"
+            },
+            "Hair": {
+                "file": ["seasons/The_Little_Prince/Slouching_Soldier/Hair.png"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
+            "Emote": {
+                "file": ["seasons/The_Little_Prince/Slouching_Soldier/Emote.png"],
+                "precio": "14 :candle:"
+            },
+            "Music_Sheet":{
+                "file": ["seasons/The_Little_Prince/Slouching_Soldier/Music_Sheet.png"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Sneezing_Geographer": {
+            "totalValue": "54:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/The_Little_Prince/Sneezing_Geographer/Cape.png"],
                 "precio": "0 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
+            "Hair": {
+                "file": ["seasons/The_Little_Prince/Sneezing_Geographer/Hair.png"],
+                "precio": "14 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/The_Little_Prince/Sneezing_Geographer/Emote.png"],
+                "precio": "0 :candle:"
+            }
+        },
+        "Star_Collector": {
+            "totalValue": "72:candle: 0 :heart:",
+            "Cape": {
+                "file": ["seasons/The_Little_Prince/Star_Collector/Cape.png"],
                 "precio": "0 :candle:"
             },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
+            "Access": {
+                "file": ["seasons/The_Little_Prince/Star_Collector/Access.png"],
+                "precio": "24 :candle:"
+            },
+            "Hair_Access": {
+                "file": ["seasons/The_Little_Prince/Star_Collector/Hair_Access.png"],
+                "precio": "12 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/The_Little_Prince/Star_Collector/Emote.png"],
                 "precio": "0 :candle:"
             }
         }

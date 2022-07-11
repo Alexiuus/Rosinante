@@ -119,48 +119,94 @@
         }
     },
     "Abyss": {
-        "Abyss Guide": {
+        "Abyss_Guide": {
+            "totalValue": "0:candle: 4 :heart:",
+            "Cape": {
+                "file": ["seasons/Abyss/Abyss_Guide/Cape.png"],
+                "precio": "2 :heart:"
+            },
+            "Mask": {
+                "file": ["seasons/Abyss/Abyss_Guide/Mask.png"],
+                "precio": "1 :heart:"
+            },
+            "Hair_Access":{
+                "file": ["seasons/Abyss/Abyss_Guide/Hair_Access.png"],
+                "precio": "1 :heart:"
+            }
+        },
+        "Anxious_Angler": {
+            "totalValue": "70:candle: 0 :heart:",
+            "Cape": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "Outfit": {
+                "file": ["prueba1.jpg"],
+                "precio": "38 :candle:"
+            },
+            "Mask": {
+                "file": ["prueba1.jpg"],
+                "precio": "14 :candle:"
+            },
+            "Emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "18 :candle:"
+            }
+        }
+        ,
+        "Ceasing_Commodore": {
+            "totalValue": "53:candle: 0 :heart:",
+            "Cape": {
+                "file": ["prueba1.jpg"],
+                "precio": "20 :candle:"
+            },
+            "Mask": {
+                "file": ["prueba1.jpg"],
+                "precio": "8 :candle:"
+            },
+            "Hair": {
+                "file": ["prueba1.jpg"],
+                "precio": "0 :candle:"
+            },
+            "Emote": {
+                "file": ["prueba1.jpg"],
+                "precio": "16 :candle:"
+            }
+        },
+        "Bumbling_Boatswain": {
             "totalValue": "0:candle: 0 :heart:",
-            "capa": {
+            "Cape": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
             },
-            "traje": {
+            "Mask": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
             },
-            "mascara": {
+            "Hair": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "accesorios":{
+            "Emote": {
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
             }
         },
-        "Viajero2": {
-            "totalValue": "0:candle: 0 :heart:",
-            "capa": {
+        "Cackling_Cannoneer": {
+            "totalValue": "111:candle: 0 :heart:",
+            "Cape": {
                 "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+                "precio": "20 :candle:"
             },
-            "traje": {
+            "Mask": {
                 "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+                "precio": "16 :candle:"
             },
-            "mascara": {
+            "Emote": {
                 "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+                "precio": "20 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "accesorios":{
+            "Musci_Sheet":{
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
             }
@@ -711,51 +757,80 @@
             }
         }
     },
-    "principito_verano": {
-        "Viajero1": {
-            "totalValue": "0:candle: 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+    "Gratitude": {
+        "Sassy_Drifter": {
+            "totalValue": "87:candle: 0 :heart:",
+            "Mask":{
+                "file": ["seasons/Gratitude/Sassy_Drifter/Mask.png"],
+                "precio": "48 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Hair":{
+                "file": ["seasons/Gratitude/Sassy_Drifter/Hair.png"],
+                "precio": "26 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
-            },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
+            "Emote": {
+                "file": ["seasons/Gratitude/Sassy_Drifter/Emote.png"],
                 "precio": "0 :candle:"
             }
         },
-        "Viajero2": {
-            "totalValue": "0:candle: 0 :heart:",
-            "capa": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+        "Stretching_Guru": {
+            "totalValue": "104:candle: 13 :heart:",
+            "Cape":{
+                "file": ["seasons/Gratitude/Stretching_Guru/Mask.png"],
+                "precio": "65 :candle:"
             },
-            "traje": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Hair":{
+                "file": ["seasons/Gratitude/Stretching_Guru/Hair.png"],
+                "precio": "26 :candle:"
             },
-            "mascara": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Emote": {
+                "file": ["seasons/Gratitude/Stretching_Guru/Emote.png"],
+                "precio": "13 :heart:"
+            }
+        },
+        "Leaping_Dancer": {
+            "totalValue": "104:candle: 13 :heart:",
+            "Mask":{
+                "file": ["seasons/Gratitude/Leaping_Dancer/Mask.png"],
+                "precio": "54 :candle:"
             },
-            "emote": {
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Emote": {
+                "file": ["seasons/Gratitude/Leaping_Dancer/Emote.png"],
+                "precio": "13 :heart:"
             },
-            "accesorios":{
-                "file": ["prueba1.jpg"],
-                "precio": "0 :candle:"
+            "Instrument": {
+                "file": ["seasons/Gratitude/Leaping_Dancer/Instrument.png"],
+                "precio": "40 :candle:"
+            }
+        },
+        "Golden_Wasteland": {
+            "totalValue": "104:candle: 13 :heart:",
+            "Hair":{
+                "file": ["seasons/Gratitude/Golden_Wasteland/Mask.png"],
+                "precio": "3 :heart:"
+            },
+            "Emote": {
+                "file": ["seasons/Gratitude/Golden_Wasteland/Emote.png"],
+                "precio": "14 :candle:"
+            },
+            "Instrument": {
+                "file": ["seasons/Gratitude/Golden_Wasteland/Instrument.png"],
+                "precio": "5 :heart:"
+            }
+        },
+        "Greeting_Shaman": {
+            "totalValue": "112:candle: 13 :heart:",
+            "Mask":{
+                "file": ["seasons/Gratitude/Greeting_Shaman/Mask.png"],
+                "precio": "54 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Gratitude/Greeting_Shaman/Emote.png"],
+                "precio": "13 :heart:"
+            },
+            "Instrument": {
+                "file": ["seasons/Gratitude/Greeting_Shaman/Instrument.png"],
+                "precio": "45 :candle:"
             }
         }
     },
@@ -852,6 +927,53 @@
             "accesorios":{
                 "file": ["prueba1.jpg"],
                 "precio": "0 :candle:"
+            }
+        }
+    },
+    "Basics":{
+        "Pointing_Candlemaker": {
+            "totalValue": "14:candle: 4 :heart:",
+            "Outfit": {
+                "file": ["seasons/Basics/Pointing_Candlemaker/Outfit.png"],
+                "precio": "4 :heart:"
+            },
+            "Hair": {
+                "file": ["seasons/Basics/Pointing_Candlemaker/Hair.png"],
+                "precio": "0 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Basics/Pointing_Candlemaker/Emote.png"],
+                "precio": "5 :candle:"
+            }
+        },
+        "Ushering_Stargazer": {
+            "totalValue": "14:candle: 4 :heart:",
+            "Outfit": {
+                "file": ["seasons/Basics/Ushering_Stargazer/Outfit.png"],
+                "precio": "4 :heart:"
+            },
+            "Hair":{
+                "file": ["seasons/Basics/Ushering_Stargazer/Hair.png"],
+                "precio": "0 :candle:"
+            },
+            "Emote": {
+                "file": ["seasons/Basics/Ushering_Stargazer/Emote.png"],
+                "precio": "5 :candle:"
+            }
+        },
+        "Rejecting_Voyager": {
+            "totalValue": "14:candle: 4 :heart:",
+            "Mask":{
+                "file": ["seasons/Basics/Rejecting_Voyager/Mask.png"],
+                "precio": "3 :heart:"
+            },
+            "Hair":{
+                "file": ["seasons/Basics/Rejecting_Voyager/Hair.png"],
+                "precio": "1 :heart:"
+            },
+            "Emote": {
+                "file": ["seasons/Basics/Rejecting_Voyager/Emote.png"],
+                "precio": "5 :candle:"
             }
         }
     }

@@ -1,4 +1,4 @@
-const { Client, Intents, MessageEmbed, MessageAttachment } = require('discord.js');
+const { Client, Intents, MessageEmbed } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
 
@@ -6,6 +6,13 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_
 const TOKEN = "ODM2MDg4Mzg0Mzc1NjE5NTg0.G2rByX.jGvIwcFVH8idPHNrJ-Z0LgR06VLZAkZuo2wUlI";
 const PREFIX = "rs!";
 const json = require('./SkySeasons.json');
+const GIF_HELP = "img/tenor.gif";
+const COMMENT = ":one: If you use \`rs!\` Rosinante will respond with \`The Seasons Of \
+Sky\`. \n\n :two: If you use \`rs! <season>\` (<season> is the season you want to watch) Rosinante \
+will respond with \`the travelers of the chosen season.\` \n\n :three: If you use \`rs! \
+<season>/<traveler>\` (<traveler> is the traveler you want to watch) Rosinante will \
+respond with your accessories. \n\n :four: If you use \`rs! <season>/<traveler>/<accessory>\` \
+(<accessory> is the accessory you want to watch) Rosinante will respond with her photos.";
 
 ///////////////////////////// FUNCTIONS /////////////////////////////
 function seasonOptions(message, jsonMap, HexColor){
@@ -17,7 +24,7 @@ function seasonOptions(message, jsonMap, HexColor){
     jsonMap.forEach(
     (sky, val) => embed.addField(`:sparkles: ${val}`, 
                             `:stars:\`Travellers: ${Object.entries(sky).length}\``, true)
-);
+    );
 
     message.channel.send({ embeds: [embed] });
 }
@@ -65,7 +72,7 @@ function seasontravels(sky, message, jsonMap, HexColor){
     if (sky.length <= 1 || !travelMap.has(sky[1])){
         travelMap.forEach(
             (values, viajero) => embed.addField(`:stars:${viajero}`, 
-                                `:coin:: (${Object.entries(values)[0][1]})`, true)
+                                `:coin:: (${Object.entries(values)[0][1]})`)
         );
         message.channel.send({ embeds: [embed] });
     }else{
@@ -86,13 +93,9 @@ function help(message, HexColor){
     const embed = new MessageEmbed().setTitle(`:white_check_mark: Rosinante Guide :blush:`)
     .setAuthor(message.author.username, message.author.displayAvatarURL())
     .setColor(HexColor)
-    .addField("How to use Rosinante:grey_question:", 
-            ":one: If you use \`rs!\` Rosinante will respond with \`The Seasons Of Sky\`. \n\n" +
-            ":two: If you use \`rs! <season>\` (<season> is the season you want to watch) Rosinante will respond with \`the travelers of the chosen season.\` \n\n" +
-            ":three: If you use \`rs! <season>/<traveler>\` (<traveler> is the traveler you want to watch) Rosinante will respond with your accessories. \n\n" +
-            ":four: If you use \`rs! <season>/<traveler>/<accessory>\` (<accessory> is the accessory you want to watch) Rosinante will respond with her photos.")
-    .setImage('attachment://' + "tenor.gif");
-    message.channel.send({ embeds: [embed], files: ["./tenor.gif"] });
+    .addField("How to use Rosinante:grey_question:", COMMENT)
+    .setImage('attachment://' + GIF_HELP);
+    message.channel.send({ embeds: [embed], files: [`./${GIF_HELP}`] });
 }
 
 ///////////////////////////// BOT REAL /////////////////////////////
@@ -110,7 +113,9 @@ client.on("message", message => {
             console.log
             help(message, HexColor);
         } else if (msg[0] === PREFIX){
-            (!jsonMap.has(sSon[0]))? seasonOptions(message, jsonMap, HexColor) : seasontravels(sSon, message, jsonMap, HexColor);
+            (!jsonMap.has(sSon[0]))? 
+                seasonOptions(message, jsonMap, HexColor) : 
+                seasontravels(sSon, message, jsonMap, HexColor);
         }
     }
 });

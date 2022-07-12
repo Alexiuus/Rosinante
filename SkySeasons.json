@@ -593,99 +593,99 @@
         "Dreams_Guide": {
             "totalValue": "0:candle: 4 :heart:",
             "Cape": {
-                "file": ["img/seasons/Assembly/Dreams_Guide/Cape.png"],
+                "file": ["img/seasons/Dreams/Dreams_Guide/Cape.png"],
                 "precio": "2 :heart:"
             },
             "Mask": {
-                "file": ["img/seasons/Assembly/Dreams_Guide/Mask.png"],
+                "file": ["img/seasons/Dreams/Dreams_Guide/Mask.png"],
                 "precio": "2 :heart:"
             }
         },
         "Bearhug_Hermit": {
             "totalValue": "86:candle: 0 :heart:",
             "Outfit": {
-                "file": ["img/seasons/Assembly/Bearhug_Hermit/Outfit.png"],
+                "file": ["img/seasons/Dreams/Bearhug_Hermit/Outfit.png"],
                 "precio": "0 :candle:"
             },
             "Hair": {
-                "file": ["img/seasons/Assembly/Bearhug_Hermit/Hair.png"],
+                "file": ["img/seasons/Dreams/Bearhug_Hermit/Hair.png"],
                 "precio": "29 :candle:"
             },
             "Hair_Access": {
-                "file": ["img/seasons/Assembly/Bearhug_Hermit/Hair_Access.png"],
+                "file": ["img/seasons/Dreams/Bearhug_Hermit/Hair_Access.png"],
                 "precio": "0 :candle:"
             },
             "Emote": {
-                "file": ["img/seasons/Assembly/Bearhug_Hermit/Emote.png"],
+                "file": ["img/seasons/Dreams/Bearhug_Hermit/Emote.png"],
                 "precio": "0 :candle:"
             },
             "Music_Sheet":{
-                "file": ["img/seasons/Assembly/Bearhug_Hermit/Music_Sheet.png"],
+                "file": ["img/seasons/Dreams/Bearhug_Hermit/Music_Sheet.png"],
                 "precio": "0 :candle:"
             }
         },
         "Dancing_Performer": {
             "totalValue": "79:candle: 0 :heart:",
             "Cape": {
-                "file": ["img/seasons/Assembly/Dancing_Performer/Cape.png"],
+                "file": ["img/seasons/Dreams/Dancing_Performer/Cape.png"],
                 "precio": "27 :candle:"
             },
             "Mask": {
-                "file": ["img/seasons/Assembly/Dancing_Performer/Mask.png"],
+                "file": ["img/seasons/Dreams/Dancing_Performer/Mask.png"],
                 "precio": "0 :candle:"
             },
             "Hair": {
-                "file": ["img/seasons/Assembly/Dancing_Performer/Hair.png"],
+                "file": ["img/seasons/Dreams/Dancing_Performer/Hair.png"],
                 "precio": "0 :candle:"
             },
             "Emote": {
-                "file": ["img/seasons/Assembly/Dancing_Performer/Emote.png"],
+                "file": ["img/seasons/Dreams/Dancing_Performer/Emote.png"],
                 "precio": "16 :candle:"
             },
             "Instrument":{
-                "file": ["img/seasons/Assembly/Dancing_Performer/Instrument.png"],
+                "file": ["img/seasons/Dreams/Dancing_Performer/Instrument.png"],
                 "precio": "0 :candle:"
             }
         },
         "Peeking_Postman": {
             "totalValue": "218:candle: 13 :heart:",
             "Cape": {
-                "file": ["img/seasons/Assembly/Peeking_Postman/Cape.png"],
+                "file": ["img/seasons/Dreams/Peeking_Postman/Cape.png"],
                 "precio": "65 :candle:"
             },
             "Outfit": {
-                "file": ["img/seasons/Assembly/Peeking_Postman/Outfit.png"],
+                "file": ["img/seasons/Dreams/Peeking_Postman/Outfit.png"],
                 "precio": "70 :candle:"
             },
             "Mask": {
-                "file": ["img/seasons/Assembly/Peeking_Postman/Mask.png"],
+                "file": ["img/seasons/Dreams/Peeking_Postman/Mask.png"],
                 "precio": "54 :candle:"
             },
             "Emote": {
-                "file": ["img/seasons/Assembly/Peeking_Postman/Emote.png"],
+                "file": ["img/seasons/Dreams/Peeking_Postman/Emote.png"],
                 "precio": "13 :heart:"
             },
             "Music_Sheet":{
-                "file": ["img/seasons/Assembly/Peeking_Postman/Music_Sheet.png"],
+                "file": ["img/seasons/Dreams/Peeking_Postman/Music_Sheet.png"],
                 "precio": "0 :candle:"
             }
         },
         "Spinning_Mentor": {
             "totalValue": "169:candle: 13 :heart:",
             "Cape": {
-                "file": ["img/seasons/Assembly/Spinning_Mentor/Cape.png"],
+                "file": ["img/seasons/Dreams/Spinning_Mentor/Cape.png"],
                 "precio": "70 :candle:"
             },
             "Mask": {
-                "file": ["img/seasons/Assembly/Spinning_Mentor/Mask.png"],
+                "file": ["img/seasons/Dreams/Spinning_Mentor/Mask.png"],
                 "precio": "42 :candle:"
             },
             "Hair": {
-                "file": ["img/seasons/Assembly/Spinning_Mentor/Hair.png"],
+                "file": ["img/seasons/Dreams/Spinning_Mentor/Hair.png"],
                 "precio": "44 :candle:"
             },
             "Emote": {
-                "file": ["img/seasons/Assembly/Spinning_Mentor/Emote.png"],
+                "file": ["img/seasons/Dreams/Spinning_Mentor/Emote.png"],
                 "precio": "13 :heart:"
             }
         }

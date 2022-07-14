@@ -1,291 +1,291 @@
 [
     {
-        "Season": "Performance",
+        "Name": "Performance",
         "Travelers":[
             {
-                "Traveler": "Perform_Guide",
+                "Name": "Perform_Guide",
                 "totalValue": "94:candle: 4 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Performance/Perform_Guide/Cape.png"],
                         "precio": "2 :hearts:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Performance/Perform_Guide/Perform_Mask.png"],
                         "precio": "1 :heart:",
-                        "Art": "Perform_Mask"
+                        "Name": "Perform_Mask"
                     },
                     {
                         "file": ["img/seasons/Performance/Perform_Guide/Mask.png"],
                         "precio": "43 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Performance/Perform_Guide/Cape.png"],
                         "precio": "52 :candle:",
-                        "Art": "Prop"
+                        "Name": "Prop"
                     },
                     {
                         "file": ["img/seasons/Performance/Perform_Guide/Hair.png"],
                         "precio": "1 :heart:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     }  
                 ]
                 
             },
             {
-                "Traveler": "Frantic_Stagehand",
+                "Name": "Frantic_Stagehand",
                 "totalValue": "88:candle: 3 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Performance/Frantic_Stagehand/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Performance/Frantic_Stagehand/Mask.png"],
                         "precio": "30 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Performance/Frantic_Stagehand/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "emote"
+                        "Name": "emote"
                     },
                     {
                         "file": ["img/seasons/Performance/Frantic_Stagehand/Hair.png"],
                         "precio": "22 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     },
                     {
                         "file": ["img/seasons/Performance/Frantic_Stagehand/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     }   
                 ]
             },
             {
-                "Traveler": "Forgetful_Storyteller",
+                "Name": "Forgetful_Storyteller",
                 "totalValue": "118:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Performance/Forgetful_Storyteller/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Performance/Forgetful_Storyteller/Cape.png"],
                         "precio": "34 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Performance/Forgetful_Storyteller/Mask.png"],
                         "precio": "0 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Performance/Forgetful_Storyteller/Outfit.png"],
                         "precio": "20 :candle:",
-                        "Art": "emote"
+                        "Name": "emote"
                     },
                     {
                         "file": ["img/seasons/Performance/Forgetful_Storyteller/Hair.png"],
                         "precio": "16 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     }   
                 ]
             },
             {
-                "Traveler": "Mellow_Musician",
+                "Name": "Mellow_Musician",
                 "totalValue": "105:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Performance/Mellow_Musician/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Performance/Mellow_Musician/Mask.png"],
                         "precio": "12 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Performance/Mellow_Musician/Hair.png"],
                         "precio": "18 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Performance/Mellow_Musician/Instrument.png"],
                         "precio": "0 :candle:",
-                        "Art": "Instrument"
+                        "Name": "Instrument"
                     },
                     {
                         "file": ["img/seasons/Performance/Mellow_Musician/Hair.png"],
                         "precio": "36 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     }   
                 ]
             },
             {
-                "Traveler": "Modest_Dancer",
+                "Name": "Modest_Dancer",
                 "totalValue": "81:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Performance/Modest_Dancer/Outfit.png"],
                         "precio": "30 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Performance/Modest_Dancer/Mask.png"],
                         "precio": "14 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Performance/Modest_Dancer/Hair.png"],
                         "precio": "18 :candle:",
-                        "Art": "emote"
+                        "Name": "emote"
                     },
                     {
                         "file": ["img/seasons/Performance/Modest_Dancer/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     },
                     {
                         "file": ["img/seasons/Performance/Modest_Dancer/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     }   
                 ]
             }
         ]    
     },
     {
-        "Season": "Abyss",
+        "Name": "Abyss",
         "Travelers":[
             {
-                "Traveler": "Abyss_Guide",
+                "Name": "Abyss_Guide",
                 "totalValue": "0:candle: 4 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "2 :heart:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/error.png"],
                         "precio": "1 :heart:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/error.png"],
                         "precio": "1 :heart:",
-                        "Art": "Hair_Access"
+                        "Name": "Hair_Access"
                     }   
                 ]
             },
             {
-                "Traveler": "Anxious_Angler",
+                "Name": "Anxious_Angler",
                 "totalValue": "70:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Abyss/Anxious_Angler/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Abyss/Anxious_Angler/Outfit.png"],
                         "precio": "38 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Abyss/Anxious_Angler/Mask.png"],
                         "precio": "14 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Abyss/Anxious_Angler/Emote.png"],
                         "precio": "18 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             }
             ,
             {
-                "Traveler": "Ceasing_Commodore",
+                "Name": "Ceasing_Commodore",
                 "totalValue": "53:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Abyss/Ceasing_Commodore/Cape.png"],
                         "precio": "20 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Abyss/Ceasing_Commodore/Mask.png"],
                         "precio": "8 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Abyss/Ceasing_Commodore/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Abyss/Ceasing_Commodore/Emote.png"],
                         "precio": "16 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Bumbling_Boatswain",
+                "Name": "Bumbling_Boatswain",
                 "totalValue": "83:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Abyss/Bumbling_Boatswain/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Abyss/Bumbling_Boatswain/Mask.png"],
                         "precio": "0 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Abyss/Bumbling_Boatswain/Hair.png"],
                         "precio": "24 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Abyss/Bumbling_Boatswain/Emote.png"],
                         "precio": "16 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Cackling_Cannoneer",
+                "Name": "Cackling_Cannoneer",
                 "totalValue": "111:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Abyss/Cackling_Cannoneer/Cape.png"],
                         "precio": "20 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Abyss/Cackling_Cannoneer/Mask.png"],
                         "precio": "16 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Abyss/Cackling_Cannoneer/Emote.png"],
                         "precio": "20 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Abyss/Abyss_GuCackling_Cannoneeride/Music_Sheet.png"],
                         "precio": "0 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     }   
                 ]
             }
@@ -293,155 +293,155 @@
         
     },
     {
-        "Season": "Flight",
+        "Name": "Flight",
         "Travelers":[
             {
-                "Traveler": "Flight_Guide",
+                "Name": "Flight_Guide",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Flight/Flight_Guide/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Flight/Flight_Guide/Hair_Access.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair_Access"
+                        "Name": "Hair_Access"
                     }   
                 ]
             },
             {
-                "Traveler": "Lively_Navigator",
+                "Name": "Lively_Navigator",
                 "totalValue": "101:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Flight/Lively_Navigator/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Flight/Lively_Navigator/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Flight/Lively_Navigator/Hair_Access.png"],
                         "precio": "16 :candle:",
-                        "Art": "Hair_Access"
+                        "Name": "Hair_Access"
                     },
                     {
                         "file": ["img/seasons/Flight/Lively_Navigator/Music_Sheet.png"],
                         "precio": "28 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     },
                     {
                         "file": ["img/seasons/Flight/Lively_Navigator/emote.png"],
                         "precio": "18 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Flight/Lively_Navigator/Trail_Spell.png"],
                         "precio": "24 :candle:",
-                        "Art": "Trail_Spell"
+                        "Name": "Trail_Spell"
                     }   
                 ]
             },
             {
-                "Traveler": "Light_Whisperer",
+                "Name": "Light_Whisperer",
                 "totalValue": "90:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Flight/Light_Whisperer/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Flight/Light_Whisperer/Outfit.png"],
                         "precio": "28 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Flight/Light_Whisperer/Hair.png"],
                         "precio": "22 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Flight/Light_Whisperer/Hair_Access.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair_Access"
+                        "Name": "Hair_Access"
                     },
                     {
                         "file": ["img/seasons/Flight/Light_Whisperer/Trail_Spell.png"],
                         "precio": "26 :candle:",
-                        "Art": "Trail_Spell"
+                        "Name": "Trail_Spell"
                     } 
                 ]
             },
             {
-                "Traveler": "Tinkering_Chimesmith",
+                "Name": "Tinkering_Chimesmith",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Flight/Tinkering_Chimesmith/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Flight/Tinkering_Chimesmith/Hair.png"],
                         "precio": "28 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Flight/Tinkering_Chimesmith/Hair_Access.png"],
                         "precio": "22 :candle:",
-                        "Art": "Hair_Access"
+                        "Name": "Hair_Access"
                     },
                     {
                         "file": ["img/seasons/Flight/Tinkering_Chimesmith/Emote.png"],
                         "precio": "0 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Flight/Tinkering_Chimesmith/Instrument.png"],
                         "precio": "0 :candle:",
-                        "Art": "Instrument"
+                        "Name": "Instrument"
                     }   
                 ]
             },
             {
-                "Traveler": "Talented_Builder",
+                "Name": "Talented_Builder",
                 "totalValue": "101:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Flight/Talented_Builder/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Flight/Talented_Builder/Hair.png"],
                         "precio": "26 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Flight/Talented_Builder/Emote.png"],
                         "precio": "22 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Flight/Talented_Builder/Access.png"],
                         "precio": "16 :candle:",
-                        "Art": "Access"
+                        "Name": "Access"
                     },
                     {
                         "file": ["img/seasons/Flight/Talented_Builder/Music_Sheet.png"],
                         "precio": "0 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     },
                     {
                         "file": ["img/seasons/Flight/Talented_Builder/Trail_Spell.png"],
                         "precio": "16 :candle:",
-                        "Art": "Trail_Spell"
+                        "Name": "Trail_Spell"
                     }   
                 ]
             }
@@ -449,146 +449,146 @@
         
     },
     {
-        "Season": "The_Little_Prince",
+        "Name": "The_Little_Prince",
         "Travelers":[
             {
-                "Traveler": "Beckoning_Ruler",
+                "Name": "Beckoning_Ruler",
                 "totalValue": "60:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/The_Little_Prince/Beckoning_Ruler/Mask.png"],
                         "precio": "26 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Beckoning_Ruler/Hair.png"],
                         "precio": "26 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Beckoning_Ruler/Emote.png"],
                         "precio": "26 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Gloating_Narcissist",
+                "Name": "Gloating_Narcissist",
                 "totalValue": "80:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Hair.png"],
                         "precio": "26 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Emote.png"],
                         "precio": "0 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Music_Sheet.png"],
                         "precio": "0 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     }   
                 ]
             },
             {
-                "Traveler": "Stretching_Lamplighter",
+                "Name": "Stretching_Lamplighter",
                 "totalValue": "48:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/The_Little_Prince/Stretching_Lamplighter/Cape.png"],
                         "precio": "22 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Stretching_Lamplighter/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Stretching_Lamplighter/Emote.png"],
                         "precio": "16 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Slouching_Soldier",
+                "Name": "Slouching_Soldier",
                 "totalValue": "22:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/The_Little_Prince/Slouching_Soldier/Cape.png"],
                         "precio": "22 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Slouching_Soldier/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Slouching_Soldier/Emote.png"],
                         "precio": "14 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Slouching_Soldier/Music_Sheet.png"],
                         "precio": "0 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     } 
                 ]
             },
             {
-                "Traveler": "Sneezing_Geographer",
+                "Name": "Sneezing_Geographer",
                 "totalValue": "54:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/The_Little_Prince/Sneezing_Geographer/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Sneezing_Geographer/Hair.png"],
                         "precio": "14 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Sneezing_Geographer/Emote.png"],
                         "precio": "0 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Star_Collector",
+                "Name": "Star_Collector",
                 "totalValue": "72:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/The_Little_Prince/Star_Collector/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Star_Collector/Access.png"],
                         "precio": "24 :candle:",
-                        "Art": "Access"
+                        "Name": "Access"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Star_Collector/Hair_Access.png"],
                         "precio": "12 :candle:",
-                        "Art": "Hair_Access"
+                        "Name": "Hair_Access"
                     },
                     {
                         "file": ["img/seasons/The_Little_Prince/Star_Collector/Emote.png"],
                         "precio": "0 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }
                 ]
             }
@@ -596,217 +596,217 @@
         
     },
     {
-        "Season": "Assembly",
+        "Name": "Assembly",
         "Travelers":[
             {
-                "Traveler": "Assembly_Guide",
+                "Name": "Assembly_Guide",
                 "totalValue": "36:candle: 6 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Cape.png"],
                         "precio": "2 :heart:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Mask.png"],
                         "precio": "1 :heart:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Hair.png"],
                         "precio": "2 :heart:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/instrument.png"],
                         "precio": "0 :candle:",
-                        "Art": "instrument"
+                        "Name": "instrument"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Access1.png"],
                         "precio": "5 :candle:",
-                        "Art": "Access1"
+                        "Name": "Access1"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Access2.png"],
                         "precio": "8 :candle:",
-                        "Art": "Access2"
+                        "Name": "Access2"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Access3.png"],
                         "precio": "12 :heart:",
-                        "Art": "Access3"
+                        "Name": "Access3"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Access4.png"],
                         "precio": "30 :candle:",
-                        "Art": "Access4"
+                        "Name": "Access4"
                     },
                     {
                         "file": ["img/seasons/Assembly/Assembly_Guide/Access5.png"],
                         "precio": "24 :heart:",
-                        "Art": "Access5"
+                        "Name": "Access5"
                     }   
                 ]        
             },
             {
-                "Traveler": "Baffled_Botanist",
+                "Name": "Baffled_Botanist",
                 "totalValue": "52:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Assembly/Baffled_Botanist/Mask.png"],
                         "precio": "14 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Assembly/Baffled_Botanist/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Assembly/Baffled_Botanist/Emote.png"],
                         "precio": "12 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Assembly/Baffled_Botanist/Access.png"],
                         "precio": "0 :candle:",
-                        "Art": "Access"
+                        "Name": "Access"
                     }   
                 ]
             },
             {
-                "Traveler": "Scolding_Student",
+                "Name": "Scolding_Student",
                 "totalValue": "64:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Assembly/Scolding_Student/Cape.png"],
                         "precio": "0 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Assembly/Scolding_Student/Mask.png"],
                         "precio": "10 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Assembly/Scolding_Student/Hair.png"],
                         "precio": "18 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Assembly/Scolding_Student/Emote.png"],
                         "precio": "16 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Scaredy_Cadet",
+                "Name": "Scaredy_Cadet",
                 "totalValue": "50:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Assembly/Scaredy_Cadet/Mask.png"],
                         "precio": "5 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Assembly/Scaredy_Cadet/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Assembly/Scaredy_Cadet/Emote.png"],
                         "precio": "10 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Assembly/Scaredy_Cadet/Access.png"],
                         "precio": "20 :candle:",
-                        "Art": "Access"
+                        "Name": "Access"
                     },
                     {
                         "file": ["img/seasons/Assembly/Scaredy_Cadet/Music_Sheet.png"],
                         "precio": "15 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     }  
                 ]
             },
             {
-                "Traveler": "Marching_Adventurer",
+                "Name": "Marching_Adventurer",
                 "totalValue": "64:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Assembly/Marching_Adventurer/Mask.png"],
                         "precio": "0 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Assembly/Marching_Adventurer/Hair.png"],
                         "precio": "12 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Assembly/Marching_Adventurer/Emote.png"],
                         "precio": "14 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Assembly/Marching_Adventurer/Access.png"],
                         "precio": "22 :candle:",
-                        "Art": "Access"
+                        "Name": "Access"
                     } 
                 ]
             },
             {
-                "Traveler": "Chuckling_Scout",
+                "Name": "Chuckling_Scout",
                 "totalValue": "63:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Assembly/Chuckling_Scout/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Assembly/Chuckling_Scout/Mask.png"],
                         "precio": "12 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Assembly/Chuckling_Scout/Emote.png"],
                         "precio": "14 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Assembly/Chuckling_Scout/Access.png"],
                         "precio": "0 :candle:",
-                        "Art": "Access"
+                        "Name": "Access"
                     }   
                 ]
             },
             {
-                "Traveler": "Daydream_Forester",
+                "Name": "Daydream_Forester",
                 "totalValue": "50:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Assembly/Daydream_Forester/Mask.png"],
                         "precio": "5 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Assembly/Daydream_Forester/Hair.png"],
                         "precio": "5 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Assembly/Daydream_Forester/Emote.png"],
                         "precio": "10 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Assembly/Daydream_Forester/Music_Sheet.png"],
                         "precio": "15 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     }   
                 ]
             }
@@ -814,140 +814,140 @@
         
     },
     {
-        "Season": "Dreams",
+        "Name": "Dreams",
         "Travelers":[
             {
-                "Traveler": "Dreams_Guide",
+                "Name": "Dreams_Guide",
                 "totalValue": "0:candle: 4 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Dreams/Dreams_Guide/Cape.png"],
                         "precio": "2 :heart:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Dreams/Dreams_Guide/Mask.png"],
                         "precio": "2 :heart:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     }   
                 ]
             },
             {
-                "Traveler": "Bearhug_Hermit",
+                "Name": "Bearhug_Hermit",
                 "totalValue": "86:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Dreams/Bearhug_Hermit/Outfit.png"],
                         "precio": "0 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Dreams/Bearhug_Hermit/Hair.png"],
                         "precio": "29 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Dreams/Bearhug_Hermit/Hair_Access.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair_Access"
+                        "Name": "Hair_Access"
                     },
                     {
                         "file": ["img/seasons/Dreams/Bearhug_Hermit/Emote.png"],
                         "precio": "0 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Dreams/Bearhug_Hermit/Music_Sheet.png"],
                         "precio": "0 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     }   
                 ]
             },
             {
-                "Traveler": "Dancing_Performer",
+                "Name": "Dancing_Performer",
                 "totalValue": "79:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Dreams/Dancing_Performer/Cape.png"],
                         "precio": "27 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Dreams/Dancing_Performer/Mask.png"],
                         "precio": "0 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Dreams/Dancing_Performer/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Dreams/Dancing_Performer/Emote.png"],
                         "precio": "16 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Dreams/Dancing_Performer/Instrument.png"],
                         "precio": "0 :candle:",
-                        "Art": "Instrument"
+                        "Name": "Instrument"
                     }   
                 ]
             },
             {
-                "Traveler": "Peeking_Postman",
+                "Name": "Peeking_Postman",
                 "totalValue": "218:candle: 13 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Dreams/Peeking_Postman/Cape.png"],
                         "precio": "65 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Dreams/Peeking_Postman/Outfit.png"],
                         "precio": "70 :candle:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Dreams/Peeking_Postman/Mask.png"],
                         "precio": "54 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Dreams/Peeking_Postman/Emote.png"],
                         "precio": "13 :heart:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Dreams/Peeking_Postman/Music_Sheet.png"],
                         "precio": "0 :candle:",
-                        "Art": "Music_Sheet"
+                        "Name": "Music_Sheet"
                     }
                 ]
             },
             {
-                "Traveler": "Spinning_Mentor",
+                "Name": "Spinning_Mentor",
                 "totalValue": "169:candle: 13 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Dreams/Spinning_Mentor/Cape.png"],
                         "precio": "70 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Dreams/Spinning_Mentor/Mask.png"],
                         "precio": "42 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Dreams/Spinning_Mentor/Hair.png"],
                         "precio": "44 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Dreams/Spinning_Mentor/Emote.png"],
                         "precio": "13 :heart:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             }
@@ -955,367 +955,367 @@
         
     },
     {
-        "Season": "profecia",
+        "Name": "profecia",
         "Travelers":[
             {
-                "Traveler": "Viajero1",
+                "Name": "Viajero1",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             },
             {
-                "Traveler": "Viajero2",
+                "Name": "Viajero2",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             }
         ]
     },
     {
-        "Season": "santuario",
+        "Name": "santuario",
         "Travelers":[
             {
-                "Traveler": "Viajero1",
+                "Name": "Viajero1",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             },
             {
-                "Traveler": "Viajero2",
+                "Name": "Viajero2",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             }
         ]
     },
     {
-        "Season": "encantos",
+        "Name": "encantos",
         "Travelers":[
             {
-                "Traveler": "Viajero1",
+                "Name": "Viajero1",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             },
             {
-                "Traveler": "Viajero2",
+                "Name": "Viajero2",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             }
         ]
     },
     {
-        "Season": "ritmo",
+        "Name": "ritmo",
         "Travelers":[
             {
-                "Traveler": "Viajero1",
+                "Name": "Viajero1",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             },
             {
-                "Traveler": "Viajero2",
+                "Name": "Viajero2",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             }
         ]
     },
     {
-        "Season": "pertenencia",
+        "Name": "pertenencia",
         "Travelers":[
             {
-                "Traveler": "Viajero1",
+                "Name": "Viajero1",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             },
             {
-                "Traveler": "Viajero2",
+                "Name": "Viajero2",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             }
         ]
     },
     {
-        "Season": "buscadores_de_la_luz",
+        "Name": "buscadores_de_la_luz",
         "Travelers":[
             {
-                "Traveler": "Viajero1",
+                "Name": "Viajero1",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             },
             {
-                "Traveler": "Viajero2",
+                "Name": "Viajero2",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }  
                 ]
             }
         ]
     },
     {
-        "Season": "Gratitude",
+        "Name": "Gratitude",
         "Travelers":[
             {
-                "Traveler": "Sassy_Drifter",
+                "Name": "Sassy_Drifter",
                 "totalValue": "87:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Gratitude/Sassy_Drifter/Mask.png"],
                         "precio": "48 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Sassy_Drifter/Hair.png"],
                         "precio": "26 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Sassy_Drifter/Emote.png"],
                         "precio": "0 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Stretching_Guru",
+                "Name": "Stretching_Guru",
                 "totalValue": "104:candle: 13 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Gratitude/Stretching_Guru/Mask.png"],
                         "precio": "65 :candle:",
-                        "Art": "Cape"
+                        "Name": "Cape"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Stretching_Guru/Hair.png"],
                         "precio": "26 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Stretching_Guru/Emote.png"],
                         "precio": "13 :heart:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Leaping_Dancer",
+                "Name": "Leaping_Dancer",
                 "totalValue": "104:candle: 13 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Gratitude/Leaping_Dancer/Mask.png"],
                         "precio": "54 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Leaping_Dancer/Emote.png"],
                         "precio": "13 :heart:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Leaping_Dancer/Instrument.png"],
                         "precio": "40 :candle:",
-                        "Art": "Instrument"
+                        "Name": "Instrument"
                     }   
                 ]
             },
             {
-                "Traveler": "Golden_Wasteland",
+                "Name": "Golden_Wasteland",
                 "totalValue": "104:candle: 13 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Gratitude/Golden_Wasteland/Mask.png"],
                         "precio": "3 :heart:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Golden_Wasteland/Emote.png"],
                         "precio": "14 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Golden_Wasteland/Instrument.png"],
                         "precio": "5 :heart:",
-                        "Art": "Instrument"
+                        "Name": "Instrument"
                     }   
                 ]
             },
             {
-                "Traveler": "Greeting_Shaman",
+                "Name": "Greeting_Shaman",
                 "totalValue": "112:candle: 13 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Gratitude/Greeting_Shaman/Mask.png"],
                         "precio": "54 :candle:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Greeting_Shaman/Emote.png"],
                         "precio": "13 :heart:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     },
                     {
                         "file": ["img/seasons/Gratitude/Greeting_Shaman/Instrument.png"],
                         "precio": "45 :candle:",
-                        "Art": "Instrument"
+                        "Name": "Instrument"
                     }   
                 ]
             }
         ]
     },
     {
-        "Season": "winter",
+        "Name": "winter",
         "Travelers":[
             {
-                "Traveler": "Viajero1",
+                "Name": "Viajero1",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }   
                 ]
             },
             {
-                "Traveler": "Viajero2",
+                "Name": "Viajero2",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
                         "file": ["img/error.png"],
                         "precio": "0 :candle:",
-                        "Art": "capa"
+                        "Name": "capa"
                     }   
                 ]
             }
         ]
     },
     {
-        "Season": "Basics",
+        "Name": "Basics",
         "Travelers":[
             {
-                "Traveler": "Pointing_Candlemaker",
+                "Name": "Pointing_Candlemaker",
                 "totalValue": "14:candle: 4 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Basics/Pointing_Candlemaker/Outfit.png"],
                         "precio": "4 :heart:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Basics/Pointing_Candlemaker/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Basics/Pointing_Candlemaker/Emote.png"],
                         "precio": "5 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Ushering_Stargazer",
+                "Name": "Ushering_Stargazer",
                 "totalValue": "14:candle: 4 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Basics/Ushering_Stargazer/Outfit.png"],
                         "precio": "4 :heart:",
-                        "Art": "Outfit"
+                        "Name": "Outfit"
                     },
                     {
                         "file": ["img/seasons/Basics/Ushering_Stargazer/Hair.png"],
                         "precio": "0 :candle:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Basics/Ushering_Stargazer/Emote.png"],
                         "precio": "5 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             },
             {
-                "Traveler": "Rejecting_Voyager",
+                "Name": "Rejecting_Voyager",
                 "totalValue": "14:candle: 4 :heart:",
                 "Arts": [
                     {
                         "file": ["img/seasons/Basics/Rejecting_Voyager/Mask.png"],
                         "precio": "3 :heart:",
-                        "Art": "Mask"
+                        "Name": "Mask"
                     },
                     {
                         "file": ["img/seasons/Basics/Rejecting_Voyager/Hair.png"],
                         "precio": "1 :heart:",
-                        "Art": "Hair"
+                        "Name": "Hair"
                     },
                     {
                         "file": ["img/seasons/Basics/Rejecting_Voyager/Emote.png"],
                         "precio": "5 :candle:",
-                        "Art": "Emote"
+                        "Name": "Emote"
                     }   
                 ]
             }

@@ -28,7 +28,7 @@ function seasonOptions(datesSeasons, message){
     .setColor(hexColor);
     
     datesSeasons.getDates().forEach(
-        (season, pos) => embed.addField(`:sparkles: ${pos}-${season.Season}`, 
+        (season, pos) => embed.addField(`:sparkles: ${pos}-${season.Name}`, 
                                         `:stars:\`Travellers: ${season.Travelers.length}\``, true)
     );
     
@@ -36,7 +36,7 @@ function seasonOptions(datesSeasons, message){
 }
 function accFiles(acc, message, title){
     const hexColor = rolHexColor(message);
-    const embed = new MessageEmbed().setTitle(`${title}: ${acc.Art}`)
+    const embed = new MessageEmbed().setTitle(`${title}: ${acc.Name}`)
     .setAuthor(message.author.username, message.author.displayAvatarURL())
     .setColor(hexColor)
     .addField("Value", acc.precio)
@@ -50,9 +50,9 @@ function accFiles(acc, message, title){
 function travelsArts(datesTravels, message, season){
     const req = datesTravels.getRequest();
     const datesArts = new DataResponde(message, datesTravels.getPos(req[1]).Arts);
-    const travel = datesTravels.getPos(req[1]).Traveler;
+    const travel = datesTravels.getPos(req[1]).Name;
 
-    if(req.length >= 3 && datesTravels.getPathValid(req[2])){  
+    if(req.length >= 3 && datesArts.getPathValid(req[2])){  
         accFiles(datesArts.getPos(req[2]), message, `:sparkles: ${season}-:stars:${travel}`);
     }else{
         const hexColor = rolHexColor(message);
@@ -61,7 +61,7 @@ function travelsArts(datesTravels, message, season){
         .setColor(hexColor) 
         .addField(`:stars:${travel}`, `\`\`\`\n${datesArts.getDates().reduce(
             (prev, curr, ind) => {
-                return prev + `${ind}-` + curr.Art + "\n";
+                return prev + `${ind}-` + curr.Name + "\n";
             }, "")}\`\`\``
         );
 
@@ -73,8 +73,7 @@ function travelsArts(datesTravels, message, season){
 function seasontravels(datesSeasons, message){    
     const req = datesSeasons.getRequest();
     const datesTravels = new DataResponde(message, datesSeasons.getPos(req[0]).Travelers);
-    const season = datesSeasons.getPos(req[0]).Season;
-
+    const season = datesSeasons.getPos(req[0]).Name;
     if(req.length >= 2 && datesTravels.getPathValid(req[1])){
         travelsArts(datesTravels, message, season);
     }else{
@@ -84,7 +83,7 @@ function seasontravels(datesSeasons, message){
         .setColor(hexColor);
         
         datesTravels.getDates().forEach(
-            (traveler, pos) => embed.addField(`:stars:${pos}-${traveler.Traveler}`, `:coin:: (${traveler.totalValue})`)
+            (traveler, pos) => embed.addField(`:stars:${pos}-${traveler.Name}`, `:coin:: (${traveler.totalValue})`)
         )
         message.channel.send({ embeds: [embed] });
     }

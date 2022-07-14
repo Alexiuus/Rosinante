@@ -14,7 +14,7 @@ class jsonReq{
     }
     getPathVal(value){
         if(this.#isMod === false){
-            return (!!this.#date.find(obj => obj.Season === value));
+            return (!!this.#date.find(obj => obj.Name === value || console.log(value, obj.Name)));
         }else{
             return value <= this.#date.length;
         }
@@ -22,7 +22,7 @@ class jsonReq{
     
     getElem(pos){
         if(this.#isMod === false){
-            return this.#date.find(obj => obj.Season === pos);
+            return this.#date.find(obj => obj.Name === pos);
         }else{
             return this.#date[pos];
         }

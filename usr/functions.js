@@ -1,106 +1,103 @@
 const { MessageEmbed } = require('discord.js');
-const { DataResponde } = require('./DataResponde.js');
+const json = require('../dates/SkySeasons.json');
 
-///////////////////////////// CONSTANTS /////////////////////////////
-const GIF_HELP = "img/tenor.gif";
-const COMMENT = ":one: If you use \`rs!\` Rosinante will respond with \`The Seasons Of \
-Sky\`. \n\n :two: If you use \`rs! <season>\` (<season> is the season you want to watch) Rosinante \
-will respond with \`the travelers of the chosen season.\` \n\n :three: If you use \`rs! \
-<season>/<traveler>\` (<traveler> is the traveler you want to watch) Rosinante will \
-respond with your accessories. \n\n :four: If you use \`rs! <season>/<traveler>/<accessory>\` \
-(<accessory> is the accessory you want to watch) Rosinante will respond with her photos.";
+require('../dates/text.js');
 
-///////////////////////////// FUNCTIONS /////////////////////////////
-function rolHexColor(message){
-    const roles = message.guild.roles.cache;
+
+function rolHexColor(interaction){
+    const roles = interaction.guild.roles.cache;
     const rol = roles.find(r => (roles.get(r.id).members.filter(
-            (k) => k.user.username === message.author.username 
+            (k) => k.user.username === interaction.user.username 
         ).size !== 0) && r.name.includes("Cape")
     );
     
-    return (rol !== undefined)? rol.hexColor: "#000000";
+    return (rol !== undefined)? rol.hexColor: DEFAULTCOLOR;
 }
 
-function seasonOptions(datesSeasons, message){
-    const hexColor = rolHexColor(message);
-    const embed = new MessageEmbed().setTitle("☆｡Sky Seasons｡☆")
-    .setAuthor(message.author.username, message.author.displayAvatarURL())
-    .setColor(hexColor);
+function help(interaction){
+    const embed = new MessageEmbed()
+    .setTitle(HELP_TITLE)
+    .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
+    .setColor(rolHexColor(interaction))
+    .addField(HELP_TITLE_FIELD, HELP_COMMENT)
+    .setImage(HELP_IMAGE);
     
-    datesSeasons.getDates().forEach(
-        (season, pos) => embed.addField(`:sparkles: ${pos}-${season.Name}`, 
-                                        `:stars:\`Travellers: ${season.Travelers.length}\``, true)
+    return interaction.reply({ embeds: [embed], files: [`./${GIF_HELP}`] });
+}
+
+function seasonOptions(interaction){
+    const embed = new MessageEmbed()
+    .setTitle(SEASONOP_TITLE)
+    .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
+    .setColor(rolHexColor(interaction));
+    
+    json.forEach(
+        (season, pos) => embed.addField(SEASONOP_TITLE_FIELD(pos, season.Name),
+                                        SEASONOP_COMMENT(season.Travelers.length), true)
     );
     
-    message.channel.send({ embeds: [embed] });
-}
-function accFiles(acc, message, title){
-    const hexColor = rolHexColor(message);
-    const embed = new MessageEmbed().setTitle(`${title}: ${acc.Name}`)
-    .setAuthor(message.author.username, message.author.displayAvatarURL())
-    .setColor(hexColor)
-    .addField("Value", acc.precio)
-    .setImage('attachment://' + acc.file);
-
-    const msg = { embeds: [embed], files: ["./" + acc.file] };
-
-    message.channel.send(msg);
+    return interaction.reply({ embeds: [embed] });
 }
 
-function travelsArts(datesTravels, message, season){
-    const req = datesTravels.getRequest();
-    const datesArts = new DataResponde(message, datesTravels.getPos(req[1]).Arts);
-    const travel = datesTravels.getPos(req[1]).Name;
+function art(request, articulesDates, interaction){
+    if (!articulesDates.find(articule => articule.Name === request[2])) 
+        return travelers(request.pop(), interaction);
 
-    if(req.length >= 3 && datesArts.getPathValid(req[2])){  
-        accFiles(datesArts.getPos(req[2]), message, `:sparkles: ${season}-:stars:${travel}`);
-    }else{
-        const hexColor = rolHexColor(message);
-        const embed = new MessageEmbed().setTitle(`:sparkles: ${season}: :stars:${travel}`)
-        .setAuthor(message.author.username, message.author.displayAvatarURL())
-        .setColor(hexColor) 
-        .addField(`:stars:${travel}`, `\`\`\`\n${datesArts.getDates().reduce(
-            (prev, curr, ind) => {
-                return prev + `${ind}-` + curr.Name + "\n";
-            }, "")}\`\`\``
-        );
+    const ARTICULE = articulesDates.find(articule => articule.Name === request[2]);
 
-        message.channel.send({ embeds: [embed] });
-    }
+    const embed = new MessageEmbed().setTitle(ART_TITLE(request, ARTICULE.Name))
+    .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
+    .setColor(rolHexColor(interaction))
+    .addField("Value", ARTICULE.Value)
+    .setImage(ART_IMAGE);
 
+    const msg = { embeds: [embed], files: ["./" + ARTICULE.File] };
+    return interaction.reply(msg);
 }
 
-function seasontravels(datesSeasons, message){    
-    const req = datesSeasons.getRequest();
-    const datesTravels = new DataResponde(message, datesSeasons.getPos(req[0]).Travelers);
-    const season = datesSeasons.getPos(req[0]).Name;
-    if(req.length >= 2 && datesTravels.getPathValid(req[1])){
-        travelsArts(datesTravels, message, season);
-    }else{
-        const hexColor = rolHexColor(message);
-        const embed = new MessageEmbed().setTitle(`:sparkles: ${season}`)
-        .setAuthor(message.author.username, message.author.displayAvatarURL())
-        .setColor(hexColor);
-        
-        datesTravels.getDates().forEach(
-            (traveler, pos) => embed.addField(`:stars:${pos}-${traveler.Name}`, `:coin:: (${traveler.totalValue})`)
-        )
-        message.channel.send({ embeds: [embed] });
-    }
-}
 
-function help(message){
-    const embed = new MessageEmbed().setTitle(`:white_check_mark: Rosinante Guide :blush:`)
-    .setAuthor(message.author.username, message.author.displayAvatarURL())
-    .setColor(rolHexColor(message))
-    .addField("How to use Rosinante:grey_question:", COMMENT)
-    .setImage('attachment://' + GIF_HELP);
+function articules(request, travelersDates, interaction){
+    if (!travelersDates.find(traveler => traveler.Name === request[1])) 
+        return travelers(request[0], interaction);
     
-    message.channel.send({ embeds: [embed], files: [`./${GIF_HELP}`] });
+    const ARTICULES = travelersDates.find(traveler => traveler.Name === request[1]).Arts;
+
+    if(request.length == 3){
+        
+        return art(request, ARTICULES, interaction);
+    }else{
+        const embed = new MessageEmbed().setTitle(ARTs_TITLE(request))
+        .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
+        .setColor(rolHexColor(interaction)) 
+        .addField(ARTs_TITLE_FIELD(request), ARTs_COMMENT(ARTICULES));
+        
+        return interaction.reply({ embeds: [embed] });
+    }
+}
+
+function travelers(destiny, interaction){    
+    const REQ = destiny.split("/");
+    if (!json.find(season => season.Name === REQ[0])) return seasonOptions(interaction);
+
+    const TRAVELERS = json.find(traveler => traveler.Name === REQ[0]).Travelers;
+    
+    if(REQ.length >= 2){
+        return articules(REQ, TRAVELERS, interaction);
+    } else {
+        const embed = new MessageEmbed().setTitle(TRAVs_TITLE(REQ[0]))
+        .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
+        .setColor(rolHexColor(interaction));
+
+        TRAVELERS.forEach(
+            (traveler, pos) => embed.addField(TRAVs_TITLE_FIELD(pos, traveler.Name), 
+                                            TRAVs_COMMAND(traveler.totalValue))
+        );
+        return interaction.reply({ embeds: [embed] });
+    }
 }
 
 module.exports = {
     help,
-    seasontravels,
-    seasonOptions
+    seasonOptions,
+    travelers
 }

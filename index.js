@@ -1,29 +1,36 @@
-const { Client, Intents} = require('discord.js');
+const fs = require('fs');
+require('./dates/text.js');
+const { token } = require('./dates/config.json');
+const { Client, Intents, Collection} = require('discord.js');
+const { READY_CONSOLE } = require('./dates/text.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
-
 ///////////////////////////// CONSTANTS /////////////////////////////
-const TOKEN = "ODM2MDg4Mzg0Mzc1NjE5NTg0.G2rByX.jGvIwcFVH8idPHNrJ-Z0LgR06VLZAkZuo2wUlI";
-const json = require('./usr/SkySeasons.json');
-const {help, seasontravels, seasonOptions} = require('./usr/functions.js');
-const { DataResponde } = require('./usr/DataResponde.js');
+
+client.commands = new Collection();
+const commandFile = fs.readdirSync('./commands').filter(r => r.endsWith('.js'));
+
+commandFile.forEach(
+    file =>  {
+        const command = require(`./commands/${file}`);
+        client.commands.set(command.data.name, command);
+    }
+);
 
 ///////////////////////////// BOT REAL /////////////////////////////
 client.on("ready", () => {
-    console.log("[Activo] Bot a iniciado como", client.user.tag);
+    console.log(READY_CONSOLE, client.user.tag);
 });
 
-client.on("message", message => {
-    if(message.content !== "" && message.author.bot === false){
-        const datesSeasons = new DataResponde(message, json);
-        const season = datesSeasons.getRequest();
+client.on("interactionCreate", async interaction => {
+    if(!interaction.isCommand() && interaction.user.bot === true) return
+    const command = client.commands.get(interaction.commandName);
+    if(!command) return
 
-        if (datesSeasons.getisRequest() && season[0] === "--help")
-            help(message);
-        else if(datesSeasons.getisRequest() && datesSeasons.getPathValid(season[0]))
-            seasontravels(datesSeasons, message);
-        else if(datesSeasons.getisRequest())
-            seasonOptions(datesSeasons, message);
+    try{
+        await command.run(interaction);
+    }catch(e){
+        console.log(e);
     }
 });
 
-client.login(TOKEN);
+client.login(token);

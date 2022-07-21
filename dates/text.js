@@ -1,6 +1,6 @@
 READY_CONSOLE = "[Activo] Bot a iniciado como";
 DEFAULTCOLOR = "WHITE";
-GIF_HELP = "img/tenor.gif";
+GIF_HELP = "img/Help.gif";
 
 HELP_TITLE = ':white_check_mark: Rosinante Guide :blush:';
 HELP_TITLE_FIELD = 'How to use Rosinante:grey_question:';

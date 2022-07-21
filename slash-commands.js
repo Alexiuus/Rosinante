@@ -1,10 +1,10 @@
 const fs = require('fs');
+require('dotenv').config();
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
-const { clientId, token } = require('./dates/config.json');
-const rest = new REST({ version: '9' }).setToken(token);
+const rest = new REST({ version: '9' }).setToken(process.env.DISCORD_TOKEN);
 
-rest.put(Routes.applicationCommands(clientId), { body: [] })
+rest.put(Routes.applicationCommands(process.env.DISCORD_CLIENTID), { body: [] })
 	.then(() => console.log('Successfully deleted all application commands.'))
 	.catch(console.error);
 
@@ -21,7 +21,7 @@ async function createSlash(){
             }
         );
 		await rest.put(
-			Routes.applicationCommands(clientId), { body: commands }
+			Routes.applicationCommands(process.env.DISCORD_CLIENTID), { body: commands }
 		);
 		console.log("Finalizado correctamente");
 

@@ -955,54 +955,336 @@
         
     },
     {
-        "Name": "profecia",
+        "Name": "Prophecy",
         "Travelers":[
             {
-                "Name": "Viajero1",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Prophecy_Guide",
+                "totalValue": "0:candle: 4 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
-                        "Value": "0 :candle:",
-                        "Name": "capa"
+                        "File": ["img/Prophecy/Prophecy/Mask.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Mask"
+                    },{
+                        "File": ["img/Prophecy/Prophecy/instrument.png"],
+                        "Value": "2 :heart:",
+                        "Name": "instrument"
                     }  
                 ]
             },
             {
-                "Name": "Viajero2",
+                "Name": "Prophet_of_Water",
+                "totalValue": "168 :candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Cape.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Mask.png"],
+                        "Value": "55 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Prophet_of_Earth",
+                "totalValue": "211:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Cape.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Mask.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Music_sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_sheet"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Prop.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Prop"
+                    } 
+                ]
+            },
+            {
+                "Name": "Prophet_of_Air",
+                "totalValue": "201:candle: 12 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Cape.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Mask.png"],
+                        "Value": "54 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Emote.png"],
+                        "Value": "13 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Prop.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Prop"
+                    }  
+                ]
+            },
+            {
+                "Name": "Prophet_of_Fire",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
-                        "Value": "0 :candle:",
-                        "Name": "capa"
+                        "File": ["img/Prophecy/Prophet_of_Fire/Outfit.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Mask.png"],
+                        "Value": "55 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Prop.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Prop"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
                     }  
                 ]
             }
         ]
     },
     {
-        "Name": "santuario",
+        "Name": "Santuary",
         "Travelers":[
             {
-                "Name": "Viajero1",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Santuary_Guide",
+                "totalValue": "0:candle: 6 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
-                        "Value": "0 :candle:",
-                        "Name": "capa"
+                        "File": ["img/Santuary/Santuary_Guide/error.png"],
+                        "Value": "3 :heart:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Santuary_Guide/HandPand.png"],
+                        "Value": "3 :heart:",
+                        "Name": "HandPand"
                     }  
                 ]
             },
             {
-                "Name": "Viajero2",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Timid_Bookworm",
+                "totalValue": "140:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Santuary/Timid_Bookworm/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Timid_Bookworm/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Timid_Bookworm/Emote.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Santuary/Timid_Bookworm/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            },
+            {
+                "Name": "Rallying_Thrillseeker",
+                "totalValue": "125:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Rallying_Thrillseeker/Outfit.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Santuary/Rallying_Thrillseeker/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Rallying_Thrillseeker/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Hiking_Grouch",
+                "totalValue": "139:candle: 29 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Mask.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Access_Hair.png"],
+                        "Value": "50 :candle:",
+                        "Name": "Access_Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Access.png"],
+                        "Value": "16 :heart:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Grateful_Shell_Collector",
+                "totalValue": "162:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Access.png"],
+                        "Value": "45 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Chill_Sunbather",
+                "totalValue": "197:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Access_Hair.png"],
+                        "Value": "50 :candle:",
+                        "Name": "Access_Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Access.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Jelly_Whisperer",
+                "totalValue": "135:candle: 15 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Outfit.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Access.png"],
+                        "Value": "15 :heart:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
                     }  
                 ]
             }

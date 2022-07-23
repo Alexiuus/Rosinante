@@ -1,0 +1,1607 @@
+[
+    {
+        "Name": "Performance",
+        "Travelers":[
+            {
+                "Name": "Perform_Guide",
+                "totalValue": "94:candle: 4 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Performance/Perform_Guide/Cape.png"],
+                        "Value": "2 :hearts:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Perform_Guide/Perform_Mask.png"],
+                        "Value": "1 :heart:",
+                        "Name": "Perform_Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Perform_Guide/Mask.png"],
+                        "Value": "43 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Perform_Guide/Cape.png"],
+                        "Value": "52 :candle:",
+                        "Name": "Prop"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Perform_Guide/Hair.png"],
+                        "Value": "1 :heart:",
+                        "Name": "Hair"
+                    }  
+                ]
+                
+            },
+            {
+                "Name": "Frantic_Stagehand",
+                "totalValue": "88:candle: 3 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Performance/Frantic_Stagehand/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Frantic_Stagehand/Mask.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Frantic_Stagehand/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "emote"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Frantic_Stagehand/Hair.png"],
+                        "Value": "22 :candle:",
+                        "Name": "Music_Sheet"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Frantic_Stagehand/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    }   
+                ]
+            },
+            {
+                "Name": "Forgetful_Storyteller",
+                "totalValue": "118:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Performance/Forgetful_Storyteller/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Forgetful_Storyteller/Cape.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Forgetful_Storyteller/Mask.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Forgetful_Storyteller/Outfit.png"],
+                        "Value": "20 :candle:",
+                        "Name": "emote"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Forgetful_Storyteller/Hair.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Hair"
+                    }   
+                ]
+            },
+            {
+                "Name": "Mellow_Musician",
+                "totalValue": "105:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Performance/Mellow_Musician/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Mellow_Musician/Mask.png"],
+                        "Value": "12 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Mellow_Musician/Hair.png"],
+                        "Value": "18 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Mellow_Musician/Instrument.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Instrument"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Mellow_Musician/Hair.png"],
+                        "Value": "36 :candle:",
+                        "Name": "Hair"
+                    }   
+                ]
+            },
+            {
+                "Name": "Modest_Dancer",
+                "totalValue": "81:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Performance/Modest_Dancer/Outfit.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Modest_Dancer/Mask.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Modest_Dancer/Hair.png"],
+                        "Value": "18 :candle:",
+                        "Name": "emote"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Modest_Dancer/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    },
+                    {
+                        "File": ["img/seasons/Performance/Modest_Dancer/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    }   
+                ]
+            }
+        ]    
+    },
+    {
+        "Name": "Abyss",
+        "Travelers":[
+            {
+                "Name": "Abyss_Guide",
+                "totalValue": "0:candle: 4 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "1 :heart:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "1 :heart:",
+                        "Name": "Hair_Access"
+                    }   
+                ]
+            },
+            {
+                "Name": "Anxious_Angler",
+                "totalValue": "70:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Abyss/Anxious_Angler/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Anxious_Angler/Outfit.png"],
+                        "Value": "38 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Anxious_Angler/Mask.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Anxious_Angler/Emote.png"],
+                        "Value": "18 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            }
+            ,
+            {
+                "Name": "Ceasing_Commodore",
+                "totalValue": "53:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Abyss/Ceasing_Commodore/Cape.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Ceasing_Commodore/Mask.png"],
+                        "Value": "8 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Ceasing_Commodore/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Ceasing_Commodore/Emote.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Bumbling_Boatswain",
+                "totalValue": "83:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Abyss/Bumbling_Boatswain/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Bumbling_Boatswain/Mask.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Bumbling_Boatswain/Hair.png"],
+                        "Value": "24 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Bumbling_Boatswain/Emote.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Cackling_Cannoneer",
+                "totalValue": "111:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Abyss/Cackling_Cannoneer/Cape.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Cackling_Cannoneer/Mask.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Cackling_Cannoneer/Emote.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Abyss/Abyss_GuCackling_Cannoneeride/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    }   
+                ]
+            }
+        ]
+        
+    },
+    {
+        "Name": "Flight",
+        "Travelers":[
+            {
+                "Name": "Flight_Guide",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Flight/Flight_Guide/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Flight_Guide/Hair_Access.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair_Access"
+                    }   
+                ]
+            },
+            {
+                "Name": "Lively_Navigator",
+                "totalValue": "101:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Flight/Lively_Navigator/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Lively_Navigator/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Lively_Navigator/Hair_Access.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Hair_Access"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Lively_Navigator/Music_Sheet.png"],
+                        "Value": "28 :candle:",
+                        "Name": "Music_Sheet"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Lively_Navigator/emote.png"],
+                        "Value": "18 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Lively_Navigator/Trail_Spell.png"],
+                        "Value": "24 :candle:",
+                        "Name": "Trail_Spell"
+                    }   
+                ]
+            },
+            {
+                "Name": "Light_Whisperer",
+                "totalValue": "90:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Flight/Light_Whisperer/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Light_Whisperer/Outfit.png"],
+                        "Value": "28 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Light_Whisperer/Hair.png"],
+                        "Value": "22 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Light_Whisperer/Hair_Access.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair_Access"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Light_Whisperer/Trail_Spell.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Trail_Spell"
+                    } 
+                ]
+            },
+            {
+                "Name": "Tinkering_Chimesmith",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Flight/Tinkering_Chimesmith/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Tinkering_Chimesmith/Hair.png"],
+                        "Value": "28 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Tinkering_Chimesmith/Hair_Access.png"],
+                        "Value": "22 :candle:",
+                        "Name": "Hair_Access"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Tinkering_Chimesmith/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Tinkering_Chimesmith/Instrument.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Instrument"
+                    }   
+                ]
+            },
+            {
+                "Name": "Talented_Builder",
+                "totalValue": "101:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Flight/Talented_Builder/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Talented_Builder/Hair.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Talented_Builder/Emote.png"],
+                        "Value": "22 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Talented_Builder/Access.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Talented_Builder/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    },
+                    {
+                        "File": ["img/seasons/Flight/Talented_Builder/Trail_Spell.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Trail_Spell"
+                    }   
+                ]
+            }
+        ]
+        
+    },
+    {
+        "Name": "The_Little_Prince",
+        "Travelers":[
+            {
+                "Name": "Beckoning_Ruler",
+                "totalValue": "60:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Beckoning_Ruler/Mask.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Beckoning_Ruler/Hair.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Beckoning_Ruler/Emote.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Gloating_Narcissist",
+                "totalValue": "80:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Hair.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    }   
+                ]
+            },
+            {
+                "Name": "Stretching_Lamplighter",
+                "totalValue": "48:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Stretching_Lamplighter/Cape.png"],
+                        "Value": "22 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Stretching_Lamplighter/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Stretching_Lamplighter/Emote.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Slouching_Soldier",
+                "totalValue": "22:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Slouching_Soldier/Cape.png"],
+                        "Value": "22 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Slouching_Soldier/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Slouching_Soldier/Emote.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Slouching_Soldier/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    } 
+                ]
+            },
+            {
+                "Name": "Sneezing_Geographer",
+                "totalValue": "54:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Sneezing_Geographer/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Sneezing_Geographer/Hair.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Sneezing_Geographer/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Star_Collector",
+                "totalValue": "72:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Star_Collector/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Star_Collector/Access.png"],
+                        "Value": "24 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Star_Collector/Hair_Access.png"],
+                        "Value": "12 :candle:",
+                        "Name": "Hair_Access"
+                    },
+                    {
+                        "File": ["img/seasons/The_Little_Prince/Star_Collector/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        "Name": "Assembly",
+        "Travelers":[
+            {
+                "Name": "Assembly_Guide",
+                "totalValue": "36:candle: 6 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Cape.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Mask.png"],
+                        "Value": "1 :heart:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Hair.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/instrument.png"],
+                        "Value": "0 :candle:",
+                        "Name": "instrument"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Access1.png"],
+                        "Value": "5 :candle:",
+                        "Name": "Access1"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Access2.png"],
+                        "Value": "8 :candle:",
+                        "Name": "Access2"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Access3.png"],
+                        "Value": "12 :heart:",
+                        "Name": "Access3"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Access4.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Access4"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Assembly_Guide/Access5.png"],
+                        "Value": "24 :heart:",
+                        "Name": "Access5"
+                    }   
+                ]        
+            },
+            {
+                "Name": "Baffled_Botanist",
+                "totalValue": "52:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Assembly/Baffled_Botanist/Mask.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Baffled_Botanist/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Baffled_Botanist/Emote.png"],
+                        "Value": "12 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Baffled_Botanist/Access.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Access"
+                    }   
+                ]
+            },
+            {
+                "Name": "Scolding_Student",
+                "totalValue": "64:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Assembly/Scolding_Student/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Scolding_Student/Mask.png"],
+                        "Value": "10 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Scolding_Student/Hair.png"],
+                        "Value": "18 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Scolding_Student/Emote.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Scaredy_Cadet",
+                "totalValue": "50:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Assembly/Scaredy_Cadet/Mask.png"],
+                        "Value": "5 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Scaredy_Cadet/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Scaredy_Cadet/Emote.png"],
+                        "Value": "10 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Scaredy_Cadet/Access.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Scaredy_Cadet/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            },
+            {
+                "Name": "Marching_Adventurer",
+                "totalValue": "64:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Assembly/Marching_Adventurer/Mask.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Marching_Adventurer/Hair.png"],
+                        "Value": "12 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Marching_Adventurer/Emote.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Marching_Adventurer/Access.png"],
+                        "Value": "22 :candle:",
+                        "Name": "Access"
+                    } 
+                ]
+            },
+            {
+                "Name": "Chuckling_Scout",
+                "totalValue": "63:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Assembly/Chuckling_Scout/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Chuckling_Scout/Mask.png"],
+                        "Value": "12 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Chuckling_Scout/Emote.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Chuckling_Scout/Access.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Access"
+                    }   
+                ]
+            },
+            {
+                "Name": "Daydream_Forester",
+                "totalValue": "50:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Assembly/Daydream_Forester/Mask.png"],
+                        "Value": "5 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Daydream_Forester/Hair.png"],
+                        "Value": "5 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Daydream_Forester/Emote.png"],
+                        "Value": "10 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Assembly/Daydream_Forester/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }   
+                ]
+            }
+        ]
+        
+    },
+    {
+        "Name": "Dreams",
+        "Travelers":[
+            {
+                "Name": "Dreams_Guide",
+                "totalValue": "0:candle: 4 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Dreams/Dreams_Guide/Cape.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Dreams_Guide/Mask.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Mask"
+                    }   
+                ]
+            },
+            {
+                "Name": "Bearhug_Hermit",
+                "totalValue": "86:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Dreams/Bearhug_Hermit/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Bearhug_Hermit/Hair.png"],
+                        "Value": "29 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Bearhug_Hermit/Hair_Access.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair_Access"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Bearhug_Hermit/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Bearhug_Hermit/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    }   
+                ]
+            },
+            {
+                "Name": "Dancing_Performer",
+                "totalValue": "79:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Dreams/Dancing_Performer/Cape.png"],
+                        "Value": "27 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Dancing_Performer/Mask.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Dancing_Performer/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Dancing_Performer/Emote.png"],
+                        "Value": "16 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Dancing_Performer/Instrument.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Instrument"
+                    }   
+                ]
+            },
+            {
+                "Name": "Peeking_Postman",
+                "totalValue": "218:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Dreams/Peeking_Postman/Cape.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Peeking_Postman/Outfit.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Peeking_Postman/Mask.png"],
+                        "Value": "54 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Peeking_Postman/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Peeking_Postman/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    }
+                ]
+            },
+            {
+                "Name": "Spinning_Mentor",
+                "totalValue": "169:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Dreams/Spinning_Mentor/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Spinning_Mentor/Mask.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Spinning_Mentor/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Dreams/Spinning_Mentor/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }   
+                ]
+            }
+        ]
+        
+    },
+    {
+        "Name": "Prophecy",
+        "Travelers":[
+            {
+                "Name": "Prophecy_Guide",
+                "totalValue": "0:candle: 4 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophecy/Mask.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Mask"
+                    },{
+                        "File": ["img/Prophecy/Prophecy/instrument.png"],
+                        "Value": "2 :heart:",
+                        "Name": "instrument"
+                    }  
+                ]
+            },
+            {
+                "Name": "Prophet_of_Water",
+                "totalValue": "168 :candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Cape.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Mask.png"],
+                        "Value": "55 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Water/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Prophet_of_Earth",
+                "totalValue": "211:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Cape.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Mask.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Music_sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_sheet"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Earth/Prop.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Prop"
+                    } 
+                ]
+            },
+            {
+                "Name": "Prophet_of_Air",
+                "totalValue": "201:candle: 12 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Cape.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Mask.png"],
+                        "Value": "54 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Emote.png"],
+                        "Value": "13 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Air/Prop.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Prop"
+                    }  
+                ]
+            },
+            {
+                "Name": "Prophet_of_Fire",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Outfit.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Mask.png"],
+                        "Value": "55 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Prop.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Prop"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Prophecy/Prophet_of_Fire/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Santuary",
+        "Travelers":[
+            {
+                "Name": "Santuary_Guide",
+                "totalValue": "0:candle: 6 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Santuary_Guide/error.png"],
+                        "Value": "3 :heart:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Santuary_Guide/HandPand.png"],
+                        "Value": "3 :heart:",
+                        "Name": "HandPand"
+                    }  
+                ]
+            },
+            {
+                "Name": "Timid_Bookworm",
+                "totalValue": "140:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Timid_Bookworm/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Timid_Bookworm/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Timid_Bookworm/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Santuary/Timid_Bookworm/Music_Sheet.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            },
+            {
+                "Name": "Rallying_Thrillseeker",
+                "totalValue": "125:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Rallying_Thrillseeker/Outfit.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Santuary/Rallying_Thrillseeker/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Rallying_Thrillseeker/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Hiking_Grouch",
+                "totalValue": "139:candle: 29 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Mask.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Access_Hair.png"],
+                        "Value": "50 :candle:",
+                        "Name": "Access_Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Access.png"],
+                        "Value": "16 :heart:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Hiking_Grouch/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Grateful_Shell_Collector",
+                "totalValue": "162:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Access.png"],
+                        "Value": "45 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Grateful_Shell_Collector/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Chill_Sunbather",
+                "totalValue": "197:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Hair.png"],
+                        "Value": "44 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Access_Hair.png"],
+                        "Value": "50 :candle:",
+                        "Name": "Access_Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Access.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Chill_Sunbather/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Jelly_Whisperer",
+                "totalValue": "135:candle: 15 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Outfit.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Access.png"],
+                        "Value": "15 :heart:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Santuary/Jelly_Whisperer/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "encantos",
+        "Travelers":[
+            {
+                "Name": "Viajero1",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            },
+            {
+                "Name": "Viajero2",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "ritmo",
+        "Travelers":[
+            {
+                "Name": "Viajero1",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            },
+            {
+                "Name": "Viajero2",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "pertenencia",
+        "Travelers":[
+            {
+                "Name": "Viajero1",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            },
+            {
+                "Name": "Viajero2",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "buscadores_de_la_luz",
+        "Travelers":[
+            {
+                "Name": "Viajero1",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            },
+            {
+                "Name": "Viajero2",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }  
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Gratitude",
+        "Travelers":[
+            {
+                "Name": "Sassy_Drifter",
+                "totalValue": "87:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Gratitude/Sassy_Drifter/Mask.png"],
+                        "Value": "48 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Sassy_Drifter/Hair.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Sassy_Drifter/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Stretching_Guru",
+                "totalValue": "104:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Gratitude/Stretching_Guru/Mask.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Stretching_Guru/Hair.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Stretching_Guru/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Leaping_Dancer",
+                "totalValue": "104:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Gratitude/Leaping_Dancer/Mask.png"],
+                        "Value": "54 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Leaping_Dancer/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Leaping_Dancer/Instrument.png"],
+                        "Value": "40 :candle:",
+                        "Name": "Instrument"
+                    }   
+                ]
+            },
+            {
+                "Name": "Golden_Wasteland",
+                "totalValue": "104:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Gratitude/Golden_Wasteland/Mask.png"],
+                        "Value": "3 :heart:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Golden_Wasteland/Emote.png"],
+                        "Value": "14 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Golden_Wasteland/Instrument.png"],
+                        "Value": "5 :heart:",
+                        "Name": "Instrument"
+                    }   
+                ]
+            },
+            {
+                "Name": "Greeting_Shaman",
+                "totalValue": "112:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Gratitude/Greeting_Shaman/Mask.png"],
+                        "Value": "54 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Greeting_Shaman/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/seasons/Gratitude/Greeting_Shaman/Instrument.png"],
+                        "Value": "45 :candle:",
+                        "Name": "Instrument"
+                    }   
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "winter",
+        "Travelers":[
+            {
+                "Name": "Viajero1",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }   
+                ]
+            },
+            {
+                "Name": "Viajero2",
+                "totalValue": "0:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/error.png"],
+                        "Value": "0 :candle:",
+                        "Name": "capa"
+                    }   
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Basics",
+        "Travelers":[
+            {
+                "Name": "Pointing_Candlemaker",
+                "totalValue": "14:candle: 4 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Basics/Pointing_Candlemaker/Outfit.png"],
+                        "Value": "4 :heart:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Basics/Pointing_Candlemaker/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Basics/Pointing_Candlemaker/Emote.png"],
+                        "Value": "5 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Ushering_Stargazer",
+                "totalValue": "14:candle: 4 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Basics/Ushering_Stargazer/Outfit.png"],
+                        "Value": "4 :heart:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/seasons/Basics/Ushering_Stargazer/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Basics/Ushering_Stargazer/Emote.png"],
+                        "Value": "5 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            },
+            {
+                "Name": "Rejecting_Voyager",
+                "totalValue": "14:candle: 4 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/seasons/Basics/Rejecting_Voyager/Mask.png"],
+                        "Value": "3 :heart:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/seasons/Basics/Rejecting_Voyager/Hair.png"],
+                        "Value": "1 :heart:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/seasons/Basics/Rejecting_Voyager/Emote.png"],
+                        "Value": "5 :candle:",
+                        "Name": "Emote"
+                    }   
+                ]
+            }
+    
+        ]
+    }
+]

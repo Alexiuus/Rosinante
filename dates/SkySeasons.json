@@ -1291,108 +1291,676 @@
         ]
     },
     {
-        "Name": "encantos",
+        "Name": "Enchantment",
         "Travelers":[
             {
-                "Name": "Viajero1",
+                "Name": "Enchantment_Guide",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Enchantment/Enchantment_Guide/Hair.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Enchantment/Enchantment_Guide/Access.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Access"
                     }  
                 ]
             },
             {
-                "Name": "Viajero2",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Nodding_Muralist",
+                "totalValue": "77:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
-                        "Value": "0 :candle:",
-                        "Name": "capa"
+                        "File": ["img/Enchantment/Nodding_Muralist/Mask.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Enchantment/Nodding_Muralist/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Enchantment/Nodding_Muralist/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Indifferent_Alchemist",
+                "totalValue": "167:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Enchantment/Indifferent_Alchemist/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Enchantment/Indifferent_Alchemist/Mask.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Enchantment/Indifferent_Alchemist/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Enchantment/Indifferent_Alchemist/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Crab_Walker",
+                "totalValue": "115:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Enchantment/Crab_Walker/Cape.png"],
+                        "Value": "60 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Enchantment/Crab_Walker/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Enchantment/Crab_Walker/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Scarecrow_Farmer",
+                "totalValue": "89:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Enchantment/Scarecrow_Farmer/Mask.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Enchantment/Scarecrow_Farmer/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Enchantment/Scarecrow_Farmer/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Snoozing_Carpenter",
+                "totalValue": "112:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Enchantment/Snoozing_Carpenter/Cape.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Enchantment/Snoozing_Carpenter/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Enchantment/Snoozing_Carpenter/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Playfighting_Herbalist",
+                "totalValue": "195:candle: 10 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Enchantment/Playfighting_Herbalist/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Enchantment/Playfighting_Herbalist/Mask.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Enchantment/Playfighting_Herbalist/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Enchantment/Playfighting_Herbalist/Emote.png"],
+                        "Value": "10 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Enchantment/Playfighting_Herbalist/Prop.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Prop"
+                    },
+                    {
+                        "File": ["img/Enchantment/Playfighting_Herbalist/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
                     }  
                 ]
             }
         ]
     },
     {
-        "Name": "ritmo",
+        "Name": "Rhythm",
         "Travelers":[
             {
-                "Name": "Viajero1",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Troupe_Greeter",
+                "totalValue": "33:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Rhythm/Troupe_Greeter/Outfit.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Rhythm/Troupe_Greeter/Mask.png"],
+                        "Value": "12 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Rhythm/Troupe_Greeter/Emote.png"],
+                        "Value": "10 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Rhythm/Troupe_Greeter/Music_Sheet.png"],
+                        "Value": "8 :candle:",
+                        "Name": "Music_Sheet"
                     }  
                 ]
             },
             {
-                "Name": "Viajero2",
+                "Name": "Festival_Spin_Dancer",
+                "totalValue": "157:candle: 19 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Rhythm/Festival_Spin_Dancer/Outfit.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Rhythm/Festival_Spin_Dancer/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Rhythm/Festival_Spin_Dancer/Emote.png"],
+                        "Value": "19 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Rhythm/Festival_Spin_Dancer/Prop.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Prop"
+                    },
+                    {
+                        "File": ["img/Rhythm/Festival_Spin_Dancer/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            },
+            {
+                "Name": "Admiring_Actor",
+                "totalValue": "135:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Rhythm/Admiring_Actor/Outfit.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Rhythm/Admiring_Actor/Mask.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Rhythm/Admiring_Actor/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Rhythm/Admiring_Actor/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            },
+            {
+                "Name": "Troupe_Juggler",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Rhythm/Troupe_Juggler/Outfit.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Rhythm/Troupe_Juggler/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Rhythm/Troupe_Juggler/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Rhythm/Troupe_Juggler/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Rhythm/Troupe_Juggler/Prop.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Prop"
+                    }  
+                ]
+            },
+            {
+                "Name": "Respectful_Pianist",
+                "totalValue": "168:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Rhythm/Respectful_Pianist/Mask.png"],
+                        "Value": "48 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Rhythm/Respectful_Pianist/Hair.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Rhythm/Respectful_Pianist/Instrument.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Instrument"
+                    },
+                    {
+                        "File": ["img/Rhythm/Respectful_Pianist/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Thoughtful_Director",
+                "totalValue": "195:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Rhythm/Thoughtful_Director/Cape.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Rhythm/Thoughtful_Director/Mask.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Rhythm/Thoughtful_Director/Instrument.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Instrument"
+                    },
+                    {
+                        "File": ["img/Rhythm/Thoughtful_Director/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
                     }  
                 ]
             }
         ]
     },
     {
-        "Name": "pertenencia",
+        "Name": "Belonging",
         "Travelers":[
             {
-                "Name": "Viajero1",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Confetti_Cousin",
+                "totalValue": "115:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
-                        "Value": "0 :candle:",
-                        "Name": "capa"
+                        "File": ["img/Belonging/Confetti_Cousin/Cape.png"],
+                        "Value": "60 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Belonging/Confetti_Cousin/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Belonging/Confetti_Cousin/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
                     }  
                 ]
             },
             {
-                "Name": "Viajero2",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Boogie_Kid",
+                "totalValue": "103:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Belonging/Boogie_Kid/Outfit.png"],
+                        "Value": "60 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Belonging/Boogie_Kid/Mask.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Belonging/Boogie_Kid/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Sparkler_Parent",
+                "totalValue": "116:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Belonging/Sparkler_Parent/Mask.png"],
+                        "Value": "36 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Belonging/Sparkler_Parent/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Belonging/Sparkler_Parent/Emote.png"],
+                        "Value": "13 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Belonging/Sparkler_Parent/Prop.png"],
+                        "Value": "33 :candle:",
+                        "Name": "Prop"
+                    }  
+                ]
+            },
+            {
+                "Name": "Wise_Grandparent",
+                "totalValue": "156:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Belonging/Wise_Grandparent/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Belonging/Wise_Grandparent/Mask.png"],
+                        "Value": "48 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Belonging/Wise_Grandparent/Prop.png"],
+                        "Value": "10 :candle:",
+                        "Name": "Prop"
+                    },
+                    {
+                        "File": ["img/Belonging/Wise_Grandparent/Emote.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Belonging/Wise_Grandparent/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            },
+            {
+                "Name": "Pleaful_Parent",
+                "totalValue": "195:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Belonging/Pleaful_Parent/Cape.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Belonging/Pleaful_Parent/Mask.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Belonging/Pleaful_Parent/Instrument.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Instrument"
+                    },
+                    {
+                        "File": ["img/Belonging/Pleaful_Parent/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Hairtousle_Teen",
+                "totalValue": "148:candle: 9 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Belonging/Hairtousle_Teen/Hair.png"],
+                        "Value": "50 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Belonging/Hairtousle_Teen/Instrument.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Instrument"
+                    },
+                    {
+                        "File": ["img/Belonging/Hairtousle_Teen/Emote.png"],
+                        "Value": "9 :heart:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Belonging/Hairtousle_Teen/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
                     }  
                 ]
             }
         ]
     },
     {
-        "Name": "buscadores_de_la_luz",
+        "Name": "Lightseekers",
         "Travelers":[
             {
-                "Name": "Viajero1",
+                "Name": "Lightseekers_Guide",
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Lightseekers/Lightseekers_Guide/capa.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Access"
                     }  
                 ]
             },
             {
-                "Name": "Viajero2",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Piggyback_Lightseeker",
+                "totalValue": "123:candle: 8 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Cape.png"],
+                        "Value": "60 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Mask.png"],
+                        "Value": "24 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Hair.png"],
+                        "Value": "26 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Emote.png"],
+                        "Value": "8 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Doublefive_Light_Catcher",
+                "totalValue": "126:candle: 7 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Mask.png"],
+                        "Value": "24 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Instrument.png"],
+                        "Value": "55 :candle:",
+                        "Name": "Instrument"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Emote.png"],
+                        "Value": "7 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Laidback_Pioneer",
+                "totalValue": "151:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Lightseekers/Laidback_Pioneer/Mask.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Laidback_Pioneer/Hair.png"],
+                        "Value": "18 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Laidback_Pioneer/Access.png"],
+                        "Value": "75 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Laidback_Pioneer/Emote.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Laidback_Pioneer/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }  
+                ]
+            },
+            {
+                "Name": "Twirling_Champion",
+                "totalValue": "131:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Lightseekers/Twirling_Champion/Mask.png"],
+                        "Value": "24 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Twirling_Champion/Hair.png"],
+                        "Value": "34 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Twirling_Champion/Instrument.png"],
+                        "Value": "60 :candle:",
+                        "Name": "Instrument"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Twirling_Champion/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
+                    }  
+                ]
+            },
+            {
+                "Name": "Crab_Whisperer",
+                "totalValue": "190:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Lightseekers/Crab_Whisperer/Cape.png"],
+                        "Value": "70 :candle:",
+                        "Name": "Cape"
+                    }, 
+                    {
+                        "File": ["img/Lightseekers/Crab_Whisperer/Mask.png"],
+                        "Value": "30 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Crab_Whisperer/Hair.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Crab_Whisperer/Prop.png"],
+                        "Value": "20 :candle:",
+                        "Name": "Prop"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Crab_Whisperer/Emote.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Emote"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Crab_Whisperer/Music_Sheet.png"],
+                        "Value": "15 :candle:",
+                        "Name": "Music_Sheet"
+                    }
+                ]
+            },
+            {
+                "Name": "Shushing_Light_Scholar",
+                "totalValue": "96:candle: 13 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Lightseekers/Shushing_Light_Scholar/Cape.png"],
+                        "Value": "65 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Shushing_Light_Scholar/Mask.png"],
+                        "Value": "18 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Lightseekers/Shushing_Light_Scholar/Emote.png"],
+                        "Value": "13 :heart:",
+                        "Name": "Emote"
                     }  
                 ]
             }
@@ -1509,27 +2077,115 @@
         ]
     },
     {
-        "Name": "winter",
+        "Name": "Shattering",
         "Travelers":[
             {
-                "Name": "Viajero1",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Shattering_Guide",
+                "totalValue": "0:candle: 4 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
-                        "Value": "0 :candle:",
-                        "Name": "capa"
+                        "File": ["img/Shattering/Shattering_Guide/Cape_Krill.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Cape_Krill"
+                    },
+                    {
+                        "File": ["img/Shattering/Shattering_Guide/Cape_Manta.png"],
+                        "Value": "2 :heart:",
+                        "Name": "Cape_Manta"
                     }   
                 ]
             },
             {
-                "Name": "Viajero2",
-                "totalValue": "0:candle: 0 :heart:",
+                "Name": "Jellyfish_Tree",
+                "totalValue": "96:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/error.png"],
+                        "File": ["img/Shattering/Jellyfish_Tree/Cape.png"],
+                        "Value": "42 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Shattering/Jellyfish_Tree/Hair.png"],
+                        "Value": "35 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Shattering/Jellyfish_Tree/Access_Hair.png"],
                         "Value": "0 :candle:",
-                        "Name": "capa"
+                        "Name": "Access_Hair"
+                    }   
+                ]
+            },
+            {
+                "Name": "Manta_Tree",
+                "totalValue": "97:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Shattering/Manta_Tree/Outfit.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Outfit"
+                    },
+                    {
+                        "File": ["img/Shattering/Manta_Tree/Cape.png"],
+                        "Value": "35 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Shattering/Manta_Tree/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Shattering/Manta_Tree/Music_Sheet.png"],
+                        "Value": "27 :candle:",
+                        "Name": "Music_Sheet"
+                    }   
+                ]
+            },
+            {
+                "Name": "Dragon_Tree",
+                "totalValue": "96:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Shattering/Dragon_Tree/Hair.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Hair"
+                    },
+                    {
+                        "File": ["img/Shattering/Dragon_Tree/Access.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Access"
+                    },
+                    {
+                        "File": ["img/Shattering/Dragon_Tree/Prop.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Prop"
+                    }   
+                ]
+            },
+            {
+                "Name": "Darkness_Plant_Tree",
+                "totalValue": "97:candle: 0 :heart:",
+                "Arts": [
+                    {
+                        "File": ["img/Shattering/Darkness_Plant_Tree/Cape.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Cape"
+                    },
+                    {
+                        "File": ["img/Shattering/Darkness_Plant_Tree/Mask.png"],
+                        "Value": "0 :candle:",
+                        "Name": "Mask"
+                    },
+                    {
+                        "File": ["img/Shattering/Darkness_Plant_Tree/Access_Hair.png"],
+                        "Value": "27 :candle:",
+                        "Name": "Access_Hair"
+                    },
+                    {
+                        "File": ["img/Shattering/Darkness_Plant_Tree/Music_Sheet.png"],
+                        "Value": "35 :candle:",
+                        "Name": "Music_Sheet"
                     }   
                 ]
             }

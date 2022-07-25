@@ -41,7 +41,7 @@ function seasonOptions(interaction){
 
 function art(request, articulesDates, interaction){
     if (!articulesDates.find(articule => articule.Name === request[2])) 
-        return travelers(request.pop(), interaction);
+        return articules(request.pop(), interaction);
 
     const ARTICULE = articulesDates.find(articule => articule.Name === request[2]);
 

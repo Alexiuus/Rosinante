@@ -2084,12 +2084,12 @@
                 "totalValue": "0:candle: 4 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Shattering/Shattering_Guide/Cape_Krill.png"],
+                        "File": ["img/seasons/Shattering/Shattering_Guide/Cape_Krill.png"],
                         "Value": "2 :heart:",
                         "Name": "Cape_Krill"
                     },
                     {
-                        "File": ["img/Shattering/Shattering_Guide/Cape_Manta.png"],
+                        "File": ["img/seasons/Shattering/Shattering_Guide/Cape_Manta.png"],
                         "Value": "2 :heart:",
                         "Name": "Cape_Manta"
                     }   
@@ -2100,17 +2100,17 @@
                 "totalValue": "96:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Shattering/Jellyfish_Tree/Cape.png"],
+                        "File": ["img/seasons/Shattering/Jellyfish_Tree/Cape.png"],
                         "Value": "42 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Shattering/Jellyfish_Tree/Hair.png"],
+                        "File": ["img/seasons/Shattering/Jellyfish_Tree/Hair.png"],
                         "Value": "35 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Shattering/Jellyfish_Tree/Access_Hair.png"],
+                        "File": ["img/seasons/Shattering/Jellyfish_Tree/Access_Hair.png"],
                         "Value": "0 :candle:",
                         "Name": "Access_Hair"
                     }   
@@ -2121,22 +2121,22 @@
                 "totalValue": "97:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Shattering/Manta_Tree/Outfit.png"],
+                        "File": ["img/seasons/Shattering/Manta_Tree/Outfit.png"],
                         "Value": "0 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Shattering/Manta_Tree/Cape.png"],
+                        "File": ["img/seasons/Shattering/Manta_Tree/Cape.png"],
                         "Value": "35 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Shattering/Manta_Tree/Hair.png"],
+                        "File": ["img/seasons/Shattering/Manta_Tree/Hair.png"],
                         "Value": "0 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Shattering/Manta_Tree/Music_Sheet.png"],
+                        "File": ["img/seasons/Shattering/Manta_Tree/Music_Sheet.png"],
                         "Value": "27 :candle:",
                         "Name": "Music_Sheet"
                     }   
@@ -2147,17 +2147,17 @@
                 "totalValue": "96:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Shattering/Dragon_Tree/Hair.png"],
+                        "File": ["img/seasons/Shattering/Dragon_Tree/Hair.png"],
                         "Value": "0 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Shattering/Dragon_Tree/Access.png"],
+                        "File": ["img/seasons/Shattering/Dragon_Tree/Access.png"],
                         "Value": "0 :candle:",
                         "Name": "Access"
                     },
                     {
-                        "File": ["img/Shattering/Dragon_Tree/Prop.png"],
+                        "File": ["img/seasons/Shattering/Dragon_Tree/Prop.png"],
                         "Value": "0 :candle:",
                         "Name": "Prop"
                     }   
@@ -2168,22 +2168,22 @@
                 "totalValue": "97:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Shattering/Darkness_Plant_Tree/Cape.png"],
+                        "File": ["img/seasons/Shattering/Darkness_Plant_Tree/Cape.png"],
                         "Value": "0 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Shattering/Darkness_Plant_Tree/Mask.png"],
+                        "File": ["img/seasons/Shattering/Darkness_Plant_Tree/Mask.png"],
                         "Value": "0 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Shattering/Darkness_Plant_Tree/Access_Hair.png"],
+                        "File": ["img/seasons/Shattering/Darkness_Plant_Tree/Access_Hair.png"],
                         "Value": "27 :candle:",
                         "Name": "Access_Hair"
                     },
                     {
-                        "File": ["img/Shattering/Darkness_Plant_Tree/Music_Sheet.png"],
+                        "File": ["img/seasons/Shattering/Darkness_Plant_Tree/Music_Sheet.png"],
                         "Value": "35 :candle:",
                         "Name": "Music_Sheet"
                     }   

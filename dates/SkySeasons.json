@@ -1792,7 +1792,7 @@
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Lightseekers/Lightseekers_Guide/capa.png"],
+                        "File": ["img/seasons/Lightseekers/Lightseekers_Guide/capa.png"],
                         "Value": "0 :candle:",
                         "Name": "Access"
                     }  
@@ -1803,22 +1803,22 @@
                 "totalValue": "123:candle: 8 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Cape.png"],
+                        "File": ["img/seasons/Lightseekers/Piggyback_Lightseeker/Cape.png"],
                         "Value": "60 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Mask.png"],
+                        "File": ["img/seasons/Lightseekers/Piggyback_Lightseeker/Mask.png"],
                         "Value": "24 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Hair.png"],
+                        "File": ["img/seasons/Lightseekers/Piggyback_Lightseeker/Hair.png"],
                         "Value": "26 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Lightseekers/Piggyback_Lightseeker/Emote.png"],
+                        "File": ["img/seasons/Lightseekers/Piggyback_Lightseeker/Emote.png"],
                         "Value": "8 :heart:",
                         "Name": "Emote"
                     }  
@@ -1829,22 +1829,22 @@
                 "totalValue": "126:candle: 7 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Mask.png"],
+                        "File": ["img/seasons/Lightseekers/Doublefive_Light_Catcher/Mask.png"],
                         "Value": "24 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Hair.png"],
+                        "File": ["img/seasons/Lightseekers/Doublefive_Light_Catcher/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Instrument.png"],
+                        "File": ["img/seasons/Lightseekers/Doublefive_Light_Catcher/Instrument.png"],
                         "Value": "55 :candle:",
                         "Name": "Instrument"
                     },
                     {
-                        "File": ["img/Lightseekers/Doublefive_Light_Catcher/Emote.png"],
+                        "File": ["img/seasons/Lightseekers/Doublefive_Light_Catcher/Emote.png"],
                         "Value": "7 :heart:",
                         "Name": "Emote"
                     }  
@@ -1855,27 +1855,27 @@
                 "totalValue": "151:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Lightseekers/Laidback_Pioneer/Mask.png"],
+                        "File": ["img/seasons/Lightseekers/Laidback_Pioneer/Mask.png"],
                         "Value": "30 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Lightseekers/Laidback_Pioneer/Hair.png"],
+                        "File": ["img/seasons/Lightseekers/Laidback_Pioneer/Hair.png"],
                         "Value": "18 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Lightseekers/Laidback_Pioneer/Access.png"],
+                        "File": ["img/seasons/Lightseekers/Laidback_Pioneer/Access.png"],
                         "Value": "75 :candle:",
                         "Name": "Access"
                     },
                     {
-                        "File": ["img/Lightseekers/Laidback_Pioneer/Emote.png"],
+                        "File": ["img/seasons/Lightseekers/Laidback_Pioneer/Emote.png"],
                         "Value": "0 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Lightseekers/Laidback_Pioneer/Music_Sheet.png"],
+                        "File": ["img/seasons/Lightseekers/Laidback_Pioneer/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1886,22 +1886,22 @@
                 "totalValue": "131:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Lightseekers/Twirling_Champion/Mask.png"],
+                        "File": ["img/seasons/Lightseekers/Twirling_Champion/Mask.png"],
                         "Value": "24 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Lightseekers/Twirling_Champion/Hair.png"],
+                        "File": ["img/seasons/Lightseekers/Twirling_Champion/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Lightseekers/Twirling_Champion/Instrument.png"],
+                        "File": ["img/seasons/Lightseekers/Twirling_Champion/Instrument.png"],
                         "Value": "60 :candle:",
                         "Name": "Instrument"
                     },
                     {
-                        "File": ["img/Lightseekers/Twirling_Champion/Emote.png"],
+                        "File": ["img/seasons/Lightseekers/Twirling_Champion/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1912,32 +1912,32 @@
                 "totalValue": "190:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Lightseekers/Crab_Whisperer/Cape.png"],
+                        "File": ["img/seasons/Lightseekers/Crab_Whisperer/Cape.png"],
                         "Value": "70 :candle:",
                         "Name": "Cape"
                     }, 
                     {
-                        "File": ["img/Lightseekers/Crab_Whisperer/Mask.png"],
+                        "File": ["img/seasons/Lightseekers/Crab_Whisperer/Mask.png"],
                         "Value": "30 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Lightseekers/Crab_Whisperer/Hair.png"],
+                        "File": ["img/seasons/Lightseekers/Crab_Whisperer/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Lightseekers/Crab_Whisperer/Prop.png"],
+                        "File": ["img/seasons/Lightseekers/Crab_Whisperer/Prop.png"],
                         "Value": "20 :candle:",
                         "Name": "Prop"
                     },
                     {
-                        "File": ["img/Lightseekers/Crab_Whisperer/Emote.png"],
+                        "File": ["img/seasons/Lightseekers/Crab_Whisperer/Emote.png"],
                         "Value": "0 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Lightseekers/Crab_Whisperer/Music_Sheet.png"],
+                        "File": ["img/seasons/Lightseekers/Crab_Whisperer/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }
@@ -1948,17 +1948,17 @@
                 "totalValue": "96:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Lightseekers/Shushing_Light_Scholar/Cape.png"],
+                        "File": ["img/seasons/Lightseekers/Shushing_Light_Scholar/Cape.png"],
                         "Value": "65 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Lightseekers/Shushing_Light_Scholar/Mask.png"],
+                        "File": ["img/seasons/Lightseekers/Shushing_Light_Scholar/Mask.png"],
                         "Value": "18 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Lightseekers/Shushing_Light_Scholar/Emote.png"],
+                        "File": ["img/seasons/Lightseekers/Shushing_Light_Scholar/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  

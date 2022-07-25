@@ -962,11 +962,11 @@
                 "totalValue": "0:candle: 4 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Prophecy/Prophecy/Mask.png"],
+                        "File": ["img/seasons/Prophecy/Prophecy/Mask.png"],
                         "Value": "2 :heart:",
                         "Name": "Mask"
                     },{
-                        "File": ["img/Prophecy/Prophecy/instrument.png"],
+                        "File": ["img/seasons/Prophecy/Prophecy/instrument.png"],
                         "Value": "2 :heart:",
                         "Name": "instrument"
                     }  
@@ -977,22 +977,22 @@
                 "totalValue": "168 :candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Prophecy/Prophet_of_Water/Cape.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Water/Cape.png"],
                         "Value": "75 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Water/Mask.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Water/Mask.png"],
                         "Value": "55 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Water/Hair.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Water/Hair.png"],
                         "Value": "44 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Water/Emote.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Water/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1003,32 +1003,32 @@
                 "totalValue": "211:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Prophecy/Prophet_of_Earth/Cape.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Earth/Cape.png"],
                         "Value": "75 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Earth/Mask.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Earth/Mask.png"],
                         "Value": "44 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Earth/Hair.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Earth/Hair.png"],
                         "Value": "44 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Earth/Emote.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Earth/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Earth/Music_sheet.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Earth/Music_sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_sheet"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Earth/Prop.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Earth/Prop.png"],
                         "Value": "15 :candle:",
                         "Name": "Prop"
                     } 
@@ -1039,27 +1039,27 @@
                 "totalValue": "201:candle: 12 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Prophecy/Prophet_of_Air/Cape.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Air/Cape.png"],
                         "Value": "75 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Air/Mask.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Air/Mask.png"],
                         "Value": "54 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Air/Hair.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Air/Hair.png"],
                         "Value": "44 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Air/Emote.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Air/Emote.png"],
                         "Value": "13 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Air/Prop.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Air/Prop.png"],
                         "Value": "15 :candle:",
                         "Name": "Prop"
                     }  
@@ -1070,32 +1070,32 @@
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Prophecy/Prophet_of_Fire/Outfit.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Fire/Outfit.png"],
                         "Value": "75 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Fire/Mask.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Fire/Mask.png"],
                         "Value": "55 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Fire/Hair.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Fire/Hair.png"],
                         "Value": "44 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Fire/Prop.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Fire/Prop.png"],
                         "Value": "13 :heart:",
                         "Name": "Prop"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Fire/Emote.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Fire/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Prophecy/Prophet_of_Fire/Music_Sheet.png"],
+                        "File": ["img/seasons/Prophecy/Prophet_of_Fire/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1111,12 +1111,12 @@
                 "totalValue": "0:candle: 6 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Santuary/Santuary_Guide/error.png"],
+                        "File": ["img/seasons/Santuary/Santuary_Guide/error.png"],
                         "Value": "3 :heart:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Santuary/Santuary_Guide/HandPand.png"],
+                        "File": ["img/seasons/Santuary/Santuary_Guide/HandPand.png"],
                         "Value": "3 :heart:",
                         "Name": "HandPand"
                     }  
@@ -1127,22 +1127,22 @@
                 "totalValue": "140:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Santuary/Timid_Bookworm/Cape.png"],
+                        "File": ["img/seasons/Santuary/Timid_Bookworm/Cape.png"],
                         "Value": "70 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Santuary/Timid_Bookworm/Hair.png"],
+                        "File": ["img/seasons/Santuary/Timid_Bookworm/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Santuary/Timid_Bookworm/Emote.png"],
+                        "File": ["img/seasons/Santuary/Timid_Bookworm/Emote.png"],
                         "Value": "0 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Santuary/Timid_Bookworm/Music_Sheet.png"],
+                        "File": ["img/seasons/Santuary/Timid_Bookworm/Music_Sheet.png"],
                         "Value": "0 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1153,17 +1153,17 @@
                 "totalValue": "125:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Santuary/Rallying_Thrillseeker/Outfit.png"],
+                        "File": ["img/seasons/Santuary/Rallying_Thrillseeker/Outfit.png"],
                         "Value": "70 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Santuary/Rallying_Thrillseeker/Hair.png"],
+                        "File": ["img/seasons/Santuary/Rallying_Thrillseeker/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Santuary/Rallying_Thrillseeker/Emote.png"],
+                        "File": ["img/seasons/Santuary/Rallying_Thrillseeker/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1174,27 +1174,27 @@
                 "totalValue": "139:candle: 29 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Santuary/Hiking_Grouch/Mask.png"],
+                        "File": ["img/seasons/Santuary/Hiking_Grouch/Mask.png"],
                         "Value": "34 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Santuary/Hiking_Grouch/Hair.png"],
+                        "File": ["img/seasons/Santuary/Hiking_Grouch/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Santuary/Hiking_Grouch/Access_Hair.png"],
+                        "File": ["img/seasons/Santuary/Hiking_Grouch/Access_Hair.png"],
                         "Value": "50 :candle:",
                         "Name": "Access_Hair"
                     },
                     {
-                        "File": ["img/Santuary/Hiking_Grouch/Access.png"],
+                        "File": ["img/seasons/Santuary/Hiking_Grouch/Access.png"],
                         "Value": "16 :heart:",
                         "Name": "Access"
                     },
                     {
-                        "File": ["img/Santuary/Hiking_Grouch/Emote.png"],
+                        "File": ["img/seasons/Santuary/Hiking_Grouch/Emote.png"],
                         "Value": "0 :candle:",
                         "Name": "Emote"
                     }  
@@ -1205,22 +1205,22 @@
                 "totalValue": "162:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Santuary/Grateful_Shell_Collector/Cape.png"],
+                        "File": ["img/seasons/Santuary/Grateful_Shell_Collector/Cape.png"],
                         "Value": "70 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Santuary/Grateful_Shell_Collector/Hair.png"],
+                        "File": ["img/seasons/Santuary/Grateful_Shell_Collector/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Santuary/Grateful_Shell_Collector/Access.png"],
+                        "File": ["img/seasons/Santuary/Grateful_Shell_Collector/Access.png"],
                         "Value": "45 :candle:",
                         "Name": "Access"
                     },
                     {
-                        "File": ["img/Santuary/Grateful_Shell_Collector/Emote.png"],
+                        "File": ["img/seasons/Santuary/Grateful_Shell_Collector/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1231,27 +1231,27 @@
                 "totalValue": "197:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Santuary/Chill_Sunbather/Cape.png"],
+                        "File": ["img/seasons/Santuary/Chill_Sunbather/Cape.png"],
                         "Value": "70 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Santuary/Chill_Sunbather/Hair.png"],
+                        "File": ["img/seasons/Santuary/Chill_Sunbather/Hair.png"],
                         "Value": "44 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Santuary/Chill_Sunbather/Access_Hair.png"],
+                        "File": ["img/seasons/Santuary/Chill_Sunbather/Access_Hair.png"],
                         "Value": "50 :candle:",
                         "Name": "Access_Hair"
                     },
                     {
-                        "File": ["img/Santuary/Chill_Sunbather/Access.png"],
+                        "File": ["img/seasons/Santuary/Chill_Sunbather/Access.png"],
                         "Value": "20 :candle:",
                         "Name": "Access"
                     },
                     {
-                        "File": ["img/Santuary/Chill_Sunbather/Emote.png"],
+                        "File": ["img/seasons/Santuary/Chill_Sunbather/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1262,27 +1262,27 @@
                 "totalValue": "135:candle: 15 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Santuary/Jelly_Whisperer/Outfit.png"],
+                        "File": ["img/seasons/Santuary/Jelly_Whisperer/Outfit.png"],
                         "Value": "65 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Santuary/Jelly_Whisperer/Hair.png"],
+                        "File": ["img/seasons/Santuary/Jelly_Whisperer/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Santuary/Jelly_Whisperer/Access.png"],
+                        "File": ["img/seasons/Santuary/Jelly_Whisperer/Access.png"],
                         "Value": "15 :heart:",
                         "Name": "Access"
                     },
                     {
-                        "File": ["img/Santuary/Jelly_Whisperer/Emote.png"],
+                        "File": ["img/seasons/Santuary/Jelly_Whisperer/Emote.png"],
                         "Value": "0 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Santuary/Jelly_Whisperer/Music_Sheet.png"],
+                        "File": ["img/seasons/Santuary/Jelly_Whisperer/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1298,12 +1298,12 @@
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Enchantment/Enchantment_Guide/Hair.png"],
+                        "File": ["img/seasons/Enchantment/Enchantment_Guide/Hair.png"],
                         "Value": "0 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Enchantment/Enchantment_Guide/Access.png"],
+                        "File": ["img/seasons/Enchantment/Enchantment_Guide/Access.png"],
                         "Value": "0 :candle:",
                         "Name": "Access"
                     }  
@@ -1314,17 +1314,17 @@
                 "totalValue": "77:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Enchantment/Nodding_Muralist/Mask.png"],
+                        "File": ["img/seasons/Enchantment/Nodding_Muralist/Mask.png"],
                         "Value": "30 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Enchantment/Nodding_Muralist/Hair.png"],
+                        "File": ["img/seasons/Enchantment/Nodding_Muralist/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Enchantment/Nodding_Muralist/Emote.png"],
+                        "File": ["img/seasons/Enchantment/Nodding_Muralist/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1335,22 +1335,22 @@
                 "totalValue": "167:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Enchantment/Indifferent_Alchemist/Cape.png"],
+                        "File": ["img/seasons/Enchantment/Indifferent_Alchemist/Cape.png"],
                         "Value": "70 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Enchantment/Indifferent_Alchemist/Mask.png"],
+                        "File": ["img/seasons/Enchantment/Indifferent_Alchemist/Mask.png"],
                         "Value": "42 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Enchantment/Indifferent_Alchemist/Hair.png"],
+                        "File": ["img/seasons/Enchantment/Indifferent_Alchemist/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Enchantment/Indifferent_Alchemist/Emote.png"],
+                        "File": ["img/seasons/Enchantment/Indifferent_Alchemist/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1361,17 +1361,17 @@
                 "totalValue": "115:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Enchantment/Crab_Walker/Cape.png"],
+                        "File": ["img/seasons/Enchantment/Crab_Walker/Cape.png"],
                         "Value": "60 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Enchantment/Crab_Walker/Hair.png"],
+                        "File": ["img/seasons/Enchantment/Crab_Walker/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Enchantment/Crab_Walker/Emote.png"],
+                        "File": ["img/seasons/Enchantment/Crab_Walker/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1382,17 +1382,17 @@
                 "totalValue": "89:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Enchantment/Scarecrow_Farmer/Mask.png"],
+                        "File": ["img/seasons/Enchantment/Scarecrow_Farmer/Mask.png"],
                         "Value": "42 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Enchantment/Scarecrow_Farmer/Hair.png"],
+                        "File": ["img/seasons/Enchantment/Scarecrow_Farmer/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Enchantment/Scarecrow_Farmer/Emote.png"],
+                        "File": ["img/seasons/Enchantment/Scarecrow_Farmer/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1403,17 +1403,17 @@
                 "totalValue": "112:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Enchantment/Snoozing_Carpenter/Cape.png"],
+                        "File": ["img/seasons/Enchantment/Snoozing_Carpenter/Cape.png"],
                         "Value": "65 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Enchantment/Snoozing_Carpenter/Hair.png"],
+                        "File": ["img/seasons/Enchantment/Snoozing_Carpenter/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Enchantment/Snoozing_Carpenter/Emote.png"],
+                        "File": ["img/seasons/Enchantment/Snoozing_Carpenter/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1424,32 +1424,32 @@
                 "totalValue": "195:candle: 10 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Enchantment/Playfighting_Herbalist/Cape.png"],
+                        "File": ["img/seasons/Enchantment/Playfighting_Herbalist/Cape.png"],
                         "Value": "70 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Enchantment/Playfighting_Herbalist/Mask.png"],
+                        "File": ["img/seasons/Enchantment/Playfighting_Herbalist/Mask.png"],
                         "Value": "30 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Enchantment/Playfighting_Herbalist/Hair.png"],
+                        "File": ["img/seasons/Enchantment/Playfighting_Herbalist/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Enchantment/Playfighting_Herbalist/Emote.png"],
+                        "File": ["img/seasons/Enchantment/Playfighting_Herbalist/Emote.png"],
                         "Value": "10 :heart:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Enchantment/Playfighting_Herbalist/Prop.png"],
+                        "File": ["img/seasons/Enchantment/Playfighting_Herbalist/Prop.png"],
                         "Value": "20 :candle:",
                         "Name": "Prop"
                     },
                     {
-                        "File": ["img/Enchantment/Playfighting_Herbalist/Music_Sheet.png"],
+                        "File": ["img/seasons/Enchantment/Playfighting_Herbalist/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1465,22 +1465,22 @@
                 "totalValue": "33:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Rhythm/Troupe_Greeter/Outfit.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Greeter/Outfit.png"],
                         "Value": "0 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Rhythm/Troupe_Greeter/Mask.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Greeter/Mask.png"],
                         "Value": "12 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Rhythm/Troupe_Greeter/Emote.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Greeter/Emote.png"],
                         "Value": "10 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Rhythm/Troupe_Greeter/Music_Sheet.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Greeter/Music_Sheet.png"],
                         "Value": "8 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1491,27 +1491,27 @@
                 "totalValue": "157:candle: 19 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Rhythm/Festival_Spin_Dancer/Outfit.png"],
+                        "File": ["img/seasons/Rhythm/Festival_Spin_Dancer/Outfit.png"],
                         "Value": "65 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Rhythm/Festival_Spin_Dancer/Hair.png"],
+                        "File": ["img/seasons/Rhythm/Festival_Spin_Dancer/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Rhythm/Festival_Spin_Dancer/Emote.png"],
+                        "File": ["img/seasons/Rhythm/Festival_Spin_Dancer/Emote.png"],
                         "Value": "19 :heart:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Rhythm/Festival_Spin_Dancer/Prop.png"],
+                        "File": ["img/seasons/Rhythm/Festival_Spin_Dancer/Prop.png"],
                         "Value": "30 :candle:",
                         "Name": "Prop"
                     },
                     {
-                        "File": ["img/Rhythm/Festival_Spin_Dancer/Music_Sheet.png"],
+                        "File": ["img/seasons/Rhythm/Festival_Spin_Dancer/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1522,22 +1522,22 @@
                 "totalValue": "135:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Rhythm/Admiring_Actor/Outfit.png"],
+                        "File": ["img/seasons/Rhythm/Admiring_Actor/Outfit.png"],
                         "Value": "65 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Rhythm/Admiring_Actor/Mask.png"],
+                        "File": ["img/seasons/Rhythm/Admiring_Actor/Mask.png"],
                         "Value": "42 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Rhythm/Admiring_Actor/Emote.png"],
+                        "File": ["img/seasons/Rhythm/Admiring_Actor/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Rhythm/Admiring_Actor/Music_Sheet.png"],
+                        "File": ["img/seasons/Rhythm/Admiring_Actor/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1548,27 +1548,27 @@
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Rhythm/Troupe_Juggler/Outfit.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Juggler/Outfit.png"],
                         "Value": "0 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Rhythm/Troupe_Juggler/Cape.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Juggler/Cape.png"],
                         "Value": "0 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Rhythm/Troupe_Juggler/Hair.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Juggler/Hair.png"],
                         "Value": "0 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Rhythm/Troupe_Juggler/Emote.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Juggler/Emote.png"],
                         "Value": "0 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Rhythm/Troupe_Juggler/Prop.png"],
+                        "File": ["img/seasons/Rhythm/Troupe_Juggler/Prop.png"],
                         "Value": "0 :candle:",
                         "Name": "Prop"
                     }  
@@ -1579,22 +1579,22 @@
                 "totalValue": "168:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Rhythm/Respectful_Pianist/Mask.png"],
+                        "File": ["img/seasons/Rhythm/Respectful_Pianist/Mask.png"],
                         "Value": "48 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Rhythm/Respectful_Pianist/Hair.png"],
+                        "File": ["img/seasons/Rhythm/Respectful_Pianist/Hair.png"],
                         "Value": "26 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Rhythm/Respectful_Pianist/Instrument.png"],
+                        "File": ["img/seasons/Rhythm/Respectful_Pianist/Instrument.png"],
                         "Value": "75 :candle:",
                         "Name": "Instrument"
                     },
                     {
-                        "File": ["img/Rhythm/Respectful_Pianist/Emote.png"],
+                        "File": ["img/seasons/Rhythm/Respectful_Pianist/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1605,22 +1605,22 @@
                 "totalValue": "195:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Rhythm/Thoughtful_Director/Cape.png"],
+                        "File": ["img/seasons/Rhythm/Thoughtful_Director/Cape.png"],
                         "Value": "75 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Rhythm/Thoughtful_Director/Mask.png"],
+                        "File": ["img/seasons/Rhythm/Thoughtful_Director/Mask.png"],
                         "Value": "42 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Rhythm/Thoughtful_Director/Instrument.png"],
+                        "File": ["img/seasons/Rhythm/Thoughtful_Director/Instrument.png"],
                         "Value": "65 :candle:",
                         "Name": "Instrument"
                     },
                     {
-                        "File": ["img/Rhythm/Thoughtful_Director/Emote.png"],
+                        "File": ["img/seasons/Rhythm/Thoughtful_Director/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1636,17 +1636,17 @@
                 "totalValue": "115:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Belonging/Confetti_Cousin/Cape.png"],
+                        "File": ["img/seasons/Belonging/Confetti_Cousin/Cape.png"],
                         "Value": "60 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Belonging/Confetti_Cousin/Hair.png"],
+                        "File": ["img/seasons/Belonging/Confetti_Cousin/Hair.png"],
                         "Value": "42 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Belonging/Confetti_Cousin/Emote.png"],
+                        "File": ["img/seasons/Belonging/Confetti_Cousin/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1657,17 +1657,17 @@
                 "totalValue": "103:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Belonging/Boogie_Kid/Outfit.png"],
+                        "File": ["img/seasons/Belonging/Boogie_Kid/Outfit.png"],
                         "Value": "60 :candle:",
                         "Name": "Outfit"
                     },
                     {
-                        "File": ["img/Belonging/Boogie_Kid/Mask.png"],
+                        "File": ["img/seasons/Belonging/Boogie_Kid/Mask.png"],
                         "Value": "30 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Belonging/Boogie_Kid/Emote.png"],
+                        "File": ["img/seasons/Belonging/Boogie_Kid/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1678,22 +1678,22 @@
                 "totalValue": "116:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Belonging/Sparkler_Parent/Mask.png"],
+                        "File": ["img/seasons/Belonging/Sparkler_Parent/Mask.png"],
                         "Value": "36 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Belonging/Sparkler_Parent/Hair.png"],
+                        "File": ["img/seasons/Belonging/Sparkler_Parent/Hair.png"],
                         "Value": "34 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Belonging/Sparkler_Parent/Emote.png"],
+                        "File": ["img/seasons/Belonging/Sparkler_Parent/Emote.png"],
                         "Value": "13 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Belonging/Sparkler_Parent/Prop.png"],
+                        "File": ["img/seasons/Belonging/Sparkler_Parent/Prop.png"],
                         "Value": "33 :candle:",
                         "Name": "Prop"
                     }  
@@ -1704,27 +1704,27 @@
                 "totalValue": "156:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Belonging/Wise_Grandparent/Cape.png"],
+                        "File": ["img/seasons/Belonging/Wise_Grandparent/Cape.png"],
                         "Value": "70 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Belonging/Wise_Grandparent/Mask.png"],
+                        "File": ["img/seasons/Belonging/Wise_Grandparent/Mask.png"],
                         "Value": "48 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Belonging/Wise_Grandparent/Prop.png"],
+                        "File": ["img/seasons/Belonging/Wise_Grandparent/Prop.png"],
                         "Value": "10 :candle:",
                         "Name": "Prop"
                     },
                     {
-                        "File": ["img/Belonging/Wise_Grandparent/Emote.png"],
+                        "File": ["img/seasons/Belonging/Wise_Grandparent/Emote.png"],
                         "Value": "0 :candle:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Belonging/Wise_Grandparent/Music_Sheet.png"],
+                        "File": ["img/seasons/Belonging/Wise_Grandparent/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1735,22 +1735,22 @@
                 "totalValue": "195:candle: 13 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Belonging/Pleaful_Parent/Cape.png"],
+                        "File": ["img/seasons/Belonging/Pleaful_Parent/Cape.png"],
                         "Value": "65 :candle:",
                         "Name": "Cape"
                     },
                     {
-                        "File": ["img/Belonging/Pleaful_Parent/Mask.png"],
+                        "File": ["img/seasons/Belonging/Pleaful_Parent/Mask.png"],
                         "Value": "42 :candle:",
                         "Name": "Mask"
                     },
                     {
-                        "File": ["img/Belonging/Pleaful_Parent/Instrument.png"],
+                        "File": ["img/seasons/Belonging/Pleaful_Parent/Instrument.png"],
                         "Value": "75 :candle:",
                         "Name": "Instrument"
                     },
                     {
-                        "File": ["img/Belonging/Pleaful_Parent/Emote.png"],
+                        "File": ["img/seasons/Belonging/Pleaful_Parent/Emote.png"],
                         "Value": "13 :heart:",
                         "Name": "Emote"
                     }  
@@ -1761,22 +1761,22 @@
                 "totalValue": "148:candle: 9 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/Belonging/Hairtousle_Teen/Hair.png"],
+                        "File": ["img/seasons/Belonging/Hairtousle_Teen/Hair.png"],
                         "Value": "50 :candle:",
                         "Name": "Hair"
                     },
                     {
-                        "File": ["img/Belonging/Hairtousle_Teen/Instrument.png"],
+                        "File": ["img/seasons/Belonging/Hairtousle_Teen/Instrument.png"],
                         "Value": "70 :candle:",
                         "Name": "Instrument"
                     },
                     {
-                        "File": ["img/Belonging/Hairtousle_Teen/Emote.png"],
+                        "File": ["img/seasons/Belonging/Hairtousle_Teen/Emote.png"],
                         "Value": "9 :heart:",
                         "Name": "Emote"
                     },
                     {
-                        "File": ["img/Belonging/Hairtousle_Teen/Music_Sheet.png"],
+                        "File": ["img/seasons/Belonging/Hairtousle_Teen/Music_Sheet.png"],
                         "Value": "15 :candle:",
                         "Name": "Music_Sheet"
                     }  
@@ -1792,7 +1792,7 @@
                 "totalValue": "0:candle: 0 :heart:",
                 "Arts": [
                     {
-                        "File": ["img/seasons/Lightseekers/Lightseekers_Guide/capa.png"],
+                        "File": ["img/seasons/Lightseekers/Lightseekers_Guide/Access.png"],
                         "Value": "0 :candle:",
                         "Name": "Access"
                     }  

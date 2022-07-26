@@ -40,8 +40,6 @@ function seasonOptions(interaction){
 }
 
 function art(request, articulesDates, interaction){
-    if (!articulesDates.find(articule => articule.Name === request[2])) 
-        return travelers(request.pop(), interaction);
 
     const ARTICULE = articulesDates.find(articule => articule.Name === request[2]);
 
@@ -57,34 +55,31 @@ function art(request, articulesDates, interaction){
 
 
 function articules(request, travelersDates, interaction){
-    if (!travelersDates.find(traveler => traveler.Name === request[1])) 
-        return travelers(request[0], interaction);
-    
-    const ARTICULES = travelersDates.find(traveler => traveler.Name === request[1]).Arts;
+    const ARTICULES = travelersDates.find(traveler => traveler.Name.toLowerCase() === request[1]).Arts;
 
-    if(request.length == 3){
-        
+    if(request.length === 3 && request[2] !== null && 
+        !!ARTICULES.find(articule => articule.Name === request[2])){    
         return art(request, ARTICULES, interaction);
     }else{
         const embed = new MessageEmbed().setTitle(ARTs_TITLE(request))
         .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
         .setColor(rolHexColor(interaction)) 
-        .addField(ARTs_TITLE_FIELD(request), ARTs_COMMENT(ARTICULES));
+        .addField(ARTs_TITLE_FIELD(request[1]), ARTs_COMMENT(ARTICULES));
         
         return interaction.reply({ embeds: [embed] });
     }
 }
 
-function travelers(destiny, interaction){    
-    const REQ = destiny.split("/");
-    if (!json.find(season => season.Name === REQ[0])) return seasonOptions(interaction);
+function travelers(destiny, interaction){   
+    if (!json.find(season => season.Name.toLowerCase() === destiny[0])) return seasonOptions(interaction);
 
-    const TRAVELERS = json.find(traveler => traveler.Name === REQ[0]).Travelers;
-    
-    if(REQ.length >= 2){
-        return articules(REQ, TRAVELERS, interaction);
+    const TRAVELERS = json.find(traveler => traveler.Name.toLowerCase() === destiny[0]).Travelers;
+    if(destiny.length >= 2 && destiny[1] !== null &&
+        !!TRAVELERS.find(traveler => traveler.Name.toLowerCase() === destiny[1])){ 
+        
+        return articules(destiny, TRAVELERS, interaction);
     } else {
-        const embed = new MessageEmbed().setTitle(TRAVs_TITLE(REQ[0]))
+        const embed = new MessageEmbed().setTitle(TRAVs_TITLE(destiny[0]))
         .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
         .setColor(rolHexColor(interaction));
 

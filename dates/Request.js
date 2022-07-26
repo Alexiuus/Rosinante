@@ -20,6 +20,9 @@ class RequestInteraction{
     getHoistedOpValue(){
         return (!this.#hoistedOp)? null : this.#hoistedOp.value;
     }
+    getlisDir(){
+        return [this.#group, this.#subcommand, this.getHoistedOpValue()];
+    }
 }
 
 module.exports = {

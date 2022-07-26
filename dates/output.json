@@ -1,0 +1,1216 @@
+{
+    "options":[
+        {
+            "type": 2,
+            "name": "performance",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "perform_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "frantic_stagehand",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "forgetful_storyteller",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "mellow_musician",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "modest_dancer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "abyss",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "abyss_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "anxious_angler",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "ceasing_commodore",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "bumbling_boatswain",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "cackling_cannoneer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "flight",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "flight_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "lively_navigator",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "light_whisperer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "tinkering_chimesmith",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "talented_builder",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "the_little_prince",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "beckoning_ruler",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "gloating_narcissist",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "stretching_lamplighter",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "slouching_soldier",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "sneezing_geographer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "star_collector",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "assembly",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "assembly_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "baffled_botanist",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "scolding_student",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "scaredy_cadet",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "marching_adventurer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "chuckling_scout",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "daydream_forester",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "dreams",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "dreams_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "bearhug_hermit",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "dancing_performer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "peeking_postman",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "spinning_mentor",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "prophecy",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "prophecy_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "prophet_of_water",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "prophet_of_earth",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "prophet_of_air",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "prophet_of_fire",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "santuary",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "santuary_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "timid_bookworm",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "rallying_thrillseeker",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "hiking_grouch",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "grateful_shell_collector",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "chill_sunbather",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "jelly_whisperer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "enchantment",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "enchantment_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "nodding_muralist",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "indifferent_alchemist",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "crab_walker",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "scarecrow_farmer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "snoozing_carpenter",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "playfighting_herbalist",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "rhythm",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "troupe_greeter",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "festival_spin_dancer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "admiring_actor",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "troupe_juggler",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "respectful_pianist",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "thoughtful_director",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "belonging",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "confetti_cousin",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "boogie_kid",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "sparkler_parent",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "wise_grandparent",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "pleaful_parent",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "hairtousle_teen",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "lightseekers",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "lightseekers_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "piggyback_lightseeker",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "doublefive_light_catcher",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "laidback_pioneer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "twirling_champion",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "crab_whisperer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "shushing_light_scholar",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "gratitude",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "sassy_drifter",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "stretching_guru",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "leaping_dancer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "golden_wasteland",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "greeting_shaman",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "shattering",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "shattering_guide",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "jellyfish_tree",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "manta_tree",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "dragon_tree",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "darkness_plant_tree",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type": 2,
+            "name": "basics",
+            "options": [
+                {
+                    "type": 1,
+                    "name": "pointing_candlemaker",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "ushering_stargazer",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "name": "rejecting_voyager",
+                    "description": "traveler",
+                    "options": [
+                        {
+                            "type": 3,
+                            "name": "articule",
+                            "description": "articule",
+                            "required": false
+                        }
+                    ]
+                }
+            ],
+            "description": "season"
+        },
+        {
+            "type":1,
+            "name":"seasons",
+            "description":"Sky",
+            "options":[]
+        },        
+        {
+            "type":1,
+            "name":"help",
+            "description":"How to use the Rosinante bot?",
+            "options":[]
+        }
+        
+    ],
+    "name":"rs",
+    "description":"Rosinante"
+}

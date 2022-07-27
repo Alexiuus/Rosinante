@@ -64,7 +64,7 @@ function articules(request, travelersDates, interaction){
         const embed = new MessageEmbed().setTitle(ARTs_TITLE(request))
         .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
         .setColor(rolHexColor(interaction)) 
-        .addField(ARTs_TITLE_FIELD(request[1]), ARTs_COMMENT(ARTICULES));
+        .addField(TRAVs_COMMAND(ARTICULES.totalValue), ARTs_COMMENT(ARTICULES));
         
         return interaction.reply({ embeds: [embed] });
     }

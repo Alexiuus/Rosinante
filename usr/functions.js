@@ -55,8 +55,9 @@ function art(request, articulesDates, interaction){
 
 
 function articules(request, travelersDates, interaction){
-    const ARTICULES = travelersDates.find(traveler => traveler.Name.toLowerCase() === request[1]).Arts;
-
+    const TRAVELER = travelersDates.find(traveler => traveler.Name.toLowerCase() === request[1])
+    const ARTICULES = TRAVELER.Arts;
+    
     if(request.length === 3 && request[2] !== null && 
         !!ARTICULES.find(articule => articule.Name === request[2])){    
         return art(request, ARTICULES, interaction);
@@ -64,7 +65,7 @@ function articules(request, travelersDates, interaction){
         const embed = new MessageEmbed().setTitle(ARTs_TITLE(request))
         .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
         .setColor(rolHexColor(interaction)) 
-        .addField(TRAVs_COMMAND(ARTICULES.totalValue), ARTs_COMMENT(ARTICULES));
+        .addField(TRAVs_COMMAND(TRAVELER.totalValue), ARTs_COMMENT(ARTICULES));
         
         return interaction.reply({ embeds: [embed] });
     }

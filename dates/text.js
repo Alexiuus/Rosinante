@@ -4,12 +4,11 @@ GIF_HELP = "img/Help.gif";
 
 HELP_TITLE = ':white_check_mark: Rosinante Guide :blush:';
 HELP_TITLE_FIELD = 'How to use Rosinante:grey_question:';
-HELP_COMMENT = ":one: If you use **/rs seasons** Rosinante will respond with \`The Seasons Of \
-Sky\`. \n\n :two: If you use **/rs seasons** \`destiny\` <season> (<season> is the season you want to watch) Rosinante \
-will respond with \`the travelers of the chosen season.\` \n\n :three: If you use \
-**/rs seasons** \`destiny\`<season>/<traveler> (<traveler> is the traveler you want to watch) \
-Rosinante will respond with your accessories. \n\n :four: If you use **/rs seasons** \`destiny\`<season>/<traveler>/<accessory> \
-(<accessory> is the accessory you want to watch) Rosinante will respond with her photos.";
+HELP_COMMENT = ":one: If you use **/rs seasons** Rosinante will respond with \`Sky seasons\`.\
+\n\n :two: If you use **/rs** \`<season> <traveler>\` (<season> is the season you want to watch)\
+Rosinante and <traveler> is the traveler you want to watch Rosinante will respond with your \
+accessories. \n\n :three: If you use **/rs** \`<season> <traveler> <accessory>\` (<accessory> \
+is the accessory you want to watch) Rosinante will respond with her photos.";
 HELP_IMAGE = 'attachment://' + GIF_HELP;
 
 SEASONOP_TITLE = '☆｡Sky Seasons｡☆';

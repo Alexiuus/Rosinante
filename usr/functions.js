@@ -43,12 +43,12 @@ function seasonOptions(interaction){
 function articules(request, travelersDates, interaction){
     const ARTICULES = travelersDates.find(traveler => traveler.Name.toLowerCase() === request[1]);
 
-    const embed = new MessageEmbed().setTitle(request[0] + ": " + ARTICULES.Name)
+    const embed = new MessageEmbed().setTitle(ARTs_TITLE(request))
     .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
     .setColor(rolHexColor(interaction));
     const fileTrav = (fs.existsSync('./' + ARTICULES.File[0]))? ARTICULES.File[0] : 'img/error.png';
     
-    embed.setImage('attachment://' + fileTrav);
+    embed.setImage(ART_IMAGE(fileTrav));
     return interaction.reply({ embeds: [embed], files: [`./${fileTrav}`] });
 }
 

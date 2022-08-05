@@ -1,5 +1,6 @@
 const { MessageEmbed } = require('discord.js');
 const json = require('../dates/SkySeasons.json');
+const fs = require('fs');
 
 require('../dates/text.js');
 
@@ -21,7 +22,7 @@ function help(interaction){
     .setColor(rolHexColor(interaction))
     .addField(HELP_TITLE_FIELD, HELP_COMMENT)
     .setImage(HELP_IMAGE);
-    
+
     return interaction.reply({ embeds: [embed], files: [`./${GIF_HELP}`] });
 }
 
@@ -39,36 +40,16 @@ function seasonOptions(interaction){
     return interaction.reply({ embeds: [embed] });
 }
 
-function art(request, articulesDates, interaction){
-
-    const ARTICULE = articulesDates.find(articule => articule.Name === request[2]);
-
-    const embed = new MessageEmbed().setTitle(ART_TITLE(request, ARTICULE.Name))
-    .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
-    .setColor(rolHexColor(interaction))
-    .addField("Value", ARTICULE.Value)
-    .setImage(ART_IMAGE);
-
-    const msg = { embeds: [embed], files: ["./" + ARTICULE.File] };
-    return interaction.reply(msg);
-}
-
-
 function articules(request, travelersDates, interaction){
-    const TRAVELER = travelersDates.find(traveler => traveler.Name.toLowerCase() === request[1])
-    const ARTICULES = TRAVELER.Arts;
+    const ARTICULES = travelersDates.find(traveler => traveler.Name.toLowerCase() === request[1]);
+
+    const embed = new MessageEmbed().setTitle(request[0] + ": " + ARTICULES.Name)
+    .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
+    .setColor(rolHexColor(interaction));
+    const fileTrav = (fs.existsSync('./' + ARTICULES.File[0]))? ARTICULES.File[0] : 'img/error.png';
     
-    if(request.length === 3 && request[2] !== null && 
-        !!ARTICULES.find(articule => articule.Name === request[2])){    
-        return art(request, ARTICULES, interaction);
-    }else{
-        const embed = new MessageEmbed().setTitle(ARTs_TITLE(request))
-        .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())
-        .setColor(rolHexColor(interaction)) 
-        .addField(TRAVs_COMMAND(TRAVELER.totalValue), ARTs_COMMENT(ARTICULES));
-        
-        return interaction.reply({ embeds: [embed] });
-    }
+    embed.setImage('attachment://' + fileTrav);
+    return interaction.reply({ embeds: [embed], files: [`./${fileTrav}`] });
 }
 
 function travelers(destiny, interaction){   
@@ -77,8 +58,7 @@ function travelers(destiny, interaction){
     const TRAVELERS = json.find(traveler => traveler.Name.toLowerCase() === destiny[0]).Travelers;
     if(destiny.length >= 2 && destiny[1] !== null &&
         !!TRAVELERS.find(traveler => traveler.Name.toLowerCase() === destiny[1])){ 
-        
-        return articules(destiny, TRAVELERS, interaction);
+            return articules(destiny, TRAVELERS, interaction);
     } else {
         const embed = new MessageEmbed().setTitle(TRAVs_TITLE(destiny[0]))
         .setAuthor(interaction.user.username, interaction.user.displayAvatarURL())

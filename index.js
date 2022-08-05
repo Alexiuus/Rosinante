@@ -19,6 +19,20 @@ commandFile.forEach(
 );
 
 ///////////////////////////// BOT REAL /////////////////////////////
+
+async function updateStatus() {
+    const guildNum = await client.guilds.cache.size;
+    const memberNum = await client. guilds.cache.reduce(
+        (prev, guild) => prev + guild.memberCount, 0
+    ); 
+    console.log(guildNum, memberNum);
+    //await client.user.setActivity(`Servers: ${guildNum}`, {type: "LISTENING"});   
+}
+/*
+setInterval(() => {
+    updateStatus();
+}, 5000);
+*/
 client.on("ready", () => {
     console.log(READY_CONSOLE, client.user.tag);
 });
@@ -31,6 +45,7 @@ client.on("interactionCreate", async interaction => {
     try{
         await command.run(interaction);
     }catch(e){
+        console.log(e);
     }
 });
 

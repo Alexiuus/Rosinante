@@ -1,5 +1,5 @@
 READY_CONSOLE = "[Activo] Bot a iniciado como";
-DEFAULTCOLOR = "WHITE";
+DEFAULTCOLOR = "YELLOW";
 GIF_HELP = "img/Help.gif";
 
 HELP_TITLE = ':white_check_mark: Rosinante Guide :blush:';
@@ -12,7 +12,7 @@ HELP_IMAGE = 'attachment://' + GIF_HELP;
 
 SEASONOP_TITLE = '☆｡Sky Seasons｡☆';
 SEASONOP_TITLE_FIELD = (x,y) => `:sparkles: ${x}-${y}`;
-SEASONOP_COMMENT = (x) => `:stars:\`Travellers: ${x}\``;
+SEASONOP_COMMENT = (x) => `:stars:\`Travellers:${x}\``;
 
 ART_TITLE = (x,y) => `:sparkles:${x[0]}-:stars:${x[1]}: ${y}`;
 ART_IMAGE = (x) => `attachment://${x}`;

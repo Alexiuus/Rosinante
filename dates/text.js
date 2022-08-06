@@ -5,14 +5,15 @@ GIF_HELP = "img/Help.gif";
 HELP_TITLE = ':white_check_mark: Rosinante Guide :blush:';
 HELP_TITLE_FIELD = 'How to use Rosinante:grey_question:';
 HELP_COMMENT = ":one: If you use **/rs seasons** Rosinante will respond with \`Sky seasons\`.\
-\n\n :two: If you use **/rs** \`<season> <traveler>\` (<season> is the season you want to watch\
+\n\n :two: If you use **/rs** \`<season> <traveler>\` (<season> is the season you want to watch \
 Rosinante and <traveler> is the traveler you want to watch) Rosinante will respond with your \
 accessories with a photo.";
+
 HELP_IMAGE = 'attachment://' + GIF_HELP;
 
 SEASONOP_TITLE = '☆｡Sky Seasons｡☆';
-SEASONOP_TITLE_FIELD = (x,y) => `:sparkles: ${x}-${y}`;
-SEASONOP_COMMENT = (x) => `:stars:\`Travellers:${x}\``;
+SEASONOP_TITLE_FIELD = (x,y) => `:sparkles: ${x}-${y.Name}`;
+SEASONOP_COMMENT = (x) => `:stars:\`Travellers:${x.Travelers.length}\``;
 
 ART_TITLE = (x,y) => `:sparkles:${x[0]}-:stars:${x[1]}: ${y}`;
 ART_IMAGE = (x) => `attachment://${x}`;

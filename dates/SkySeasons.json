@@ -96,8 +96,7 @@
                 "File": ["img/seasons/The_Little_Prince/Star_Collector/Traveler.png"],
                 "Name": "Star_Collector"
             }
-        ]
-        
+        ]     
     },
     {
         "Name": "Assembly",
@@ -130,8 +129,7 @@
                 "File": ["img/seasons/Assembly/Daydream_Forester/Traveler.png"],
                 "Name": "Daydream_Forester"
             }
-        ]
-        
+        ]    
     },
     {
         "Name": "Dreams",
@@ -152,8 +150,7 @@
                 "File": ["img/seasons/Dreams/Spinning_Mentor/Traveler.png"],
                 "Name": "Spinning_Mentor"
             }
-        ]
-        
+        ]     
     },
     {
         "Name": "Prophecy",

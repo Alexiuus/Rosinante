@@ -6,12 +6,6 @@
             "options": [
                 {
                     "type": 1,
-                    "name": "perform_guide",
-                    "description": "traveler",
-                    "options": []
-                },
-                {
-                    "type": 1,
                     "name": "frantic_stagehand",
                     "description": "traveler",
                     "options": []
@@ -41,12 +35,7 @@
             "type": 2,
             "name": "abyss",
             "options": [
-                {
-                    "type": 1,
-                    "name": "abyss_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "anxious_angler",
@@ -78,12 +67,7 @@
             "type": 2,
             "name": "flight",
             "options": [
-                {
-                    "type": 1,
-                    "name": "flight_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "lively_navigator",
@@ -158,12 +142,7 @@
             "type": 2,
             "name": "assembly",
             "options": [
-                {
-                    "type": 1,
-                    "name": "assembly_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "baffled_botanist",
@@ -207,12 +186,7 @@
             "type": 2,
             "name": "dreams",
             "options": [
-                {
-                    "type": 1,
-                    "name": "dreams_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "bearhug_hermit",
@@ -244,12 +218,7 @@
             "type": 2,
             "name": "prophecy",
             "options": [
-                {
-                    "type": 1,
-                    "name": "prophecy_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "prophet_of_water",
@@ -281,12 +250,7 @@
             "type": 2,
             "name": "santuary",
             "options": [
-                {
-                    "type": 1,
-                    "name": "santuary_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "timid_bookworm",
@@ -330,12 +294,7 @@
             "type": 2,
             "name": "enchantment",
             "options": [
-                {
-                    "type": 1,
-                    "name": "enchantment_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "nodding_muralist",
@@ -465,12 +424,7 @@
             "type": 2,
             "name": "lightseekers",
             "options": [
-                {
-                    "type": 1,
-                    "name": "lightseekers_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "piggyback_lightseeker",
@@ -551,12 +505,7 @@
             "type": 2,
             "name": "shattering",
             "options": [
-                {
-                    "type": 1,
-                    "name": "shattering_guide",
-                    "description": "traveler",
-                    "options": []
-                },
+
                 {
                     "type": 1,
                     "name": "jellyfish_tree",
@@ -585,31 +534,6 @@
             "description": "season"
         },
         {
-            "type": 2,
-            "name": "basics",
-            "options": [
-                {
-                    "type": 1,
-                    "name": "pointing_candlemaker",
-                    "description": "traveler",
-                    "options": []
-                },
-                {
-                    "type": 1,
-                    "name": "ushering_stargazer",
-                    "description": "traveler",
-                    "options": []
-                },
-                {
-                    "type": 1,
-                    "name": "rejecting_voyager",
-                    "description": "traveler",
-                    "options": []
-                }
-            ],
-            "description": "season"
-        },
-        {
             "type":1,
             "name":"seasons",
             "description":"Sky",
@@ -620,8 +544,7 @@
             "name":"help",
             "description":"How to use the Rosinante bot?",
             "options":[]
-        }
-        
+        }    
     ],
     "name":"rs",
     "description":"Rosinante"

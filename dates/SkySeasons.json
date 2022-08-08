@@ -3,19 +3,19 @@
         "Name": "Performance",
         "Travelers":[
             {
-                "File": ["img/seasons/Performance/Frantic_Stagehand/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1XZwTP7oewJ2rxOQ0oRFi2wWYDJ374Yi8"],
                 "Name": "Frantic_Stagehand"
             },
             {
-                "File": ["img/seasons/Performance/Forgetful_Storyteller/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1MOv5ATob7oMFM6UbrdrfCNcwaxEMwKAj"],
                 "Name": "Forgetful_Storyteller"
             },
             {
-                "File": ["img/seasons/Performance/Mellow_Musician/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1CjHFU9ZN3pA7NRsBNv0xpERsr0aBU-K7"],
                 "Name": "Mellow_Musician"
             },
             {
-                "File": ["img/seasons/Performance/Modest_Dancer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1TBbFuwFbAUYpcE-cgfGIh8_ly2Nlu6h_"],
                 "Name": "Modest_Dancer"
             }
         ]    
@@ -24,20 +24,20 @@
         "Name": "Abyss",
         "Travelers":[
             {
-                "File": ["img/seasons/Abyss/Anxious_Angler/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1GuDVA98NMMHMssYhq2xEnIrBpXzRAguE"],
                 "Name": "Anxious_Angler"
             }
             ,
             {
-                "File": ["img/seasons/Abyss/Ceasing_Commodore/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1mgLlk1LPyaVP1a8AjeeAEZ8xXShiaZ4d"],
                 "Name": "Ceasing_Commodore"
             },
             {
-                "File": ["img/seasons/Abyss/Bumbling_Boatswain/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1SvngUxpr28YE2WBEK6fALzpFQ0cj1_Kc"],
                 "Name": "Bumbling_Boatswain"
             },
             {
-                "File": ["img/seasons/Abyss/Cackling_Cannoneer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1o1N2GfrF4xIVoDzHcU1MuB1asbI8ne--"],
                 "Name": "Cackling_Cannoneer"
             }
         ]
@@ -47,23 +47,23 @@
         "Name": "Flight",
         "Travelers":[
             {
-                "File": ["img/seasons/Flight/Flight_Guide/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1smKq-9qdHhssfEJ06RT675siOvYutZFl"],
                 "Name": "Flight_Guide"
             },
             {
-                "File": ["img/seasons/Flight/Lively_Navigator/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1SxidzwUCPf3xRWDxG7mmdeO_0M7SHPJp"],
                 "Name": "Lively_Navigator"
             },
             {
-                "File": ["img/seasons/Flight/Light_Whisperer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1Vp5sA36HQIA0x_43FTRxPmYlG-XiHqdT"],
                 "Name": "Light_Whisperer"
             },
             {
-                "File": ["img/seasons/Flight/Tinkering_Chimesmith/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1Sb1EClkEGudUphmHzjo8_Ce3B61ARtf7"],
                 "Name": "Tinkering_Chimesmith"
             },
             {
-                "File": ["img/seasons/Flight/Talented_Builder/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1cGyNtqz6TVVuUCKF6H6HVpMQcMSXy6NF"],
                 "Name": "Talented_Builder"
             }
         ]
@@ -73,27 +73,27 @@
         "Name": "The_Little_Prince",
         "Travelers":[
             {
-                "File": ["img/seasons/The_Little_Prince/Beckoning_Ruler/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1lf5B6jdd7qKufKRl2OD1ASQUegyds22P"],
                 "Name": "Beckoning_Ruler"
             },
             {
-                "File": ["img/seasons/The_Little_Prince/Gloating_Narcissist/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=113GrUtSEvwDJYo7apx9nsK6GtH14WVKG"],
                 "Name": "Gloating_Narcissist"
             },
             {
-                "File": ["img/seasons/The_Little_Prince/Stretching_Lamplighter/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1KQT522dplEhwAxwyUL84Jfax1wG0uAqR"],
                 "Name": "Stretching_Lamplighter"
             },
             {
-                "File": ["img/seasons/The_Little_Prince/Slouching_Soldier/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1WFOHX5I8EIt0Mkfez1fPII1BwgS2cJ8o"],
                 "Name": "Slouching_Soldier"
             },
             {
-                "File": ["img/seasons/The_Little_Prince/Sneezing_Geographer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=10lZyTQQrPiratVWIwuppOyNYlpO5txAF"],
                 "Name": "Sneezing_Geographer"
             },
             {
-                "File": ["img/seasons/The_Little_Prince/Star_Collector/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=11Ld0dL9ghFWtBGLl1uw5JTtRcBraFr-f"],
                 "Name": "Star_Collector"
             }
         ]     
@@ -102,31 +102,31 @@
         "Name": "Assembly",
         "Travelers":[
             {
-                "File": ["img/seasons/Assembly/Assembly_Guide/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1vtfYWBnx1yoO4QlDW7ETk5geF0VbSYSq"],
                 "Name": "Assembly_Guide"        
             },
             {
-                "File": ["img/seasons/Assembly/Baffled_Botanist/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1BGA3xLfgL6DNsPeRKm1BRNJwrctTGxNj"],
                 "Name": "Baffled_Botanist"
             },
             {
-                "File": ["img/seasons/Assembly/Scolding_Student/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1PqUUNqF6vG0Zd6UIF3catempRC6zLKP9"],
                 "Name": "Scolding_Student"
             },
             {
-                "File": ["img/seasons/Assembly/Scaredy_Cadet/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1INz3fPMxAHxaGoLDXd4k_qX4iWq10sXr"],
                 "Name": "Scaredy_Cadet"
             },
             {
-                "File": ["img/seasons/Assembly/Marching_Adventurer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1INz3fPMxAHxaGoLDXd4k_qX4iWq10sXr"],
                 "Name": "Marching_Adventurer"
             },
             {
-                "File": ["img/seasons/Assembly/Chuckling_Scout/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1KaxQBmGx3ibdwy5GpBbxbo3Ik0C_I1_T"],
                 "Name": "Chuckling_Scout"
             },
             {
-                "File": ["img/seasons/Assembly/Daydream_Forester/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1-T52gURzaxmvwFmtyJca5bCU1jkneudS"],
                 "Name": "Daydream_Forester"
             }
         ]    
@@ -135,19 +135,19 @@
         "Name": "Dreams",
         "Travelers":[
             {
-                "File": ["img/seasons/Dreams/Bearhug_Hermit/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=101msxsaqVmloNuNlNErGzTBvUwBxSTkF"],
                 "Name": "Bearhug_Hermit"
             },
             {
-                "File": ["img/seasons/Dreams/Dancing_Performer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1iW7_XuBZ9Z3Rw4ElLqTxeNoq8patxQvv"],
                 "Name": "Dancing_Performer"
             },
             {
-                "File": ["img/seasons/Dreams/Peeking_Postman/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1JrAzjsrToLxul_xTIdOU1JJnNZ6KE24L"],
                 "Name": "Peeking_Postman"
             },
             {
-                "File": ["img/seasons/Dreams/Spinning_Mentor/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1nb_bneME3oaAB_h1oeyu4arQsWaKlwF3"],
                 "Name": "Spinning_Mentor"
             }
         ]     
@@ -156,19 +156,19 @@
         "Name": "Prophecy",
         "Travelers":[
             {
-                "File": ["img/seasons/Prophecy/Prophet_of_Water/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1kUUdVx61GWZ5iADWkW8xmgITCGAhs7ax"],
                 "Name": "Prophet_of_Water"
             },
             {
-                "File": ["img/seasons/Prophecy/Prophet_of_Earth/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1gT3fFcsW7RkHTvQ6u4vruQvzd0nfURNU"],
                 "Name": "Prophet_of_Earth"
             },
             {
-                "File": ["img/seasons/Prophecy/Prophet_of_Air/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1r6EFhvy5o7CTtY9jBrTD5nqzHMEkE2gn"],
                 "Name": "Prophet_of_Air"
             },
             {
-                "File": ["img/seasons/Prophecy/Prophet_of_Fire/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1_-VbInOEcUIvvVQ8G_LDtiuXiryfxEDC"],
                 "Name": "Prophet_of_Fire"
             }
         ]
@@ -177,27 +177,27 @@
         "Name": "Santuary",
         "Travelers":[
             {
-                "File": ["img/seasons/Santuary/Timid_Bookworm/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1mn_HtW7hCaM17A1eAWSfxW8ufAzU4QDd"],
                 "Name": "Timid_Bookworm"
             },
             {
-                "File": ["img/seasons/Santuary/Rallying_Thrillseeker/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1QSPaHRx-0eeffyyICgLF4-sNXYgikZEc"],
                 "Name": "Rallying_Thrillseeker"
             },
             {
-                "File": ["img/seasons/Santuary/Hiking_Grouch/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1pR67weFr-qgjGY0-cVMldTJ2PrL0tRZU"],
                 "Name": "Hiking_Grouch"
             },
             {
-                "File": ["img/seasons/Santuary/Grateful_Shell_Collector/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1CWiHhLJkC995lgC7YhmuSvIcNijZUwLO"],
                 "Name": "Grateful_Shell_Collector"
             },
             {
-                "File": ["img/seasons/Santuary/Chill_Sunbather/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1_6hhjhaeZkiul6LVwJrAqg9CeeNBQPNo"],
                 "Name": "Chill_Sunbather"
             },
             {
-                "File": ["img/seasons/Santuary/Jelly_Whisperer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1HzzIldME9NRxwlf13zvxLCZeaBr6JVkR"],
                 "Name": "Jelly_Whisperer"
             }
         ]
@@ -206,27 +206,27 @@
         "Name": "Enchantment",
         "Travelers":[
             {
-                "File": ["img/seasons/Enchantment/Nodding_Muralist/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1M4LtYG945qh8jFYReJMk5SuWUSodeeyD"],
                 "Name": "Nodding_Muralist"
             },
             {
-                "File": ["img/seasons/Enchantment/Indifferent_Alchemist/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1cEmpQ4nBuOUJkzYrK4e-c0ex0F3ho8Wd"],
                 "Name": "Indifferent_Alchemist"
             },
             {
-                "File": ["img/seasons/Enchantment/Crab_Walker/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1iIhWCw_gBa_9QFMIM85mJe4R8wlHo3g8"],
                 "Name": "Crab_Walker"
             },
             {
-                "File": ["img/seasons/Enchantment/Scarecrow_Farmer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1qxtKP2b8By6s-qTFk05eA5ad2shjkd8B"],
                 "Name": "Scarecrow_Farmer"
             },
             {
-                "File": ["img/seasons/Enchantment/Snoozing_Carpenter/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1tz2F0ghbLRYt2iNqIh1Unpsc937FjJDk"],
                 "Name": "Snoozing_Carpenter"
             },
             {
-                "File": ["img/seasons/Enchantment/Playfighting_Herbalist/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1LV7ZDJycisBnsjt6KdtX2ucrVcKtwJjZ"],
                 "Name": "Playfighting_Herbalist"
             }
         ]
@@ -235,27 +235,27 @@
         "Name": "Rhythm",
         "Travelers":[
             {
-                "File": ["img/seasons/Rhythm/Troupe_Greeter/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1Voy2vvl9iRJ9JV3E1e_hOgifyeSAKR8z"],
                 "Name": "Troupe_Greeter"
             },
             {
-                "File": ["img/seasons/Rhythm/Festival_Spin_Dancer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1axW5z44BoBXkgXbfbmTw4tGyYd4UVtYf"],
                 "Name": "Festival_Spin_Dancer"
             },
             {
-                "File": ["img/seasons/Rhythm/Admiring_Actor/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1fabRz3gBaYQyECW3Fv0zYJYCW3k5tGfK"],
                 "Name": "Admiring_Actor"
             },
             {
-                "File": ["img/seasons/Rhythm/Troupe_Juggler/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1PyIUbd9F1McbMEIg4R6D-Smb1CyIGXeu"],
                 "Name": "Troupe_Juggler"
             },
             {
-                "File": ["img/seasons/Rhythm/Respectful_Pianist/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1I2LPXFO-yb34ao1K-zLn5EzUJ3-zvUU7"],
                 "Name": "Respectful_Pianist"
             },
             {
-                "File": ["img/seasons/Rhythm/Thoughtful_Director/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1liwr3e8mIQUWdxyklfpyBTxxWZGjhXGF"],
                 "Name": "Thoughtful_Director"
             }
         ]
@@ -264,27 +264,27 @@
         "Name": "Belonging",
         "Travelers":[
             {
-                "File": ["img/seasons/Belonging/Confetti_Cousin/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1sn3ON1OT-dmLVaXLHHH1p5OmJ7whanvD"],
                 "Name": "Confetti_Cousin"
             },
             {
-                "File": ["img/seasons/Belonging/Boogie_Kid/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1liwr3e8mIQUWdxyklfpyBTxxWZGjhXGF"],
                 "Name": "Boogie_Kid"
             },
             {
-                "File": ["img/seasons/Belonging/Sparkler_Parent/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1iqXaL7amdRuQHjfFto89Zz1h_HeuBnqC"],
                 "Name": "Sparkler_Parent"
             },
             {
-                "File": ["img/seasons/Belonging/Wise_Grandparent/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1l4w2h5a-LVWdHC8j82xhZgwW_eXOwJAH"],
                 "Name": "Wise_Grandparent"
             },
             {
-                "File": ["img/seasons/Belonging/Pleaful_Parent/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1UG4g8Dpl9liZOkFSJWeQChz3kQdTzsks"],
                 "Name": "Pleaful_Parent"
             },
             {
-                "File": ["img/seasons/Belonging/Hairtousle_Teen/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1SQFl6G-F7TPtJZYEBf8gCbFOr1xvLJ8y"],
                 "Name": "Hairtousle_Teen"
             }
         ]
@@ -293,27 +293,27 @@
         "Name": "Lightseekers",
         "Travelers":[
             {
-                "File": ["img/seasons/Lightseekers/Piggyback_Lightseeker/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1sS2wcyV4v5Tg__5hc_B7z7AeUtmEOwlm"],
                 "Name": "Piggyback_Lightseeker"
             },
             {
-                "File": ["img/seasons/Lightseekers/Doublefive_Light_Catcher/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1XStxXL_LXHXWVX7haJacLY8H89uJIgsh"],
                 "Name": "Doublefive_Light_Catcher"
             },
             {
-                "File": ["img/seasons/Lightseekers/Laidback_Pioneer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=19_YPTABYW8JdQKKOCFPlc6hP7wOVQQkO"],
                 "Name": "Laidback_Pioneer"
             },
             {
-                "File": ["img/seasons/Lightseekers/Twirling_Champion/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1s-Az_muZN6OtnBEhDVJRgEbxCfbErp1R"],
                 "Name": "Twirling_Champion"
             },
             {
-                "File": ["img/seasons/Lightseekers/Crab_Whisperer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1oFcRatDUxMDsyi8sF5I10A32u8CHtuP_"],
                 "Name": "Crab_Whisperer"
             },
             {
-                "File": ["img/seasons/Lightseekers/Shushing_Light_Scholar/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=10vM2_zOzoEhelsfaz6A5XUoaH8MWkX5Z"],
                 "Name": "Shushing_Light_Scholar"
             }
         ]
@@ -322,23 +322,23 @@
         "Name": "Gratitude",
         "Travelers":[
             {
-                "File": ["img/seasons/Gratitude/Sassy_Drifter/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=17fzdkPWKdmgCFIubISN1VgC_kMIAyLPQ"],
                 "Name": "Sassy_Drifter"
             },
             {
-                "File": ["img/seasons/Gratitude/Stretching_Guru/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1QNgR1now3oEp3lZLJDgp8zV8sBHPlBvL"],
                 "Name": "Stretching_Guru"
             },
             {
-                "File": ["img/seasons/Gratitude/Leaping_Dancer/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1-y7IN-0ojqCAMw6LmVBbhWmjShDoNqzl"],
                 "Name": "Leaping_Dancer"
             },
             {
-                "File": ["img/seasons/Gratitude/Greeting_Shaman/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1YB9Q185u4p9R1t7GLJ205vK_Re7J_1HU"],
                 "Name": "Greeting_Shaman"
             },
             {
-                "File": ["img/seasons/Gratitude/Saluting_Protector/Traveler.png"],
+                "File": ["https://drive.google.com/uc?id=1tjtoCM8Fqwe6PQLXNUqZnUb2JQdgq0Lz"],
                 "Name": "Saluting_Protector"
             }
         ]

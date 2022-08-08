@@ -10,9 +10,9 @@ module.exports = {
                                 () => HELP_TITLE_FIELD,
                                 () => HELP_COMMENT,
                                 undefined,
-                                HELP_IMAGE,
+                                GIF_HELP,
                                 TYPE = 1);
 
-        return initr.reply({ embeds: [embed], files: [`./${GIF_HELP}`] });    
+        return initr.reply({ embeds: [embed]});    
     }
 }

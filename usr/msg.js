@@ -20,18 +20,18 @@ module.exports = {
             image = undefined, 
             TYPE = 0) => {
         
-        const embed = new MessageEmbed()
+        const embed = new MessageEmbed()        
         .setTitle(title)
         .setAuthor(initr.user.username, initr.user.displayAvatarURL())
-        .setColor(rolHexColor(initr));
+        .setColor(rolHexColor(initr))
+        .setImage(image);
+
         if (!!DATA && TYPE === 0) 
             DATA.forEach(
                 (x, y) => embed.addField(FIELDPROGTITLE(y, x), FIELDPROGCOMMENT(x), true)
             );
         else if (TYPE === 1)
             embed.addField(FIELDPROGTITLE(), FIELDPROGCOMMENT());
-
-        if(!!image) embed.setImage(image);
 
         return embed;
     }

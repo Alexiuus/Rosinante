@@ -1,6 +1,6 @@
 READY_CONSOLE = "[Activo] Bot a iniciado como";
 DEFAULTCOLOR = "YELLOW";
-GIF_HELP = "img/Help.gif";
+GIF_HELP = "https://drive.google.com/uc?id=11CfJSCKKlA7pfF07yHjh5Ktz1K4HW3SD";
 
 HELP_TITLE = ':white_check_mark: Rosinante Guide :blush:';
 HELP_TITLE_FIELD = 'How to use Rosinante:grey_question:';
@@ -8,8 +8,6 @@ HELP_COMMENT = ":one: If you use **/rs seasons** Rosinante will respond with \`S
 \n\n :two: If you use **/rs** \`<season> <traveler>\` (<season> is the season you want to watch \
 Rosinante and <traveler> is the traveler you want to watch) Rosinante will respond with your \
 accessories with a photo.";
-
-HELP_IMAGE = 'attachment://' + GIF_HELP;
 
 SEASONOP_TITLE = '☆｡Sky Seasons｡☆';
 SEASONOP_TITLE_FIELD = (x,y) => `:sparkles: ${x}-${y.Name}`;
@@ -45,7 +43,6 @@ module.exports = {
     HELP_TITLE,
     HELP_TITLE_FIELD,
     HELP_COMMENT,
-    HELP_IMAGE,
     
     SEASONOP_TITLE,
     SEASONOP_TITLE_FIELD,

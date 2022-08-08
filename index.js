@@ -26,8 +26,8 @@ async function updateStatus() {
     const memberNum = await client. guilds.cache.reduce(
         (prev, guild) => prev + guild.memberCount, 0
     );
-    */ 
     console.log(guildNum, memberNum);
+    */ 
     await client.user.setActivity(`/rs help`, {type: "LISTENING"});   
 }
 

@@ -488,12 +488,6 @@
                 },
                 {
                     "type": 1,
-                    "name": "golden_wasteland",
-                    "description": "traveler",
-                    "options": []
-                },
-                {
-                    "type": 1,
                     "name": "greeting_shaman",
                     "description": "traveler",
                     "options": []

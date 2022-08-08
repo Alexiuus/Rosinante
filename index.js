@@ -21,10 +21,12 @@ commandFile.forEach(
 ///////////////////////////// BOT REAL /////////////////////////////
 
 async function updateStatus() {
+    /*
     const guildNum = await client.guilds.cache.size;
     const memberNum = await client. guilds.cache.reduce(
         (prev, guild) => prev + guild.memberCount, 0
-    ); 
+    );
+    */ 
     console.log(guildNum, memberNum);
     await client.user.setActivity(`/rs help`, {type: "LISTENING"});   
 }

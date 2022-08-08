@@ -26,13 +26,13 @@ async function updateStatus() {
         (prev, guild) => prev + guild.memberCount, 0
     ); 
     console.log(guildNum, memberNum);
-    //await client.user.setActivity(`Servers: ${guildNum}`, {type: "LISTENING"});   
+    await client.user.setActivity(`/rs help`, {type: "LISTENING"});   
 }
-/*
+
 setInterval(() => {
     updateStatus();
-}, 5000);
-*/
+}, 60000);
+
 client.on("ready", () => {
     console.log(READY_CONSOLE, client.user.tag);
 });

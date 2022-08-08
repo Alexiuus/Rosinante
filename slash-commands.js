@@ -16,7 +16,6 @@ async function createSlash(){
         commandsFile.forEach(
             field => {
                 const command = require(`./commands/${field}`);
-                console.log(typeof command.data);
                 commands.push(command.data);
             }
         );

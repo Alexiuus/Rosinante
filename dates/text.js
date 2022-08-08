@@ -8,7 +8,7 @@ HELP_TITLE_FIELD = 'How to use Rosinante:grey_question:';
 
 
 HELP_COMMENT = ":one: If you use **/rs seasons** Rosinante will respond with \`Sky seasons\`.\
-\n\n :two: If you use /rs **<season> <traveler>** (<season> is the season you want to see \
+\n\n :two: If you use **/rs** \`<season> <traveler>\` (<season> is the season you want to see \
 Rosinante and <traveler> is the traveler you want to see) Rosinante will reply with her \
 props in a photo. \n\n Upcoming implantations: \n :o: Add house spirits. \n:o: Command to show \
 the location of the traveler. \n:o: More worked editions. \n:o: Translation to Spanish. \

@@ -7,8 +7,10 @@ HELP_TITLE_FIELD = 'How to use Rosinante:grey_question:';
 HELP_COMMENT = ":one: If you use **/rs seasons** Rosinante will respond with \`Sky seasons\`.\
 \n\n :two: If you use **/rs** \`<season> <traveler>\` (<season> is the season you want to watch \
 Rosinante and <traveler> is the traveler you want to watch) Rosinante will respond with your \
-accessories with a photo. \n\n Drawing: \`AdryOroz#1953\`. \n For any suggestion: \`Alexis77#8213\`. \
-\n bot link: https://discord.bots.gg/bots/836088384375619584";
+accessories with a photo. \n\n Upcoming implantations: \n :o: Add house spirits. \n:o: Command to show \
+the location of the traveler. \n:o: More worked editions. \n:o: Translation to Spanish. \
+\n\n Drawing: \`AdryOroz#1953\`. \n For any suggestion: \`Alexis77#8213\`. \
+\n bot link: https://discord.bots.gg/bots/836088384375619584 ";
 
 SEASONOP_TITLE = '☆｡Sky Seasons｡☆';
 SEASONOP_TITLE_FIELD = (x,y) => `:sparkles: ${x}-${y.Name}`;

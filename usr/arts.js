@@ -1,5 +1,4 @@
 const msg = require('./msg.js');
-const fs = require('fs');
 
 module.exports = {
     async run(path, TRAVELER, initr) {

@@ -2,7 +2,7 @@
 module.exports = {
     READY_CONSOLE : "[Activo] Bot a iniciado como",
     DEFAULTCOLOR : "YELLOW",
-    GIF_HELP : "https://drive.google.com/uc?id=11CfJSCKKlA7pfF07yHjh5Ktz1K4HW3SD",
+    GIF_HELP : "https://drive.google.com/uc?id=1eu4rblpU5R0q1D8LCxIWFQAFy4s7DbHQ",
     
     HELP_TITLE : ':white_check_mark: Rosinante Guide :blush:',
     HELP_TITLE_FIELD : 'How to use Rosinante:grey_question:',

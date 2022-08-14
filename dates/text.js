@@ -10,7 +10,9 @@ module.exports = {
     HELP_COMMENT : ":one: If you use **/rs seasons** Rosinante will respond with \`Sky seasons\`.\
     \n\n :two: If you use **/rs** \`<season> <traveler>\` (<season> is the season you want to see \
     Rosinante and <traveler> is the traveler you want to see) Rosinante will reply with her \
-    props in a photo. \n\n Upcoming implantations: \n:o: Command to show the location of the \
+    props in a photo. \n\n :three: if you use **/rs** \`<area>\` (<area> is the area you want to see. \
+    Example: /rs Valley_of_Triumph) Rosinante will respond with photos of travelers in the area \
+    (the location). \n\nUpcoming implantations: \n:o: Command to show the location of the \
     traveler. \n:o: More worked editions. \n:o: Translation to Spanish. \
     \n\n Drawing: \`AdryOroz#1953\`. \n For any suggestion: \`Alexis77#8213\`. \
     \n bot link: https://discord.bots.gg/bots/836088384375619584 ",

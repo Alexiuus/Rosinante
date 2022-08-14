@@ -1,6 +1,6 @@
-const { MessageEmbed } = require('discord.js');
+const { EmbedBuilder } = require('discord.js');
 require('../dates/text.js');
-
+/*
 function rolHexColor(initr){
     const roles = initr.guild.roles.cache;
     const rol = roles.find(r => (roles.get(r.id).members.filter(
@@ -9,6 +9,21 @@ function rolHexColor(initr){
     );
     
     return (rol !== undefined)? rol.hexColor: DEFAULTCOLOR;
+}
+*/
+
+function fieldsData(DATA, FIELDPROGTITLE, FIELDPROGCOMMENT){
+    return DATA.reduce(
+        (x,y,z) => (z < 13)? x.concat(
+            {
+                name: FIELDPROGTITLE(y), 
+                value: FIELDPROGCOMMENT(y),
+            }
+        ) : x 
+    , []).concat({
+        name: 'More info:', 
+        value: 'https://sky-children-of-the-light.fandom.com/wiki/Seasonal_Events'
+    });
 }
 
 module.exports = {
@@ -20,18 +35,20 @@ module.exports = {
             image = undefined, 
             TYPE = 0) => {
         
-        const embed = new MessageEmbed()        
-        .setTitle(title)
-        .setAuthor(initr.user.username, initr.user.displayAvatarURL())
-        .setColor(rolHexColor(initr))
-        .setImage(image);
+        /*
+        const fields = (!!DATA && TYPE === 0)? fieldsData(DATA, FIELDPROGTITLE, FIELDPROGCOMMENT) : 
+                        ((TYPE === 1)? { name: "", file: "" }: []);
+        */
 
-        if (!!DATA && TYPE === 0) 
-            DATA.forEach(
-                (x, y) => embed.addField(FIELDPROGTITLE(y, x), FIELDPROGCOMMENT(x), true)
-            );
-        else if (TYPE === 1)
-            embed.addField(FIELDPROGTITLE(), FIELDPROGCOMMENT());
+        const fields = (!!DATA && TYPE === 0)? fieldsData(DATA, FIELDPROGTITLE, FIELDPROGCOMMENT) : 
+                        ((TYPE === 1)? [{ name: FIELDPROGTITLE(), value: FIELDPROGCOMMENT() }]: []);
+        
+        const embed = new EmbedBuilder()        
+        .setTitle(title)
+        .setAuthor({ name: initr.user.username, iconURL: initr.user.displayAvatarURL()})
+        .setColor('#ffc133')
+        .setImage(image)
+        .addFields(fields);
 
         return embed;
     }

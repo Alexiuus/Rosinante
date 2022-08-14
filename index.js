@@ -1,9 +1,8 @@
 const fs = require('fs');
-require('./dates/text.js');
+const {READY_CONSOLE, } = require('./dates/text.js');
 require('dotenv').config();
-
-const { Client, Intents, Collection} = require('discord.js');
-const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
+const { Client, GatewayIntentBits, Collection} = require('discord.js');
+const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 
 ///////////////////////////// CONSTANTS /////////////////////////////
@@ -40,6 +39,7 @@ client.on("ready", () => {
 });
 
 client.on("interactionCreate", async interaction => {
+
     if(!interaction.isCommand() && interaction.user.bot === true) return
     const command = client.commands.get(interaction.commandName);
     if(!command) return

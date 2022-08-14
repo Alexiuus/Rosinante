@@ -1,6 +1,7 @@
 [
     {
         "Name": "Performance",
+        "Date": "April 2022 - June 2022.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1XZwTP7oewJ2rxOQ0oRFi2wWYDJ374Yi8"],
@@ -22,6 +23,7 @@
     },
     {
         "Name": "Abyss",
+        "Date": "January 2022 - March 2022.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1GuDVA98NMMHMssYhq2xEnIrBpXzRAguE"],
@@ -45,6 +47,7 @@
     },
     {
         "Name": "Flight",
+        "Date": "October 2021 - December 2021.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1smKq-9qdHhssfEJ06RT675siOvYutZFl"],
@@ -71,6 +74,7 @@
     },
     {
         "Name": "The_Little_Prince",
+        "Date": "July 2021 - September 2021.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1lf5B6jdd7qKufKRl2OD1ASQUegyds22P"],
@@ -100,6 +104,7 @@
     },
     {
         "Name": "Assembly",
+        "Date": "April 2021 - June 2021.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1vtfYWBnx1yoO4QlDW7ETk5geF0VbSYSq"],
@@ -133,6 +138,7 @@
     },
     {
         "Name": "Dreams",
+        "Date": "January 2021 - March 2021.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=101msxsaqVmloNuNlNErGzTBvUwBxSTkF"],
@@ -154,6 +160,7 @@
     },
     {
         "Name": "Prophecy",
+        "Date": "October 2020 - December 2020.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1kUUdVx61GWZ5iADWkW8xmgITCGAhs7ax"],
@@ -175,6 +182,7 @@
     },
     {
         "Name": "Santuary",
+        "Date": "July 2020 - September 2020.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1mn_HtW7hCaM17A1eAWSfxW8ufAzU4QDd"],
@@ -204,6 +212,7 @@
     },
     {
         "Name": "Enchantment",
+        "Date": "April 2020 - June 2020.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1M4LtYG945qh8jFYReJMk5SuWUSodeeyD"],
@@ -233,6 +242,7 @@
     },
     {
         "Name": "Rhythm",
+        "Date": "January 2020 - March 2020.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1Voy2vvl9iRJ9JV3E1e_hOgifyeSAKR8z"],
@@ -262,6 +272,7 @@
     },
     {
         "Name": "Belonging",
+        "Date": "November 2019 - December 2019.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1sn3ON1OT-dmLVaXLHHH1p5OmJ7whanvD"],
@@ -291,6 +302,7 @@
     },
     {
         "Name": "Lightseekers",
+        "Date": "September 2019 - October 2019.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=1sS2wcyV4v5Tg__5hc_B7z7AeUtmEOwlm"],
@@ -320,6 +332,7 @@
     },
     {
         "Name": "Gratitude",
+        "Date": "July 2019 - August 2019.",
         "Travelers":[
             {
                 "File": ["https://drive.google.com/uc?id=17fzdkPWKdmgCFIubISN1VgC_kMIAyLPQ"],
@@ -340,6 +353,146 @@
             {
                 "File": ["https://drive.google.com/uc?id=1tjtoCM8Fqwe6PQLXNUqZnUb2JQdgq0Lz"],
                 "Name": "Saluting_Protector"
+            }
+        ]
+    },
+    {
+        "Name": "Isle_of_dawn",
+        "Date": "In this area, basic mechanics and collectibles throughout the game are introduced.",
+        "Files": [
+            {
+                "File":["https://drive.google.com/uc?id=1szQqD64tbdVO9ERpxzHuSngvLPqVKTwy"],
+                "Name": "Constelation"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1tiEmLIpSweA8xqSqv_xRJeg4x3sw4P-N"],
+                "Name": "Main_Island"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1fJnbZMEO9nHs1Pyj1uNuUVpW_AbfZ-Cs"],
+                "Name": "Temple"
+            }
+        ]
+    },
+    {
+        "Name": "Daylight_Prairie",
+        "Date": "Ring the bell towers and reveal your path",
+        "Files": [
+            {
+                "File":["https://drive.google.com/uc?id=1qNr7_UQQl5FBkKeSPKqk3mQuTBwbhBCk"],
+                "Name": "Birds_Nest"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1ngkGYNvxvTrZPPUeWLTLIaLTJpNZGQ8o"],
+                "Name": "Butterfly_Fields"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1xjBc-CDz7zGtor7pBgmGJx_G-nbbXZTD"],
+                "Name": "Praire_Cave"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1uL3hfwpMH15XRbMP7YGN4pvdh4aDdLsl"],
+                "Name": "Village_Islands"
+            }
+        ]
+    },
+    {
+        "Name": "Hidden_Forest",
+        "Date": "Protect your light and find the source of Ancient Power",
+        "Files": [
+            {
+                "File":["https://drive.google.com/uc?id=13vWk1YfTeEvb8aEKMygoATkH8M5ONitG"],
+                "Name": "Rain(1st_Part)"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=16CRg6l5-5axkEjX_lRNr60JPOjJ8O40R"],
+                "Name": "Forest_Brook(1st_Part)"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1Uq7zZN7nEIKTylIU1ALfYvskEefuHInT"],
+                "Name": "Forest_Brook(2st_Part)"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1I1m-SK4C93d65-ukS5Uglc6UsyyOKHOS"],
+                "Name": "Broken_Brigde(1st_Part)"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1t_y3Zp5xKpWBVHxpiVULudUEUehSFd-r"],
+                "Name": "Broken_Brigde(2st_Part)"
+            }
+        ]
+    },
+    {
+        "Name": "Valley_of_Triumph",
+        "Date": "Race down the ridge, and the city gates will open to honor you",
+        "Files": [
+            {
+                "File":["https://drive.google.com/uc?id=1Y4eP5qXS5JKgnsVGumg5G5wNMLokFiXa"],
+                "Name": "Ice_Rink"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1w48Qh-swY4kFsDAp0CUM6VZK0uCD67EW"],
+                "Name": "Citadel"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1_mkzDhyzVuqveZdz3l2PIUVycJWE-uSl"],
+                "Name": "Coliseum"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1QFk7_FQkZ0O1jFraM_ZjeNdlCEmHx4y5"],
+                "Name": "Temple"
+            }
+        ]
+    },
+    {
+        "Name": "Golden_Wasteland",
+        "Date": "Beyond the barren wastes, the Vault of Knowledge awaits",
+        "Files": [
+            {
+                "File":["https://drive.google.com/uc?id=1if4-TQ-MK2DOvC19HcgNH8cn5jZ4UavL"],
+                "Name": "Broken_Temple"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1rwXEKK2f78rH4YZMj3mWB-sGaAw0dOFq"],
+                "Name": "First_Krill_Area"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1U9nvJOgfS0EXtJM47gP1TmY9Lb7FyTER"],
+                "Name": "Graveyard"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=17L3tbgAFwUlWCfzgP5b1wO9Arjjhm5p1"],
+                "Name": "Crab_Fields"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1xSdrqaVnKwQ6Tfx_fqMT2BkRO-iMRJaW"],
+                "Name": "Battlefield"
+            }
+        ]
+    },
+    {
+        "Name": "Vault_of_Knowledge",
+        "Date": "Climb the Vault, its wisdom awaits",
+        "Files": [
+            {
+                "File":["https://drive.google.com/uc?id=1E0bGT5FUQ_5SEC2bf_b0iVUXi1cOf6ed"],
+                "Name": "First_Area"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1XmpSH7sQe8rTCiK6WUdQmlbq-d9c6_Po"],
+                "Name": "Elevator"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1HPsX7UWTTHPwRJVM3YedbOVzOsNtUyEj"],
+                "Name": "Second_Level"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1UF0q5r--placzrjk2lSbZLR_7xnEbsni"],
+                "Name": "Third_Level"
+            },
+            {
+                "File":["https://drive.google.com/uc?id=1k32sowpWe2fuuB_NeOqOyRLP5WdkPyfN"],
+                "Name": "Fourth_Level"
             }
         ]
     }

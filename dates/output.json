@@ -529,6 +529,42 @@
         },
         {
             "type":1,
+            "name":"isle_of_dawn",
+            "description":"Sky Home",
+            "options":[]
+        },
+        {
+            "type":1,
+            "name":"daylight_prairie",
+            "description":"Sky Home",
+            "options":[]
+        },
+        {
+            "type":1,
+            "name":"hidden_forest",
+            "description":"Sky Home",
+            "options":[]
+        },
+        {
+            "type":1,
+            "name":"valley_of_triumph",
+            "description":"Sky Home",
+            "options":[]
+        },
+        {
+            "type":1,
+            "name":"golden_wasteland",
+            "description":"Sky Home",
+            "options":[]
+        },
+        {
+            "type":1,
+            "name":"vault_of_knowledge",
+            "description":"Sky Home",
+            "options":[]
+        },
+        {
+            "type":1,
             "name":"seasons",
             "description":"Sky",
             "options":[]

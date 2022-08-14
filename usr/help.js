@@ -1,6 +1,6 @@
 const msg = require('./msg.js');
 
-require('../dates/text.js');
+const { HELP_TITLE, HELP_COMMENT, HELP_TITLE_FIELD, GIF_HELP } = require('../dates/text.js');
 
 
 module.exports = {

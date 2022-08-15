@@ -1,7 +1,7 @@
 const fs = require('fs');
 const {READY_CONSOLE, } = require('./dates/text.js');
 require('dotenv').config();
-const { Client, GatewayIntentBits, Collection} = require('discord.js');
+const { Client, GatewayIntentBits, Collection, ActivityType} = require('discord.js');
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 
@@ -27,11 +27,11 @@ async function updateStatus() {
     );
     console.log(guildNum, memberNum);
     */ 
-    await client.user.setActivity(`/rs help`, {type: "LISTENING"});   
+    await client.user.setActivity(`/rs help`, {type: ActivityType.Watching});   
 }
 
 setInterval(() => {
-    updateStatus();
+    client.user.setActivity(`/rs help`, {type: ActivityType.Listening});
 }, 60000);
 
 client.on("ready", () => {
